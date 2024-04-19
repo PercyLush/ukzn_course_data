@@ -1,7 +1,7 @@
 import json
 
-path1 = "C:\\Users\\Bheki Lushaba\\course-data\\CourseData_Final\\University of KwaZulu-Natal.json"
-path2 = "C:\\Users\\Bheki Lushaba\\Desktop\\ukzn_course_data\\StructuredData.json"
+path1 = "C:\\Users\\Bheki Lushaba\\Desktop\\ukzn_course_data\\BA PPL.json"
+path2 = "C:\\Users\\Bheki Lushaba\\Desktop\\ukzn_course_data\\Cleaned.json"
 
 with open(path1, "r", encoding="utf-8") as file1, open(path2, "r", encoding="utf-8") as file2:
     original_data = json.load(file1)

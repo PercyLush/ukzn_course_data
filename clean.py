@@ -1,18 +1,16 @@
 import json 
 import re
 
-path = "C:\\Users\\Bheki Lushaba\\Desktop\\ukzn_course_data\\LawData.json"
+path = "C:\\Users\\Bheki Lushaba\\Desktop\\ukzn_course_data\\BAData.json"
 
 with open(path, "r", encoding="utf-8") as file1:
     data = json.load(file1)
 
     for item in data:
-        pattern = r"(\s*\d+\s*Syllabi)"
+        pattern = r"(\s*\d+\s*Humanities)"
 
         if "Assessment" in item:
             item["Assessment"] = re.sub(pattern, r"", item["Assessment"])
-        if "DP" in item:
-            item["DP"] = re.sub(pattern, r"", item["DP"])
         if "Code" in item:
             item["Code"] = re.sub(pattern, r"", item["Code"])
         if "Name" in item:

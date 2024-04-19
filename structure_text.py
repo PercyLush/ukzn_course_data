@@ -2,7 +2,7 @@ import re
 
 
 def code():
-    path = "C:\\Users\\Bheki Lushaba\\Desktop\\ukzn_course_data\\Descriptions(Law).txt"
+    path = "C:\\Users\\Bheki Lushaba\\Desktop\\ukzn_course_data\\Descriptions(BA).txt"
 
     with open(path, "r", encoding="utf-8") as file1:
         data = file1.read()
@@ -10,12 +10,12 @@ def code():
         pattern = r"([A-Z]+\d+(.+))"
         final_data = re.sub(pattern, r"Code: \1", data)
 
-    with open("C:\\Users\\Bheki Lushaba\\Desktop\\ukzn_course_data\\LawDescriptions.txt", "w", encoding="utf-8") as file2:
+    with open("C:\\Users\\Bheki Lushaba\\Desktop\\ukzn_course_data\\BADescriptions.txt", "w", encoding="utf-8") as file2:
         file2.write(final_data)
 
 
 def name():
-    path = "C:\\Users\\Bheki Lushaba\\Desktop\\ukzn_course_data\\LawDescriptions.txt"
+    path = "C:\\Users\\Bheki Lushaba\\Desktop\\ukzn_course_data\\BADescriptions.txt"
 
     with open(path, "r", encoding="utf-8") as file1:
         data = file1.read()
@@ -28,7 +28,7 @@ def name():
 
 
 def description():
-    path = "C:\\Users\\Bheki Lushaba\\Desktop\\ukzn_course_data\\LawDescriptions.txt"
+    path = "C:\\Users\\Bheki Lushaba\\Desktop\\ukzn_course_data\\BADescriptions.txt"
 
     with open(path, "r", encoding="utf-8") as file1:
         data = file1.read()
@@ -41,7 +41,7 @@ def description():
 
 
 def Content():
-    path = "C:\\Users\\Bheki Lushaba\\Desktop\\ukzn_course_data\\LawDescriptions.txt"
+    path = "C:\\Users\\Bheki Lushaba\\Desktop\\ukzn_course_data\\BADescriptions.txt"
 
     with open(path, "r", encoding="utf-8") as file1:
         data = file1.read()
@@ -54,7 +54,7 @@ def Content():
 
 
 def Prerequisite():
-    path = "C:\\Users\\Bheki Lushaba\\Desktop\\ukzn_course_data\\LawDescriptions.txt"
+    path = "C:\\Users\\Bheki Lushaba\\Desktop\\ukzn_course_data\\BADescriptions.txt"
 
     with open(path, "r", encoding="utf-8") as file1:
         data = file1.read()
@@ -67,7 +67,7 @@ def Prerequisite():
 
 
 def DP():
-    path = "C:\\Users\\Bheki Lushaba\\Desktop\\ukzn_course_data\\LawDescriptions.txt"
+    path = "C:\\Users\\Bheki Lushaba\\Desktop\\ukzn_course_data\\BADescriptions.txt"
 
     with open(path, "r", encoding="utf-8") as file1:
         data = file1.read()

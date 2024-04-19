@@ -2,7 +2,7 @@ import json
 import re
 
 def assessments():
-    path = "C:\\Users\\Bheki Lushaba\\Desktop\\ukzn_course_data\\Cleaned.json"
+    path = "C:\\Users\\Bheki Lushaba\\Desktop\\ukzn_course_data\\BA PPL.json"
 
     with open(path, "r") as file1:
         data = json.load(file1)
@@ -12,7 +12,7 @@ def assessments():
                 DATA = []
                 new_data = re.split(",| ;", item["Assessment"].strip())
                 pattern_name = r"([A-z]+)"
-                pattern_mark = r"(\d+)\%"
+                pattern_mark = r"(\d+\)%|\d+%)"
                 for n in new_data:
                     Text = ""
                     name = re.findall(pattern_name, n)
@@ -84,11 +84,11 @@ def prerequisite():
             else:
                 item["Prerequisite"] = [{"Comment": item["Prerequisite"]}]
 
-    with open("StructuredData.json", "w") as file:
+    with open("BA(PPL).json", "w") as file:
         json.dump(data, file, indent=4)
 
 def corequiresite():
-    path = "C:\\Users\\Bheki Lushaba\\Desktop\\ukzn_course_data\\StructuredData.json"
+    path = "C:\\Users\\Bheki Lushaba\\Desktop\\ukzn_course_data\\BA(PPL).json"
 
     with open(path, "r") as file:
         data = json.load(file)
@@ -133,29 +133,11 @@ def corequiresite():
             else:
                 item["Corequisite"] = [{"Comment": item["Corequisite"]}]
 
-    with open("C:\\Users\\Bheki Lushaba\\Desktop\\ukzn_course_data\\StructuredData.json", "w") as file:
+    with open("C:\\Users\\Bheki Lushaba\\Desktop\\ukzn_course_data\\BA(PPL).json", "w") as file:
         json.dump(data, file, indent=4)
-def dp():
-    path = "C:\\Users\\Bheki Lushaba\\Desktop\\ukzn_course_data\\StructuredData.json"
 
-    with open(path, "r") as file1:
-        data = json.load(file1)
 
-        for item in data:
-            if "DP" in item:
-                pattern = r"(\d+)%"
 
-                marks = re.findall(pattern, item["DP"])
-                if marks:
-                    item["DP"] = marks[0]
-
-                else:
-                    item["DP"] = 0
-                
-                item["DP"] = int(item["DP"])
-    with open("C:\\Users\\Bheki Lushaba\\Desktop\\ukzn_course_data\\StructuredData.json", "w") as file2:
-        json.dump(data, file2, indent=4)
 assessments()
 prerequisite()
 corequiresite()
-dp()

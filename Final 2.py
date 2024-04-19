@@ -5,7 +5,7 @@ def extract_key_value_pairs(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         content = file.read()
 
-    keys_of_interest = ["Name", "Code", "Prerequisite", "Corequisite", "Content",  "Assessment", "DP"]
+    keys_of_interest = ["Name", "Code", "Prerequisite", "Corequisite", "Content",  "Assessment"]
 
     extracted_data_list = []
     # Regular expression pattern to match key-value pairs
@@ -30,9 +30,6 @@ def extract_key_value_pairs(file_path):
                 current_course_data[key] = value.strip()
             if key == "Content":
                 current_course_data[key] = value.strip()
-            if key == "DP":
-                current_course_data[key] = value.strip()
-
         # When the "Description" key is found, consider it as the end of a course's information
         if key == "Content":
             extracted_data_list.append(current_course_data)
@@ -40,9 +37,9 @@ def extract_key_value_pairs(file_path):
 
     return extracted_data_list
 
-file_path = 'C:\\Users\\Bheki Lushaba\\Desktop\\ukzn_course_data\\LawDescriptions.txt'
+file_path = 'C:\\Users\\Bheki Lushaba\\Desktop\\ukzn_course_data\\BADescriptions.txt'
 result_list = extract_key_value_pairs(file_path)
-json_file_path = 'LawData.json'
+json_file_path = 'BAData.json'
 
 with open(json_file_path, 'w') as json_file:
     json.dump(result_list, json_file, indent=2)

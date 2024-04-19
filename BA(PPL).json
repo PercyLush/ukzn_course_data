@@ -1,0 +1,625 @@
+[
+    {
+        "Code": "PHIL110",
+        "Name": "Introduction to Philosophy A",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "Credits": 16,
+        "Year": 1,
+        "Assessment": [
+            {
+                "Name": "Class mark",
+                "Type": "Coursework",
+                "Weight": 50,
+                "Dynamic": true
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 50
+            }
+        ],
+        "Description": "The module introduces students to a selection of central philoso phical problems, linked thematically or by\nmajor thinker, drawing on both classic and modern texts and contextualising these issues in a manner that is relevant \nto contemporary South African students.",
+        "Institution": "University of KwaZulu-Natal"
+    },
+    {
+        "Code": "LAWS1LS",
+        "Name": "Introductory Legal Studies",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "Credits": 16,
+        "Year": 1,
+        "Assessment": [
+            {
+                "Name": "Class mark",
+                "Type": "Coursework",
+                "Weight": 50,
+                "Dynamic": true
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 50
+            }
+        ],
+        "Description": "Introduction to Law will provide students with a basic background to law and the legal  system in South Africa. \nStudents will acquire an understanding of: -Some legal philosophies and be able to apply these philosophies to current \nlegal situations. -The structure of the legal system and be able to identify the correct tribunal and procedure.  -The sources \nand classifications of South African Law. -The basic principles of criminal law and be able to apply these principles to a \nfactual scenario.",
+        "Institution": "University of KwaZulu-Natal"
+    },
+    {
+        "Code": "POLS101",
+        "Name": "Introduction to Political Science",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "Credits": 16,
+        "Year": 1,
+        "Assessment": [
+            {
+                "Name": "Completed research project",
+                "Type": "Coursework",
+                "Weight": 100,
+                "Dynamic": true
+            }
+        ],
+        "Description": "Aspects of political systems and action in historical and comparative context; forms of government; the \nproperties of political institutions.",
+        "Institution": "University of KwaZulu-Natal"
+    },
+    {
+        "Code": "PHIL120",
+        "Name": "Introduction to Philosophy B",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "Credits": 16,
+        "Year": 1,
+        "Assessment": [
+            {
+                "Name": "Tests assignments",
+                "Type": "Coursework",
+                "Weight": 50,
+                "Dynamic": true
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 50,
+                "Dynamic": true
+            }
+        ],
+        "Description": "The module introduces students to a selection of central philosophical problems, thematically or by major \nthinker, drawing on both classic and modern texts and contextualising these issues in a manner that is relevant to \ncontemporary South African student s. \nAssessment : Tests/assignments 50%, examination 50%",
+        "Institution": "University of KwaZulu-Natal"
+    },
+    {
+        "Code": "LAWS1AS",
+        "Name": "Aspects of SA Law",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "Credits": 16,
+        "Year": 1,
+        "Institution": "University of KwaZulu-Natal"
+    },
+    {
+        "Code": "POLS102",
+        "Name": "Introduction to Global Politics",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "Credits": 16,
+        "Year": 1,
+        "Assessment": [
+            {
+                "Name": "Coursework This may include tests",
+                "Type": "Coursework",
+                "Weight": 60,
+                "Dynamic": true
+            },
+            {
+                "Name": "essays and tutorial assignments particip ation examination",
+                "Type": "Coursework",
+                "Weight": 40,
+                "Dynamic": true
+            }
+        ],
+        "Description": "Aspects of the global political system; the social and economic forces that shape global politics.",
+        "Institution": "University of KwaZulu-Natal"
+    },
+    {
+        "Code": "PHIL210",
+        "Name": "Being and Knowing",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "Credits": 16,
+        "Year": 2,
+        "Description": "The module will introduce students to key concepts of Logic and develop their skills in formal reasoning. The \nmodule will also look at a number of key questions in Metaphysics and/or Epis temology.",
+        "Prerequisite": [
+            {
+                "Comment": "16 credits at level one in Philosophy"
+            }
+        ],
+        "Institution": "University of KwaZulu-Natal"
+    },
+    {
+        "Code": "PHIL220",
+        "Name": "Thinking and Doing",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "Credits": 16,
+        "Year": 2,
+        "Assessment": [
+            {
+                "Name": "Tests assignments",
+                "Type": "Coursework",
+                "Weight": 50,
+                "Dynamic": true
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 50,
+                "Dynamic": true
+            }
+        ],
+        "Description": "This module introduces students to key concepts and arguments within Political philosophical thought, as well \nas ideas and debates in Applied Ethics.  \nAsse ssment:  Tests/assignments 50%, examination 50%",
+        "Prerequisite": [
+            {
+                "Comment": "16 credits at level one in Philosophy"
+            }
+        ],
+        "Institution": "University of KwaZulu-Natal"
+    },
+    {
+        "Code": "POLS201",
+        "Name": "Issues in International Affairs",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "Credits": 16,
+        "Year": 2,
+        "Assessment": [
+            {
+                "Name": "Coursework This may include tests",
+                "Type": "Coursework",
+                "Weight": 60,
+                "Dynamic": true
+            },
+            {
+                "Name": "essays and tutorial assignments participation examination",
+                "Type": "Coursework",
+                "Weight": 40,
+                "Dynamic": true
+            }
+        ],
+        "Description": "A variety of topical issues of international relations and global politics, a nd international political economy.",
+        "Institution": "University of KwaZulu-Natal"
+    },
+    {
+        "Code": "LAWS2LP",
+        "Name": "Law of Persons",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "Credits": 8,
+        "Year": 2,
+        "Assessment": [
+            {
+                "Name": "Test or assignments Exam",
+                "Type": "Exam",
+                "Weight": 30
+            }
+        ],
+        "Description": "Legal personality (the beginning and end of legal personality); Status and capacity: Factors affecting  status: \ndomicile; gender; age (minority); extra -marital birth (legitimacy) -includes parental power and adoption of extra -marital \nchildren; artificial insemination; proof of paternity; mental illness; prodigality; and inability to manage one\u2019s own affairs .",
+        "Institution": "University of KwaZulu-Natal"
+    },
+    {
+        "Code": "LAWS2LR",
+        "Name": "Legal Research, Writing & Reason",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "Credits": 8,
+        "Year": 2,
+        "Assessment": [
+            {
+                "Name": "The students are required to write a test s and or assignment s tests",
+                "Type": "Coursework",
+                "Weight": 0,
+                "Dynamic": true
+            },
+            {
+                "Name": "which constitutes of the final mark In addition a final two hour exam is also written and makes up of the final mark",
+                "Type": "Coursework",
+                "Weight": 30,
+                "Dynamic": true
+            }
+        ],
+        "Description": "Process of legal research; sources of law and categories of sources; topic analy sis; different types of logical \nreasoning; critical reasoning; approach to answering legal problems; plagiarism; footnoting and referencing; evaluation \nof sources; legal writing; electronic and print resources.",
+        "Institution": "University of KwaZulu-Natal"
+    },
+    {
+        "Code": "POLS206",
+        "Name": "Contemporary African Politics and Development",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "Credits": 16,
+        "Year": 2,
+        "Assessment": [
+            {
+                "Name": "essays",
+                "Type": "Coursework",
+                "Weight": 0,
+                "Dynamic": true
+            },
+            {
+                "Name": "x ho ur examination",
+                "Type": "Coursework",
+                "Weight": 50,
+                "Dynamic": true
+            },
+            {
+                "Name": "",
+                "Type": "Coursework",
+                "Weight": 50,
+                "Dynamic": true
+            }
+        ],
+        "Description": "Key thinkers: Examines structural and topical issues such as the Concept of the 'N ation -state'; African  State;  \nCivil Society  & the Return  of Constitutionalism;  External  Aid, Conditionality,  & Constraints  to African Development; War \nand Conflict Resolution and Management in Africa; Challenges to Regional Growth,  Development,  and Peace  in Africa;  \nImperatives  for African  Development.  \nAssessment :  A test 10%, an individual essay, a group based project in political analysis and an exam DP \nRequirement : Submission of all written work on time, 75% attendance of lectures an d 100% attendance at tu torials",
+        "Institution": "University of KwaZulu-Natal"
+    },
+    {
+        "Code": "LAWS2HR",
+        "Name": "Human Rights",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "Credits": 8,
+        "Year": 2,
+        "Institution": "University of KwaZulu-Natal"
+    },
+    {
+        "Code": "LAWS2LW",
+        "Name": "Interpretation of Law",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "Credits": 8,
+        "Year": 2,
+        "Assessment": [
+            {
+                "Name": "The following assessments must be completed by the student One test weighing of the total mark Two assignment weighing each Writing portfolio weighing of the total mark",
+                "Type": "Coursework",
+                "Weight": 50,
+                "Dynamic": true
+            }
+        ],
+        "Description": "Introduction; basic concepts and an historical overview; nature and process of interpretation; Theories of",
+        "Institution": "University of KwaZulu-Natal"
+    },
+    {
+        "Code": "PHIL310",
+        "Name": "Study of a Central Phil. Problem",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "Credits": 16,
+        "Year": 3,
+        "Description": "The selected philosophical problem will vary from year to year. Examples include the metaphysics of race, \nRous seau\u2019s conception of democracy, the concept of law, Gettier counter -examples and so on.",
+        "Prerequisite": [
+            {
+                "Comment": "Two semesters of Philosophy courses at second year level"
+            }
+        ],
+        "Institution": "University of KwaZulu-Natal"
+    },
+    {
+        "Code": "PHIL330",
+        "Name": "Issues in Ethical Theory",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "Credits": 16,
+        "Year": 3,
+        "Assessment": [
+            {
+                "Name": "Assignments",
+                "Type": "Coursework",
+                "Weight": 50,
+                "Dynamic": true
+            },
+            {
+                "Name": "examinatio n",
+                "Type": "Coursework",
+                "Weight": 50,
+                "Dynamic": true
+            }
+        ],
+        "Description": "The topic and texts will vary from  year to year. The focus of the module in any given year might include \nsome aspect of deontology, consequentialism, virtue ethics or meta -ethics.",
+        "Prerequisite": [
+            {
+                "Comment": "Two semesters of Philosophy courses at second year level."
+            }
+        ],
+        "Institution": "University of KwaZulu-Natal"
+    },
+    {
+        "Code": "PHIL340",
+        "Name": "African Philosophy",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "Credits": 16,
+        "Year": 3,
+        "Institution": "University of KwaZulu-Natal"
+    },
+    {
+        "Code": "PHIL320",
+        "Name": "Metaphysics",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "Credits": 16,
+        "Year": 3,
+        "Institution": "University of KwaZulu-Natal"
+    },
+    {
+        "Code": "PHIL350",
+        "Name": "Philosophy and Society",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "Credits": 16,
+        "Year": 3,
+        "Assessment": [
+            {
+                "Name": "Assignments",
+                "Type": "Coursework",
+                "Weight": 50,
+                "Dynamic": true
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 50,
+                "Dynamic": true
+            }
+        ],
+        "Description": "Topics and texts will vary from year to year. Examples of topics include unfair discrimination, social injustice, \npoverty, disadvantage, rights and responsibilities.",
+        "Prerequisite": [
+            {
+                "Comment": "Two semesters of Philosophy courses at second year level."
+            }
+        ],
+        "Institution": "University of KwaZulu-Natal"
+    },
+    {
+        "Code": "PHIL360",
+        "Name": "History of Philosophy",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "Credits": 16,
+        "Year": 3,
+        "Prerequisite": [
+            {
+                "Comment": "Two semesters of Philosophy courses at second year level"
+            }
+        ],
+        "Assessment": [
+            {
+                "Name": "Assignments",
+                "Type": "Coursework",
+                "Weight": 50,
+                "Dynamic": true
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 50,
+                "Dynamic": true
+            }
+        ],
+        "Description": "To give students a historically informed understanding of philosophy, and to provide knowledge of and an \nopportunity to engage critically with debates and texts that have had a significant or formative influence on the\ndevelopment of philosophy.",
+        "Institution": "University of KwaZulu-Natal"
+    },
+    {
+        "Code": "POLS301",
+        "Name": "Modern Political Thought",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "Credits": 16,
+        "Year": 3,
+        "Assessment": [
+            {
+                "Name": "tutorials",
+                "Type": "Coursework",
+                "Weight": 0,
+                "Dynamic": true
+            },
+            {
+                "Name": "test",
+                "Type": "Coursework",
+                "Weight": 0,
+                "Dynamic": true
+            },
+            {
+                "Name": "essay",
+                "Type": "Coursework",
+                "Weight": 0,
+                "Dynamic": true
+            },
+            {
+                "Name": "x h our examination",
+                "Type": "Coursework",
+                "Weight": "3%",
+                "Dynamic": true
+            }
+        ],
+        "Description": "Description: To train students  to engage  in rigorous,  advanced  level studies  in political  theory  and political  philosophy, \nwith special emphasis on skills of argumentation, analysis and abstract reasoning, and also on textual analysis, \ninterpretative strategies and historical contexts. Content: An exploration of key concepts, thinkers and debates.",
+        "Institution": "University of KwaZulu-Natal"
+    },
+    {
+        "Code": "POLS303",
+        "Name": "Political Change in Dev. Regions",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "Credits": 16,
+        "Year": 3,
+        "Assessment": [
+            {
+                "Name": "One Essay one oral presentation or test one hour examination",
+                "Type": "Coursework",
+                "Weight": "65%",
+                "Dynamic": true
+            }
+        ],
+        "Description": "Critical analysis of theories of development and their discourses, effects of globalisation, case studies.",
+        "Institution": "University of KwaZulu-Natal"
+    },
+    {
+        "Code": "POLS304",
+        "Name": "Comparative Government & Politics",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "Credits": 16,
+        "Year": 3,
+        "Assessment": [
+            {
+                "Name": "Coursework This will include tests",
+                "Type": "Coursework",
+                "Weight": 50,
+                "Dynamic": true
+            },
+            {
+                "Name": "essays and tutorial assignments presentations examination",
+                "Type": "Coursework",
+                "Weight": 50,
+                "Dynamic": true
+            }
+        ],
+        "Description": "Political, economic and cultural factors in selected countries. Conceptual approaches will be emphasised. \nPolitical culture, party government, economic refo rm and institutional actors will be included.",
+        "Institution": "University of KwaZulu-Natal"
+    },
+    {
+        "Code": "LAWS3CR",
+        "Name": "Criminal Law",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "Credits": 16,
+        "Year": 3,
+        "Assessment": [
+            {
+                "Name": "Formative assessment in the form of tutorial assignments and or research skills exercises and tests contributing of the final mark The assessment will take the form of a summative assessment in the form of a hour examination contributing of the final mark",
+                "Type": "Coursework",
+                "Weight": 40,
+                "Dynamic": true
+            }
+        ],
+        "Description": "Basic concepts of criminal liabili ty; legality; conduct in criminal law; causation; unlawfulness, including \njustification grounds of defence, private defence, necessity, consent, negotiorum gestio, impossibility, official capacity, \ndisciplinary chastisement, superior orders; other defences : entrapment, de minimis non curat lex; criminal capacity, \nincluding mental illness, age, provocation, emotional stress, intoxication; specific forms of mens rea: intention, \nnegligence; exceptions to the mens rea requirement: versari in re illicita; strict  liability; vicarious liability; inchoate",
+        "Institution": "University of KwaZulu-Natal"
+    },
+    {
+        "Code": "LAWS3FM",
+        "Name": "Family Law",
+        "Duration": "Semester",
+        "Period": [
+            1
+        ],
+        "Credits": 16,
+        "Year": 3,
+        "Assessment": [
+            {
+                "Name": "written tests or assignment x hr exam",
+                "Type": "Coursework",
+                "Weight": "25%",
+                "Dynamic": true
+            }
+        ],
+        "Description": "Part A: The Law relating to marriages, including customary and religious marriages; civil -unions and \ncohabitative relationships: specifically engagements; legal r equirements for the conclusion of a marriage/civil union; legal \nconsequences of a marriage/civil -union;dissolution of marriages/civil -unions as well as the consequences thereof; and, \nthe legal duties between cohabitees. Part B: Law of Parent and Child/ Car e and Protection of Children: children\u2019s rights; \nparental rights and responsibilities; discipline and the child\u2019s right to choose; child abuse; temporary alternative care; \nadoption; trans -jurisdictional aspects; education.",
+        "Institution": "University of KwaZulu-Natal"
+    },
+    {
+        "Code": "LAWS3JP",
+        "Name": "Jurisprudence",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "Credits": 16,
+        "Year": 3,
+        "Assessment": [
+            {
+                "Name": "The methods of assessment for the module comprise the following Test or Assignment which would Syllabi constitute of the semester mark and an examination of",
+                "Type": "Coursework",
+                "Weight": 30,
+                "Dynamic": true
+            }
+        ],
+        "Description": "A selection of the following: Postmodernism and the law; Natural Law vs Positivism; Early Natural Law - The \nGreeks and Romans; Early Natural Law - Christian Natural Law; Social Contract Theory - Grotius, Locke and Rousseau; \nUS Constitutionalism; Early Positivism - Bentham and Austin; Modern Natural Law - Lon Fuller; Modern Natural Law - \nJohn Finnis; Modern Natural Law - Patrick Devlin; Modern Natural Law - Ronald Dworkin; Modern Natural Law - South \nAfrican Natural Lawyers; Mod ern Positivism - Hans Kelsen; Modern Positivism - Herbert Hart; Modern Positivism - South \nAfrican Positivists; American Realism; Scandinavian Realism; Justice Theory - John Rawls; Justice Theory \u2013 Robert \nNozick; African Jurisprudence; Critical Legal Theory  \u2013 Feminist Jurisprudence; Critical Legal Theory \u2013 Karl Marx; Critical \nLegal Theory \u2013 Critical Legal Studies.",
+        "Institution": "University of KwaZulu-Natal"
+    },
+    {
+        "Code": "LAWS3CS",
+        "Name": "Constitutional Law",
+        "Duration": "Semester",
+        "Period": [
+            2
+        ],
+        "Credits": 16,
+        "Year": 3,
+        "Assessment": [
+            {
+                "Name": "Class work class tests",
+                "Type": "Coursework",
+                "Weight": 0,
+                "Dynamic": true
+            },
+            {
+                "Name": "and written examination",
+                "Type": "Coursework",
+                "Weight": "3%",
+                "Dynamic": true
+            },
+            {
+                "Name": "",
+                "Type": "Coursework",
+                "Weight": "7%",
+                "Dynamic": true
+            }
+        ],
+        "Description": "Fundamental concepts and theories of constitutional law; South African constitutional history; basic structures \nof the South African Constitution; the structure of states; electoral systems; the composition, powers, responsibility, and \nlimits of the legislatures; the composition, powers, responsibility and limits of the executive; the composition, powers, \nresponsibility and limits of the judiciary; the operational provisions of the Bill of Rights; discussion on selected Chapter 9 \nInstitut ions.",
+        "Institution": "University of KwaZulu-Natal"
+    }
+]

@@ -1,6 +1,6 @@
 import PyPDF2
 
-path = "C:/Users/Bheki Lushaba/Downloads/college-of-law-and-management-studies-handbook-2020.pdf"
+path = "C:/Users/Bheki Lushaba/Downloads/2023-College-of-Humanities-Handbook-min.pdf"
 
 def extract(start_page, end_page):
     with open(path, "rb") as file1:
@@ -12,11 +12,11 @@ def extract(start_page, end_page):
             text_data = pages.extract_text()
             Text += text_data
 
-    with open("Descriptions(Law).txt", "w", encoding="utf-8") as file:
+    with open("Descriptions(BA).txt", "w", encoding="utf-8") as file:
         file.write(Text)
 
 
-start = 134
-end = 267
+start = 244
+end = 620
 
 extract(start, end)
