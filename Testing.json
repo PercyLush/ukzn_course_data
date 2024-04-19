@@ -1,0 +1,3776 @@
+[
+    {
+        "_id": {
+            "$oid": "661cef45c453afc37c049634"
+        },
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ACLE1012",
+        "Name": "ACADEMIC LITERACY IN ENG",
+        "Description": null,
+        "Credit": 0,
+        "Year": 0,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 0,
+        "Period": [],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [],
+        "Prerequisite": "",
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "_id": {
+            "$oid": "661cf030c453afc37c049638"
+        },
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS2CR1",
+        "Name": "CRIMINAL LAW",
+        "Description": null,
+        "Credit": 0,
+        "Year": 0,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 0,
+        "Period": null,
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [],
+        "Prerequisite": "",
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "_id": {
+            "$oid": "661cf1b2616dbef94b098c80"
+        },
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS2CS2",
+        "Name": "CONSTITUTIONAL LAW",
+        "Description": null,
+        "Credit": 0,
+        "Year": 0,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 0,
+        "Period": null,
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [],
+        "Prerequisite": "",
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "_id": {
+            "$oid": "661cf2dac453afc37c049643"
+        },
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS2DL2",
+        "Name": "DELICT",
+        "Description": null,
+        "Credit": 0,
+        "Year": 0,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 0,
+        "Period": null,
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [],
+        "Prerequisite": "",
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "_id": {
+            "$oid": "661cf39ec453afc37c049647"
+        },
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS2FM1",
+        "Name": "FAMILY LAW",
+        "Description": null,
+        "Credit": 0,
+        "Year": 0,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 0,
+        "Period": null,
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [],
+        "Prerequisite": "",
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "_id": {
+            "$oid": "661cf472c453afc37c049649"
+        },
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS2HR2",
+        "Name": "HUMAN RIGHTS ",
+        "Description": null,
+        "Credit": 0,
+        "Year": 0,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 0,
+        "Period": null,
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [],
+        "Prerequisite": "",
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "_id": {
+            "$oid": "661cf4ccc453afc37c04964b"
+        },
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS2LP1",
+        "Name": "LAW OF PERSONS ",
+        "Description": null,
+        "Credit": 0,
+        "Year": 0,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 0,
+        "Period": null,
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [],
+        "Prerequisite": "",
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "_id": {
+            "$oid": "661cf529c453afc37c04964d"
+        },
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS2LR1",
+        "Name": "LEGAL RESEARCH WRITING & R",
+        "Description": null,
+        "Credit": 0,
+        "Year": 0,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 0,
+        "Period": null,
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [],
+        "Prerequisite": "",
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "_id": {
+            "$oid": "661cf5c3c453afc37c04964f"
+        },
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "CHEM181",
+        "Name": "Chemistry for Engineers 1A",
+        "Description": "To provide students with the basic chemical knowledge and expertise necessary to understand the chemical\nbehaviour and properties of materials used by engineers.",
+        "Credit": 8,
+        "Year": 1,
+        "CourseGroup": null,
+        "Faculty": "Engineering",
+        "DP": 40,
+        "NQF": 5,
+        "Period": [
+            1
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Tests",
+                "Type": "Test",
+                "Weight": 8
+            },
+            {
+                "Name": "Practicals",
+                "Type": "Practical",
+                "Weight": 25
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 67
+            }
+        ],
+        "Prerequisite": "",
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "CHEM163",
+        "Name": "Chemistry & Society 1",
+        "Description": ": To provide students with an overview of the role chemistry plays in everyday life.",
+        "Credit": 8,
+        "Year": 1,
+        "CourseGroup": null,
+        "Faculty": "Engineering",
+        "DP": 0,
+        "NQF": 5,
+        "Period": [
+            1
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Tests",
+                "Type": "Test",
+                "Weight": 7
+            },
+            {
+                "Name": "Practical Reports",
+                "Type": "Report",
+                "Weight": 26
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 67
+            }
+        ],
+        "Prerequisite": "",
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "_id": {
+            "$oid": "661cf640c453afc37c049651"
+        },
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS2LW2",
+        "Name": "INTERPRETATION OF LAW",
+        "Description": null,
+        "Credit": 0,
+        "Year": 0,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 0,
+        "Period": null,
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [],
+        "Prerequisite": "",
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "_id": {
+            "$oid": "661cf67a682cba26aa105ead"
+        },
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS2PR1",
+        "Name": "PROPERTY",
+        "Description": null,
+        "Credit": 0,
+        "Year": 0,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 0,
+        "Period": null,
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [],
+        "Prerequisite": "",
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "_id": {
+            "$oid": "661cf6bc682cba26aa105eaf"
+        },
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENCH1TC",
+        "Name": "Technical Communication  for Engineers",
+        "Description": "To develop students' discourse competence in technical English with the intention of improving their ability to read\na range of texts, to write genres important to Engineering students, and to give oral presentations on Engineering topics.",
+        "Credit": 8,
+        "Year": 1,
+        "CourseGroup": null,
+        "Faculty": "Engineering",
+        "DP": 0,
+        "NQF": 5,
+        "Period": [
+            1
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Continuous Assessments",
+                "Type": "Assessment",
+                "Weight": 100,
+                "Equal": true,
+                "Dynamic": true,
+                "Subitems": [
+                    {
+                        "Name": "Technical Report",
+                        "Type": "Report"
+                    },
+                    {
+                        "Name": "Online Activities",
+                        "Type": "Activity"
+                    },
+                    {
+                        "Name": "Short Quizzes",
+                        "Type": "Quiz"
+                    },
+                    {
+                        "Name": "Oral Presentation",
+                        "Type": "Presentation"
+                    }
+                ]
+            }
+        ],
+        "Prerequisite": "",
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "_id": {
+            "$oid": "661cf74dc453afc37c049656"
+        },
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENME1DR",
+        "Name": "Engineering Drawing",
+        "Description": "Geometrical constructions. Isometric projection (pictorial representation). 1st and 3rd angle orthographic \nprojection, including hidden detail, dimensioning, theory of sectional & auxiliary views, and conventional representations. \nInterpenetrations and developments. CAD (computer-aided drawing). Tutorials on the above.",
+        "Credit": 8,
+        "Year": 1,
+        "CourseGroup": null,
+        "Faculty": "Engineering",
+        "DP": 0,
+        "NQF": 5,
+        "Period": [
+            1
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Drawings: tutorials and tests",
+                "Type": "Drawings",
+                "Weight": 12.5
+            },
+            {
+                "Name": "CAD: tutorials and tes",
+                "Type": "CAD",
+                "Weight": 37.5
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 50
+            }
+        ],
+        "Prerequisite": "",
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "_id": {
+            "$oid": "661cfb0bc453afc37c04965a"
+        },
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "MATH131",
+        "Name": "Mathematics 1A",
+        "Description": "To introduce basicmathematical concepts of differential and integral calculus.",
+        "Credit": 16,
+        "Year": 1,
+        "CourseGroup": null,
+        "Faculty": "Engineering",
+        "DP": 40,
+        "NQF": 5,
+        "Period": [
+            1
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Class Tests",
+                "Type": "Test",
+                "Weight": 33,
+                "Equal": true,
+                "Dynamic": true,
+                "Subitems": [
+                    {
+                        "Name": "Assignments",
+                        "Type": "Assignment"
+                    }
+                ]
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 67
+            }
+        ],
+        "Prerequisite": {
+            "Comment": "Higher Grade C or Standard Grade A for MatricMathematics or NSC Level 6 Maths"
+        },
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "_id": {
+            "$oid": "661cfb98c453afc37c04965c"
+        },
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "MATH132",
+        "Name": "Applied mathematics",
+        "Description": "To introduce basicmethods of vector and matrix algebra, statics.",
+        "Credit": 16,
+        "Year": 1,
+        "CourseGroup": null,
+        "Faculty": "Engineering",
+        "DP": 40,
+        "NQF": 5,
+        "Period": [
+            1
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Tests",
+                "Type": "Test",
+                "Weight": 33,
+                "Equal": true,
+                "Dynamic": true,
+                "Subitems": [
+                    {
+                        "Name": "Assignments",
+                        "Type": "Assignment"
+                    }
+                ]
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 67
+            }
+        ],
+        "Prerequisite": {
+            "Comment": "Higher Grade C or Standard Grade A for MatricMathematics or NSC Level 6 Maths"
+        },
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "_id": {
+            "$oid": "661cfbf0616dbef94b098c8a"
+        },
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "PHYS151",
+        "Name": "Engineering Physics",
+        "Description": "Introduction to, and an ability to apply, mechanics, oscillations and thermal physics at an introductory level. This\nis a calculus-based module.",
+        "Credit": 16,
+        "Year": 1,
+        "CourseGroup": null,
+        "Faculty": "Engineering",
+        "DP": 40,
+        "NQF": 5,
+        "Period": [
+            1
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Tests",
+                "Type": "Test",
+                "Weight": 24
+            },
+            {
+                "Name": "Practicals",
+                "Type": "Practical",
+                "Weight": 6
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 70
+            }
+        ],
+        "Prerequisite": "",
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "PHYS110",
+        "Name": "Mech., Optics & Thermal Phys",
+        "Description": "To introduce mechanics, geometrical optics, and thermal physics.",
+        "Credit": 16,
+        "Year": 1,
+        "CourseGroup": null,
+        "Faculty": "Engineering",
+        "DP": 40,
+        "NQF": 5,
+        "Period": [
+            1
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Tests",
+                "Type": "Test",
+                "Weight": 20
+            },
+            {
+                "Name": "Assignments",
+                "Type": "Assignment",
+                "Weight": 10
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 70
+            }
+        ],
+        "Prerequisite": {
+            "$or": [
+                {
+                    "Code": "MATH130"
+                },
+                {
+                    "Code": "MATH195"
+                }
+            ]
+        },
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "_id": {
+            "$oid": "661cfc9e616dbef94b098c8d"
+        },
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "CHEM191",
+        "Name": "Chemistry for Engineering",
+        "Description": "To provide students, who would now have some basic chemical background, with further information and skills\nneeded to understand how substances behave chemically.",
+        "Credit": 8,
+        "Year": 1,
+        "CourseGroup": null,
+        "Faculty": "Engineering",
+        "DP": 40,
+        "NQF": 5,
+        "Period": [
+            2
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Tests",
+                "Type": "Test",
+                "Weight": 8
+            },
+            {
+                "Name": "Practicals",
+                "Type": "Practical",
+                "Weight": 25
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 67
+            }
+        ],
+        "Prerequisite": {
+            "Code": "CHEM181",
+            "Mark": "40"
+        },
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "CHEM173",
+        "Name": "Chemistry & Society 2",
+        "Description": "To provide students with an overview of the role chemistry plays in everyday life",
+        "Credit": 8,
+        "Year": 1,
+        "CourseGroup": null,
+        "Faculty": "Engineering",
+        "DP": 40,
+        "NQF": 5,
+        "Period": [
+            2
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Tests",
+                "Type": "Test",
+                "Weight": 7
+            },
+            {
+                "Name": "Practical Reports",
+                "Type": "Report",
+                "Weight": 26
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 67
+            }
+        ],
+        "Prerequisite": "",
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "_id": {
+            "$oid": "661cfd49616dbef94b098c8f"
+        },
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENME1ED",
+        "Name": "Mechanical Engineering Design",
+        "Description": "The engineering design process. Characteristics, properties and applications of engineering materials. \nIntroduction to strengths of materials for mechanical elements. Primary and secondary manufacturing processes. \nAdvanced CAD (computer aided drawing). \nLimits, fits and torelances.",
+        "Credit": 8,
+        "Year": 1,
+        "CourseGroup": null,
+        "Faculty": "Engineering",
+        "DP": 40,
+        "NQF": 5,
+        "Period": [
+            2
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Test",
+                "Type": "Test",
+                "Weight": 10
+            },
+            {
+                "Name": "CAD Tests",
+                "Type": "Test",
+                "Weight": 20
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 70
+            }
+        ],
+        "Prerequisite": "",
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENAG1DE",
+        "Name": "Engineering Design",
+        "Description": "",
+        "Credit": 8,
+        "Year": 1,
+        "CourseGroup": null,
+        "Faculty": "Engineering",
+        "DP": 40,
+        "NQF": 5,
+        "Period": [
+            2
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [],
+        "Prerequisite": "",
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "_id": {
+            "$oid": "661cfea0682cba26aa105eb6"
+        },
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENME1EM",
+        "Name": "Introduction to Engineering Materials",
+        "Description": null,
+        "Credit": 0,
+        "Year": 0,
+        "CourseGroup": null,
+        "Faculty": "Engineering",
+        "DP": 0,
+        "NQF": 0,
+        "Period": null,
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [],
+        "Prerequisite": "",
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "_id": {
+            "$oid": "661cff36616dbef94b098c90"
+        },
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENME1EM",
+        "Name": "Introduction to Engineering Materials",
+        "Description": "Introduction to materials, structure of materials, crystal imperfections, mechanical behaviour of materials,\nalloys and properties of alloys, equilibrium phase diagrams.",
+        "Credit": 8,
+        "Year": 1,
+        "CourseGroup": null,
+        "Faculty": "Engineering",
+        "DP": 0,
+        "NQF": 5,
+        "Period": [
+            2
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Tests",
+                "Type": "Test",
+                "Weight": 30,
+                "Equal": true,
+                "Dynamic": true,
+                "Subitems": [
+                    {
+                        "Name": "Assignments",
+                        "Type": "Assignment"
+                    },
+                    {
+                        "Name": "Tutorials",
+                        "Type": "Tutorial"
+                    }
+                ]
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 70
+            }
+        ],
+        "Prerequisite": "",
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENAG1MT",
+        "Name": "Introduction to Engineering Materials",
+        "Description": "The candidates will acquire a basic understanding of materials, their structure and its influence on the physical and \nmechanical properties; crystallographic structures, defects in these structures and how this influences the mechanical \nproperties; the mechanical properties of materials; and phase diagrams and how microstructures are formed.",
+        "Credit": 8,
+        "Year": 1,
+        "CourseGroup": null,
+        "Faculty": "Engineering",
+        "DP": 30,
+        "NQF": 5,
+        "Period": [
+            2
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Test 1",
+                "Type": "Test",
+                "Weight": 30,
+                "Equal": true,
+                "Dynamic": true,
+                "Subitems": [
+                    {
+                        "Name": "Test 2",
+                        "Type": "Test"
+                    },
+                    {
+                        "Name": "Assignments",
+                        "Type": "Assignment"
+                    },
+                    {
+                        "Name": "Tutorials",
+                        "Type": "Tutorial"
+                    }
+                ]
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 70
+            }
+        ],
+        "Prerequisite": "",
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "_id": {
+            "$oid": "661cff97616dbef94b098c92"
+        },
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "MATH141",
+        "Name": "Mathematics 1B",
+        "Description": "To develop concepts of differential and integral calculus and introduce elements of differential equations and\ncomplex numbers theory.",
+        "Credit": 16,
+        "Year": 1,
+        "CourseGroup": null,
+        "Faculty": "Engineering",
+        "DP": 40,
+        "NQF": 5,
+        "Period": [
+            2
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Class Tests",
+                "Type": "Test",
+                "Weight": 33,
+                "Equal": true,
+                "Dynamic": true,
+                "Subitems": [
+                    {
+                        "Name": "Assignments",
+                        "Type": "Assignment"
+                    }
+                ]
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 67
+            }
+        ],
+        "Prerequisite": {
+            "Code": "MATH131",
+            "Mark": "40"
+        },
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "_id": {
+            "$oid": "661d001a616dbef94b098c95"
+        },
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "MATH142",
+        "Name": "Applied Mathematics",
+        "Description": "To provide knowledge about the fundamentals of engineering dynamics.",
+        "Credit": 16,
+        "Year": 1,
+        "CourseGroup": null,
+        "Faculty": "Engineering",
+        "DP": 40,
+        "NQF": 5,
+        "Period": [
+            2
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Tests",
+                "Type": "Test",
+                "Weight": 33,
+                "Equal": true,
+                "Dynamic": true,
+                "Subitems": [
+                    {
+                        "Name": "Assignments",
+                        "Type": "Assignment"
+                    }
+                ]
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 67
+            }
+        ],
+        "Prerequisite": {
+            "$and": [
+                {
+                    "Code": "MATH131",
+                    "Mark": "40"
+                },
+                {
+                    "Code": "MATH132",
+                    "Mark": "40"
+                }
+            ]
+        },
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "_id": {
+            "$oid": "661d0082c453afc37c04966c"
+        },
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "PHYS152",
+        "Name": "Engineering Physics",
+        "Description": "To gain understanding of, & ability to apply, thermodynamics, electricity & magnetism, geometrical optics & atomic\nphysics at an introductory level. This is a calculus-based module.",
+        "Credit": 16,
+        "Year": 1,
+        "CourseGroup": null,
+        "Faculty": "Engineering",
+        "DP": 40,
+        "NQF": 5,
+        "Period": [
+            2
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Tests",
+                "Type": "Test",
+                "Weight": 24
+            },
+            {
+                "Name": "Practicals",
+                "Type": "Practical",
+                "Weight": 6
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 70
+            }
+        ],
+        "Prerequisite": {
+            "Code": "PHYS151",
+            "Mark": "40"
+        },
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "PHYS120",
+        "Name": "Electromag, Waves & Mod. Phys",
+        "Description": "Introduction to electromagnetism, waves, physical optics and modern physics.",
+        "Credit": 16,
+        "Year": 1,
+        "CourseGroup": null,
+        "Faculty": "Engineering",
+        "DP": 40,
+        "NQF": 5,
+        "Period": [
+            2
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Class Tests",
+                "Type": "Test",
+                "Weight": 25
+            },
+            {
+                "Name": "Practical Reports",
+                "Type": "Report",
+                "Weight": 5
+            },
+            {
+                "Name": "Theory Exam",
+                "Type": "Exam",
+                "Weight": 50,
+                "Equal": false,
+                "Dynamic": false,
+                "Subitems": [
+                    {
+                        "Name": "Practical Exam",
+                        "Type": "Exam",
+                        "Weight": 20
+                    }
+                ]
+            }
+        ],
+        "Prerequisite": {
+            "$or": [
+                {
+                    "Code": "PHYS110",
+                    "Mark": "40"
+                },
+                {
+                    "Code": "PHYS113"
+                },
+                {
+                    "Code": "PHYS131",
+                    "Mark": "60"
+                }
+            ]
+        },
+        "Corequisite": {
+            "Code": "MATH140"
+        },
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENEL2EL",
+        "Name": "Electrical Engineering",
+        "Description": "To Introduce Electrical Engineering fundamental principles and their applications to Mechanical Engineering\nstudents",
+        "Credit": 16,
+        "Year": 2,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 6,
+        "Period": [
+            1
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Class Mark",
+                "Type": "Coursework",
+                "Weight": 30
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 70
+            }
+        ],
+        "Prerequisite": {
+            "$and": [
+                {
+                    "$or": [
+                        {
+                            "Code": "PHYS120"
+                        },
+                        {
+                            "Code": "PHYS152"
+                        }
+                    ]
+                },
+                {
+                    "Code": "MATH132"
+                },
+                {
+                    "Code": "MATH141"
+                }
+            ]
+        },
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENME2CF",
+        "Name": "Computer Fundamentals",
+        "Description": ": Introduction to computers, introduction to computer arithmetic, computer languages, programming, debugging,\ncomputational methods, specific professional software packages and communication software packages",
+        "Credit": 8,
+        "Year": 2,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 6,
+        "Period": [
+            1
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Tests",
+                "Type": "Test",
+                "Weight": 30,
+                "Equal": true,
+                "Dynamic": true,
+                "Subitems": [
+                    {
+                        "Name": "Tutorials",
+                        "Type": "Tutorial"
+                    }
+                ]
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 70
+            }
+        ],
+        "Prerequisite": "",
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENME2DY",
+        "Name": "Dynamics",
+        "Description": "General motion of a rigid body. Motion in moving reference frame. Planar motion. Graphical techniques. \nInstantaneous centre of rotation in planar motion. The equations of motion of a rigid body. Kinetic energy. Principle of \nwork and energy. Potential energy. Fundamentals of analytical dynamics",
+        "Credit": 8,
+        "Year": 2,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 6,
+        "Period": [
+            1
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Tests",
+                "Type": "Test",
+                "Weight": 30,
+                "Equal": true,
+                "Dynamic": true,
+                "Subitems": [
+                    {
+                        "Name": "Assignments",
+                        "Type": "Assignment"
+                    },
+                    {
+                        "Name": "Tutorials",
+                        "Type": "Tutorial"
+                    }
+                ]
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 70
+            }
+        ],
+        "Prerequisite": "",
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENME2FM",
+        "Name": " Fluid Mechanics 1",
+        "Description": ": An introductory course designed to establish an understanding of basic fluid dynamics concepts, an ability to apply \nthe basic laws in analysing simple engineering fluid flow problems and to provide a foundation for studying advanced \nfluid dynamics topics. Fluid as a continuum, fluid properties, dimensions and units. Fluid statics, buoyancy and floatation. \nContinuity, the momentum equation: impact of a jet, reaction at a nozzle, forces at pipe bends, momentum theory of a \npropeller, the angular momentum equation. The energy equation, Bernoulli's equation with and without friction. Flow \nmeasurement, flow visualisation. Dimensional analysis and similarity.",
+        "Credit": 8,
+        "Year": 2,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 6,
+        "Period": [
+            1
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Tests",
+                "Type": "Test",
+                "Weight": 30,
+                "Equal": true,
+                "Dynamic": true,
+                "Subitems": [
+                    {
+                        "Name": "Practicals",
+                        "Type": "Practical"
+                    }
+                ]
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 70
+            }
+        ],
+        "Prerequisite": "",
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENME2PM",
+        "Name": "Funds of Physical Metallurgy",
+        "Description": "To provide students with basic information and understanding of the kinetics of phase changes in metals, and\nheat treatments of ferrous and non-ferrous alloys and their influence on the properties of the material.",
+        "Credit": 8,
+        "Year": 2,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 6,
+        "Period": [
+            1
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Tests",
+                "Type": "Test",
+                "Weight": 30,
+                "Equal": true,
+                "Dynamic": true,
+                "Subitems": [
+                    {
+                        "Name": "Assignments",
+                        "Type": "Assignment"
+                    },
+                    {
+                        "Name": "Tutorials",
+                        "Type": "Tutorial"
+                    }
+                ]
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 70
+            }
+        ],
+        "Prerequisite": {
+            "Code": "ENME1EM"
+        },
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENME2TH",
+        "Name": "Thermodynamics 1",
+        "Description": "An understanding of the fundamental properties of gases and condensable vapours needed for thermodynamic \nanalysis. To be able to apply the conservation of energy and mass in closed and open systems which involve work \ntransfer, expansion, compression processes, heating, cooling and velocity changes.",
+        "Credit": 8,
+        "Year": 2,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 6,
+        "Period": [
+            1
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Tests",
+                "Type": "Test",
+                "Weight": 30
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 70
+            }
+        ],
+        "Prerequisite": "",
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "MATH238",
+        "Name": "Mathematics 2A (Eng)",
+        "Description": "To exhaustively cover the methods & applications of multivariable calculus.",
+        "Credit": 16,
+        "Year": 2,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 35,
+        "NQF": 6,
+        "Period": [
+            1
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Class Tests",
+                "Type": "Test",
+                "Weight": 33,
+                "Equal": true,
+                "Dynamic": true,
+                "Subitems": [
+                    {
+                        "Name": "Assignments",
+                        "Type": "Assignment"
+                    }
+                ]
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 67
+            }
+        ],
+        "Prerequisite": {
+            "$and": [
+                {
+                    "Code": "MATH141",
+                    "Mark": "40"
+                },
+                {
+                    "Code": "MATH131"
+                }
+            ]
+        },
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENEL2EC",
+        "Name": "Electronic Engineering",
+        "Description": "To understand the frequency spectra of some periodic and non-periodic signals. Analyse and test the performance\nof some simple analogue and digital circuits.",
+        "Credit": 8,
+        "Year": 2,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 6,
+        "Period": [
+            2
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Class Mark",
+                "Type": "Coursework",
+                "Weight": 30,
+                "Dynamic": true
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 70
+            }
+        ],
+        "Prerequisite": {
+            "Code": "ENEL2EL"
+        },
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENEL2EN",
+        "Name": "Environmental Engineering",
+        "Description": "Students will cultivate an appreciation for the environment, will know environmental legislation, how to implement \nappropriate environmental management strategies and environmental impact assessments and be aware of ISO \nstandards and of how to implement them. Introduced to GA10 (Engineering professionalism) satisfactorily, as specified \nin the module outline.",
+        "Credit": 8,
+        "Year": 2,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 6,
+        "Period": [
+            2
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Tests",
+                "Type": "Test",
+                "Weight": 25
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 75
+            }
+        ],
+        "Prerequisite": "",
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENME2DM",
+        "Name": "Design Methods",
+        "Description": "Structural and machine riveting. Threaded forms and standards, static screw stresses, screw efficiency. \nTension and compression helical wound springs. Disk clutches, drums, disk and band brakes. Flat and V-belts, toothed \nbelts and roller chains. Spur gear forces and static strength of spur gear teeth. Shaft dimensions, coupling and bearings.",
+        "Credit": 16,
+        "Year": 2,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 6,
+        "Period": [
+            2
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Tests",
+                "Type": "Test",
+                "Weight": 30,
+                "Equal": true,
+                "Dynamic": true,
+                "Subitems": [
+                    {
+                        "Name": "Assignments",
+                        "Type": "Assignment"
+                    }
+                ]
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 70
+            }
+        ],
+        "Prerequisite": "",
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENME2MM",
+        "Name": "Measurements & Exptl Methods",
+        "Description": ": Measurement of experimental parameters, measurement techniques and devices, accuracy and uncertainty, \nSI units, error calculations and dimensional analysis.",
+        "Credit": 8,
+        "Year": 2,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 6,
+        "Period": [
+            2
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Tests",
+                "Type": "Test",
+                "Weight": 45,
+                "Equal": true,
+                "Dynamic": true,
+                "Subitems": [
+                    {
+                        "Name": "Practicals",
+                        "Type": "Practical"
+                    }
+                ]
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 55
+            }
+        ],
+        "Prerequisite": "",
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENME2SM",
+        "Name": "Strength of Materials 1",
+        "Description": "To provide students with basic know-how regarding the behaviour of selected structure groups under various types\nof loading.",
+        "Credit": 16,
+        "Year": 2,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 6,
+        "Period": [
+            2
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Tests",
+                "Type": "Test",
+                "Weight": 30,
+                "Equal": true,
+                "Dynamic": true,
+                "Subitems": [
+                    {
+                        "Name": "Assignments",
+                        "Type": "Assignment"
+                    }
+                ]
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 70
+            }
+        ],
+        "Prerequisite": {
+            "$and": [
+                {
+                    "Code": "ENME1ED"
+                },
+                {
+                    "Code": "MATH142"
+                }
+            ]
+        },
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "MATH248",
+        "Name": "Mathematics 2B (Eng)",
+        "Description": "To exhaustively cover linear differential equations, eigenvalue theory, and to prepare students for more advanced\nmethods.",
+        "Credit": 16,
+        "Year": 2,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 35,
+        "NQF": 6,
+        "Period": [
+            2
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Tests",
+                "Type": "Test",
+                "Weight": 33,
+                "Equal": true,
+                "Dynamic": true,
+                "Subitems": [
+                    {
+                        "Name": "Assignments",
+                        "Type": "Assignment"
+                    }
+                ]
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 67
+            }
+        ],
+        "Prerequisite": {
+            "$and": [
+                {
+                    "Code": "MATH238",
+                    "Mark": "40"
+                },
+                {
+                    "Code": "MATH141"
+                }
+            ]
+        },
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENME2WS",
+        "Name": "Workshop Course",
+        "Description": "Candidates to acquire an appreciation and basic skills in common fabrication techniques, and familiarize\nthemselves with the structure and function of common mechanical engineering and machine shop equipment items.",
+        "Credit": 0,
+        "Year": 2,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 6,
+        "Period": [
+            2
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [],
+        "Prerequisite": [],
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENCH4ML",
+        "Name": "Eng. Mgmt & Labour Relations",
+        "Description": "To provide students with the managerial and legal knowledge and skills they require in their early professional\nyears.",
+        "Credit": 8,
+        "Year": 3,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 7,
+        "Period": [
+            1
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Test 1",
+                "Type": "Test",
+                "Weight": 30,
+                "Equal": true,
+                "Dynamic": true,
+                "Subitems": [
+                    {
+                        "Name": "Test 1",
+                        "Type": "Test"
+                    },
+                    {
+                        "Name": "Assignment",
+                        "Type": "Assignment"
+                    }
+                ]
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 70
+            }
+        ],
+        "Prerequisite": {
+            "Comment": "All first, and at least 96 credits of second year modules, must be completed."
+        },
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENEL3MA",
+        "Name": "Electrical Machines 1",
+        "Description": "Understand the characteristics and applications of various electrical machines and mechanical loads. Predict \nelectrical and mechanical characteristics of different electrical machines with loads and appreciation of temperature rise. \nUnderstand AC to DC current conversion techniques. Developed in GA9 (Independent learning ability) satisfactorily as \nspecified in the module outline.",
+        "Credit": 8,
+        "Year": 3,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 7,
+        "Period": [
+            1
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Class Mark",
+                "Type": "Coursework",
+                "Weight": 30
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 70
+            }
+        ],
+        "Prerequisite": {
+            "$or": [
+                {
+                    "Code": "ENEL2EL"
+                },
+                {
+                    "Code": "ENEL2EA"
+                }
+            ]
+        },
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENEL3SS",
+        "Name": "Systems and Simulation",
+        "Description": "Understand how to model, simulate and analyse dynamic systems. Developed in GA9 (Independent learning\nability) satisfactorily, as specified in the module outline.",
+        "Credit": 8,
+        "Year": 3,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 7,
+        "Period": [
+            1
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Tests",
+                "Type": "Test",
+                "Weight": 30,
+                "Equal": true,
+                "Dynamic": true,
+                "Subitems": [
+                    {
+                        "Name": "Coursework",
+                        "Type": "Coursework"
+                    }
+                ]
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 70
+            }
+        ],
+        "Prerequisite": {
+            "$and": [
+                {
+                    "$or": [
+                        {
+                            "Code": "ENEL2EA"
+                        },
+                        {
+                            "Code": "ENEL2EL"
+                        }
+                    ]
+                },
+                {
+                    "Code": "MATH248"
+                }
+            ]
+        },
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENME3DM",
+        "Name": "Design of Machine Elements",
+        "Description": "To acquire expertise in safety and reliability for the design of engineering components and systems as well as\nknowledge of impact forces and effects as well as fracture and fatigue.",
+        "Credit": 16,
+        "Year": 3,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 7,
+        "Period": [
+            1
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Tests",
+                "Type": "Test",
+                "Weight": 30,
+                "Equal": true,
+                "Dynamic": true,
+                "Subitems": [
+                    {
+                        "Name": "Design Project Assignment",
+                        "Type": "Assignment"
+                    },
+                    {
+                        "Name": "Report",
+                        "Type": "Report"
+                    }
+                ]
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 70
+            }
+        ],
+        "Prerequisite": {
+            "$and": [
+                {
+                    "Code": "ENME2DM"
+                },
+                {
+                    "Code": "ENME2SM"
+                }
+            ]
+        },
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENME3ST",
+        "Name": "Strength of Materials 2",
+        "Description": "To perform analysis for continuous beams, plates, shells, thick cylinders and disks, including the use of numerical\nand energy methods for stress-strain problems.",
+        "Credit": 16,
+        "Year": 3,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 7,
+        "Period": [
+            1
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Tests",
+                "Type": "Test",
+                "Weight": 30
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 70
+            }
+        ],
+        "Prerequisite": {
+            "Code": "ENME2SM"
+        },
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "MATH354",
+        "Name": "Mathematics 3 (Eng)",
+        "Description": "To provide the student with essential tools of advanced applied mathematics",
+        "Credit": 8,
+        "Year": 3,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 30,
+        "NQF": 7,
+        "Period": [
+            1
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Class Tests",
+                "Type": "Test",
+                "Weight": 33,
+                "Equal": true,
+                "Dynamic": true,
+                "Subitems": [
+                    {
+                        "Name": "Assignments",
+                        "Type": "Assignment"
+                    }
+                ]
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 67
+            }
+        ],
+        "Prerequisite": {
+            "$and": [
+                {
+                    "Code": "MATH248",
+                    "Mark": "40"
+                },
+                {
+                    "Code": "MATH238"
+                }
+            ]
+        },
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "STAT370",
+        "Name": "Engineering Statistics",
+        "Description": "To introduce engineering students to elementary probability theory and statistical methods.",
+        "Credit": 8,
+        "Year": 3,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 30,
+        "NQF": 7,
+        "Period": [
+            1
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Tests",
+                "Type": "Test",
+                "Weight": 30
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 70
+            }
+        ],
+        "Prerequisite": {
+            "Comment": "DP in MATH248"
+        },
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENEL3CS",
+        "Name": "Control Systems 1",
+        "Description": "Understand about feedback systems and feedback design.",
+        "Credit": 8,
+        "Year": 3,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 7,
+        "Period": [
+            2
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Class Mark",
+                "Type": "Coursework",
+                "Weight": 30
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 70
+            }
+        ],
+        "Prerequisite": {
+            "$and": [
+                {
+                    "Code": "ENEL3SS"
+                },
+                {
+                    "Code": "MATH354"
+                }
+            ]
+        },
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENME3FM",
+        "Name": "Fluid Mechanics 2 ",
+        "Description": "To learn fluid mechanics fluid mechanics concepts for flows that the engineer will encounter in industry. The\nability to apply these concepts to engineering type flow problems and fluid flow design problems.",
+        "Credit": 16,
+        "Year": 3,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 7,
+        "Period": [
+            2
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Class Mark",
+                "Type": "Coursework",
+                "Weight": 30
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 70
+            }
+        ],
+        "Prerequisite": {
+            "Code": "ENME2FM"
+        },
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENME3HM",
+        "Name": "Heat & Mass Transfer 1",
+        "Description": "To assess the magnitude of heat transfer by conduction, convection and radiation and in mixed environments. To\ndetermine the performance of devices that rely on heat and mass transfer.",
+        "Credit": 16,
+        "Year": 3,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 7,
+        "Period": [
+            2
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Tests",
+                "Type": "Test",
+                "Weight": 30
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 70
+            }
+        ],
+        "Prerequisite": "",
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENME3MT",
+        "Name": "Manufacturing Technology",
+        "Description": "To earn engineering principles of manufacturing processes and machine tools: manufacturing, economics and\noptimisation problems",
+        "Credit": 8,
+        "Year": 3,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 7,
+        "Period": [
+            2
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Tests",
+                "Type": "Test",
+                "Weight": 30
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 70
+            }
+        ],
+        "Prerequisite": "",
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENME3SM",
+        "Name": "Selection of Engineering Materials",
+        "Description": "To learn about engineering materials & applications in order to correctly select materials for a given design.",
+        "Credit": 8,
+        "Year": 3,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 7,
+        "Period": [
+            2
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Tests",
+                "Type": "Test",
+                "Weight": 30,
+                "Equal": true,
+                "Dynamic": true,
+                "Subitems": [
+                    {
+                        "Name": "Assignments",
+                        "Type": "Assignment"
+                    },
+                    {
+                        "Name": "Tutorials",
+                        "Type": "Tutorial"
+                    },
+                    {
+                        "Name": "Practical Reports",
+                        "Type": "Report"
+                    }
+                ]
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 70
+            }
+        ],
+        "Prerequisite": {
+            "Code": "ENME2PM"
+        },
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENME3TH",
+        "Name": "Thermodynamics 2",
+        "Description": ": To apply basic thermodynamics to the operation and behaviour of real machinery such as gas compressors,\npiston engines, gas turbines, jet engines, refrigeration plant and steam power plant.",
+        "Credit": 8,
+        "Year": 3,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 7,
+        "Period": [
+            2
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Tests",
+                "Type": "Test",
+                "Weight": 30
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 70
+            }
+        ],
+        "Prerequisite": {
+            "Code": "ENME2TH"
+        },
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENME3TM",
+        "Name": "Theory of Machines",
+        "Description": "To provide the student with an insight into the theory of multibody mechanical systems and into the modern\ncomputer-aided techniques applied in the analysis and synthesis of moving assemblies.",
+        "Credit": 8,
+        "Year": 3,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 7,
+        "Period": [
+            2
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Tests",
+                "Type": "Test",
+                "Weight": 30,
+                "Equal": true,
+                "Dynamic": true,
+                "Subitems": [
+                    {
+                        "Name": "Assignments",
+                        "Type": "Assignment"
+                    }
+                ]
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 70
+            }
+        ],
+        "Prerequisite": {
+            "Code": "ENME2DY"
+        },
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENME4AM",
+        "Name": "Advanced Manufacturing Systems",
+        "Description": "To equip students to function effectively as manufacturing engineers in the context of the modern manufacturing\nenvironment.",
+        "Credit": 8,
+        "Year": 4,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 8,
+        "Period": [
+            1
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Tests",
+                "Type": "Test",
+                "Weight": 30,
+                "Equal": true,
+                "Dynamic": true,
+                "Subitems": [
+                    {
+                        "Name": "Practical Reports",
+                        "Type": "Report"
+                    }
+                ]
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 70
+            }
+        ],
+        "Prerequisite": {
+            "Code": "ENME3MT"
+        },
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENME4CM",
+        "Name": "Engineering Computational Methods",
+        "Description": "To provide the students with an ability to analyse, design and synthesize complex engineering systems using\ncomputational techniques.",
+        "Credit": 8,
+        "Year": 4,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 8,
+        "Period": [
+            1
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Tests",
+                "Type": "Test",
+                "Weight": 20
+            },
+            {
+                "Name": "Assignments",
+                "Type": "Assignment",
+                "Weight": 30
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 50
+            }
+        ],
+        "Prerequisite": {
+            "$and": [
+                {
+                    "Code": "ENME3ST"
+                },
+                {
+                    "Code": "ENME3FM"
+                }
+            ]
+        },
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENME4FP",
+        "Name": "Design of Fluid Power Systems",
+        "Description": "To provide an understanding of the operation of equipment used in fluid power systems and to develop the ability\nto design such systems.",
+        "Credit": 8,
+        "Year": 4,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 8,
+        "Period": [
+            1
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Test 1",
+                "Type": "Test",
+                "Weight": 30,
+                "Equal": true,
+                "Dynamic": true,
+                "Subitems": [
+                    {
+                        "Name": "Test 2",
+                        "Type": "Test"
+                    },
+                    {
+                        "Name": "Assignments",
+                        "Type": "Assignment"
+                    }
+                ]
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 70
+            }
+        ],
+        "Prerequisite": {
+            "Code": "ENME3FM"
+        },
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENME4PD",
+        "Name": "Design and Research Project 1",
+        "Description": "To develop the ability of students to work in a team which can take a broad statement of a problem, convert it into \nengineering terms, and produce an acceptable product which solves the problem. Skills in writing complex technical \nreports and oral presentations, as well as the ability to produce working prototypes will be developed.",
+        "Credit": 16,
+        "Year": 4,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 8,
+        "Period": [
+            1
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Assignments",
+                "Type": "Assignment",
+                "Weight": 30
+            },
+            {
+                "Name": "Dissertation",
+                "Type": "Dissertation",
+                "Weight": 70
+            }
+        ],
+        "Prerequisite": {
+            "$and": [
+                {
+                    "Code": "ENME2WS"
+                },
+                {
+                    "Code": "ENME3DM"
+                },
+                {
+                    "Comment": "Student must be in a position to complete the degree within 3 semesters."
+                }
+            ]
+        },
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENME4TD",
+        "Name": "Thermodynamics 3 ",
+        "Description": "To introduce students to the methods of analysis of mixtures of gases and condensable vapours, combustion \nprocesses, the high speed flow through nozzles and diffusers and their application to the thermodynamics of turbines \nand compressors.",
+        "Credit": 8,
+        "Year": 4,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 8,
+        "Period": [
+            1
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Tests",
+                "Type": "Test",
+                "Weight": 30,
+                "Equal": true,
+                "Dynamic": true,
+                "Subitems": [
+                    {
+                        "Name": "Assignments",
+                        "Type": "Assignment"
+                    }
+                ]
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 70
+            }
+        ],
+        "Prerequisite": {
+            "Code": "ENME3TH"
+        },
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ZULN101",
+        "Name": "Basic isiZulu Language Studies A",
+        "Description": "This module introduces basic grammar, history and culture of the amaZulu. Lectures combine an academic \nstudy of IsiZulu with the use of a communicat ive method of language learning.",
+        "Credit": 16,
+        "Year": 4,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 35,
+        "NQF": 8,
+        "Period": [
+            1
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Two tests and or practical assignments h exam",
+                "Type": "Coursework",
+                "Weight": "35%",
+                "Dynamic": true
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Open to students who have not written an Nguni mother tongue Grade 12 examination."
+            }
+        ],
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENEL4EB",
+        "Name": "Engineering Business",
+        "Description": "Explain what corporate business is, the different sectors of businesses, sizes of enterprises, business strategy and \nplanning. Read a business balance sheet and measure the performance of the business. Understand marketing \nprinciples. Understand the use of labour in business and some industrial relations issues. Be able to explain the role of \nthe engineer in fulfilling business strategy. Explain the need to act professionally and ethically and to exercise judgment \nand take responsibility within own limits of competence.",
+        "Credit": 8,
+        "Year": 4,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 8,
+        "Period": [
+            1
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Class Mark",
+                "Type": "Coursework",
+                "Weight": 30
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 70
+            }
+        ],
+        "Prerequisite": "",
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENME4MR",
+        "Name": "Modern Robotics 1",
+        "Description": "To provide students with an understanding of the kinematic and Jacobian analysis of both serial and parallel\nrobotic architectures.",
+        "Credit": 8,
+        "Year": 4,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 8,
+        "Period": [
+            1
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Tests",
+                "Type": "Test",
+                "Weight": 30
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 70
+            }
+        ],
+        "Prerequisite": {
+            "Code": "ENME3TM"
+        },
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENME4ES",
+        "Name": "Alternative Energy Systems",
+        "Description": "To enable students to choose among different energy systems and design energy producing systems.",
+        "Credit": 8,
+        "Year": 4,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 8,
+        "Period": [
+            1
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Tests",
+                "Type": "Test",
+                "Weight": 30
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 70
+            }
+        ],
+        "Prerequisite": {
+            "Code": "ENME3FM"
+        },
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENME4ME",
+        "Name": "Selected Topics in Mech. Eng 1",
+        "Description": "Candidates will demonstrate: an ability to understand a topic of engineering importance and to be able to apply it \nin theory or in practice; a broader perspective of engineering activities which may facilitate progression into postgraduate \nstudies in this field.",
+        "Credit": 8,
+        "Year": 4,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 8,
+        "Period": [
+            1
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Tests",
+                "Type": "Test",
+                "Weight": 30
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 70
+            }
+        ],
+        "Prerequisite": "",
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENME4RP",
+        "Name": "Rocket Propulsion 1",
+        "Description": "To provide students with an understanding of rocket propulsion elements and propulsion design methods",
+        "Credit": 8,
+        "Year": 4,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 8,
+        "Period": [
+            1
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Class Mark",
+                "Type": "Test",
+                "Weight": 30
+            },
+            {
+                "Name": "Final Examination",
+                "Type": "Exam",
+                "Weight": 70
+            }
+        ],
+        "Prerequisite": {
+            "$and": [
+                {
+                    "Code": "ENME3FM"
+                },
+                {
+                    "Code": "ENME3TH"
+                }
+            ]
+        },
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENEL4EE",
+        "Name": "Engineering Entrepreneurship",
+        "Description": "To identify entrepreneurial characteristics & ability. To be aware of the various types of enterprises. To understand \nthe need to set goals & objectives. To develop a simple business plan. To understand the need for marketing and selling. \nTo identify key operating ratios of an enterprise. To be aware of how people are managed. To be aware of legal \ncommitments of an enterprise.",
+        "Credit": 8,
+        "Year": 4,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 8,
+        "Period": [
+            2
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Class Mark",
+                "Type": "Coursework",
+                "Weight": 20
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 80
+            }
+        ],
+        "Prerequisite": "",
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENME4DP",
+        "Name": "Design and Research Project 2",
+        "Description": " To understand the design process and apply this in real engineering situations. Experience in: teamwork, \nspecification development, concept generation and selection, analysis and synthesis, data collection and interpretation, \nwritten and verbal communication.",
+        "Credit": 24,
+        "Year": 4,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 8,
+        "Period": [
+            2
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Oral Presentation",
+                "Type": "Presentation",
+                "Weight": 10
+            },
+            {
+                "Name": "Open Day Poster Presentation",
+                "Type": "Presentation",
+                "Weight": 10
+            },
+            {
+                "Name": "Professional Practice Assignment",
+                "Type": "Assignment",
+                "Weight": 10
+            },
+            {
+                "Name": "Supervisor's Mark",
+                "Type": "Coursework",
+                "Weight": 10
+            },
+            {
+                "Name": "Dissertation",
+                "Type": "Dissertation",
+                "Weight": 60
+            }
+        ],
+        "Prerequisite": {
+            "Code": "ENME4PD"
+        },
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENME4MT",
+        "Name": "Mechatronic Engineering",
+        "Description": "To provide students with an understanding of the ability to apply and integrate mechanical and electrical\ncomponents or devices to control processes or machines to achieve control engineering objectives.",
+        "Credit": 8,
+        "Year": 4,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 8,
+        "Period": [
+            2
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Tests",
+                "Type": "Test",
+                "Weight": 30,
+                "Equal": true,
+                "Dynamic": true,
+                "Subitems": [
+                    {
+                        "Name": "Assignment",
+                        "Type": "Assignment"
+                    }
+                ]
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 70
+            }
+        ],
+        "Prerequisite": {
+            "Code": "ENME3MT"
+        },
+        "Corequisite": {
+            "Code": "ENEL3CS"
+        },
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENME4MV",
+        "Name": "Mechanical Vibrations",
+        "Description": "To provide the student with the ability to analyze and to solve a broad spectrum of vibration problems found in\nmechanical engineering practice.",
+        "Credit": 8,
+        "Year": 4,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 8,
+        "Period": [
+            2
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Tests",
+                "Type": "Test",
+                "Weight": 30,
+                "Equal": true,
+                "Dynamic": true,
+                "Subitems": [
+                    {
+                        "Name": "Assignment",
+                        "Type": "Assignment"
+                    }
+                ]
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 70
+            }
+        ],
+        "Prerequisite": {
+            "Code": "ENME2DY"
+        },
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENME4VW",
+        "Name": "Vacation Work",
+        "Description": "An appreciation of a realistic working environment, enabling candidates to consider their studies in context.",
+        "Credit": 0,
+        "Year": 4,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 8,
+        "Period": [
+            2
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [],
+        "Prerequisite": "",
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENME4RM",
+        "Name": "Modern Robotics 2",
+        "Description": ": To provide students with an understanding of the static and dynamic analysis of both serial and parallel\nrobotic manipulator architectures. To provide students with an understanding of robot trajectory planning.",
+        "Credit": 8,
+        "Year": 4,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 8,
+        "Period": [
+            2
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Tests",
+                "Type": "Test",
+                "Weight": 30
+            },
+            {
+                "Name": "Final Examination",
+                "Type": "Exam",
+                "Weight": 70
+            }
+        ],
+        "Prerequisite": {
+            "Code": "ENME4MR"
+        },
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENME4EM",
+        "Name": "Energy Management",
+        "Description": "To enable students to manage large scale energy systems.",
+        "Credit": 8,
+        "Year": 4,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 8,
+        "Period": [
+            2
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Tests",
+                "Type": "Test",
+                "Weight": 30
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 70
+            }
+        ],
+        "Prerequisite": "",
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENME4MN",
+        "Name": "Selected Topics in Mech. Eng. 2",
+        "Description": " Candidates will demonstrate: An ability to understand a topic of engineering importance and to be able to apply it \nin theory or in practice; a broader perspective of engineering activities which may facilitate progression into postgraduate \nstudies in this field.",
+        "Credit": 8,
+        "Year": 4,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 8,
+        "Period": [
+            2
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Tests",
+                "Type": "Test",
+                "Weight": 30
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 70
+            }
+        ],
+        "Prerequisite": "",
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "ENME4TM",
+        "Name": "Turbomachine Design",
+        "Description": "To provide students with a foundation in the design and optimisation of turbomachines in the context of aerospace\npropulsion.",
+        "Credit": 8,
+        "Year": 4,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 0,
+        "NQF": 8,
+        "Period": [
+            2
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Test",
+                "Type": "Test",
+                "Weight": 30,
+                "Equal": true,
+                "Dynamic": true,
+                "Subitems": [
+                    {
+                        "Name": "Assignment",
+                        "Type": "Assignment"
+                    }
+                ]
+            },
+            {
+                "Name": "Final Examination",
+                "Type": "Exam",
+                "Weight": 70
+            }
+        ],
+        "Prerequisite": {
+            "$and": [
+                {
+                    "Code": "ENME3FM"
+                },
+                {
+                    "Code": "ENME4TD"
+                }
+            ]
+        },
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "MATH360",
+        "Name": "Numerical Methods",
+        "Description": "To provide the student with a knowledge and understanding of basic approximate methods for solving\nmathematical problems in engineering.",
+        "Credit": 8,
+        "Year": 4,
+        "CourseGroup": null,
+        "Faculty": null,
+        "DP": 30,
+        "NQF": 8,
+        "Period": [
+            2
+        ],
+        "Passmark": 0,
+        "Passmarks": null,
+        "Assessment": [
+            {
+                "Name": "Class Tests",
+                "Type": "Test",
+                "Weight": 33,
+                "Equal": true,
+                "Dynamic": true,
+                "Subitems": [
+                    {
+                        "Name": "Assignments",
+                        "Type": "Assignment"
+                    }
+                ]
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 67
+            }
+        ],
+        "Prerequisite": {
+            "Code": "MATH248",
+            "Mark": "40"
+        },
+        "Corequisite": "",
+        "Duration": "Semester"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS1LW",
+        "Name": "Introduction to Law",
+        "Credits": "16",
+        "Duration": "1",
+        "Assessment": [
+            {
+                "Name": "Formative assessment in the form of tutorial assignments and or research skills exercises and tests contributing of the final mark The assessment will take the form of a summative assessment in the form of a hour examination contributing of the final mark",
+                "Type": "Coursework",
+                "Weight": "40%",
+                "Dynamic": true
+            }
+        ],
+        "Description": "Introduction to law will provide students with a ba sic background to law and the legal system in South Africa. \nStudents will acquire an understanding of: -Some legal philosophies and be able to apply these philosophies to current \nlegal situations. -The structure of the legal system and be able to identify the correct tribunal and procedure. -The \nsources and classifications of South African Law. \u2013Selected principles of Delict. -The basic principles of criminal law \nand be able to apply these principles to a factual scenario.",
+        "DP": 35
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS1FL",
+        "Name": "Foundations of SA Law",
+        "Credits": "16",
+        "Duration": "2",
+        "Assessment": [
+            {
+                "Name": "Class mark",
+                "Type": "Coursework",
+                "Weight": "40%",
+                "Dynamic": true
+            },
+            {
+                "Name": "Examination Law and Management Studies DP Requirement The student is expected to attend all lectures and attend all tutorials the student must obtain a minimum of for the semester mark",
+                "Type": "Exam",
+                "Weight": "60%"
+            }
+        ],
+        "Description": "An overview of the origi ns and development of the South African law and legal system including indigenous \nlaw, Roman  Dutch  law and the influence  of English  law, focussing  on ownership  and possession  and the law of contract; \nAccess to justice; The e quality clause focussing on HIV/AIDS; Legal writing (including FIRAC); Field research and \ninterviewing skills; Numeracy  skills."
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS2CR",
+        "Name": "Criminal Law",
+        "Credits": "16",
+        "Duration": "1 or 2"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS2FM",
+        "Name": "Family Law",
+        "Credits": "16",
+        "Duration": "1 or 2",
+        "Assessment": [
+            {
+                "Name": "Students will be assessed by means of two class tests assignments",
+                "Type": "Coursework",
+                "Weight": 0,
+                "Dynamic": true
+            },
+            {
+                "Name": "which will together count of the final mark for the module A three hour final examination will provide the remaining of the final mark",
+                "Type": "Coursework",
+                "Weight": "30%",
+                "Dynamic": true
+            }
+        ],
+        "Description": "Part A: The Law relating to marriages, including customary and religious marriages; civil -unions and \ncohabitative relationships: specifically engagements; legal requirements  for the conclusion of a marriage/civil union; \nlegal  consequences  of a marriage/civil -union;  dissolution  of marriages/civil -unions  as well as the consequences  thereof; \nand, the legal duties between cohabitees. Part B: Law of Parent and Child/ Care and Prot ection of Children: children\u2019s \nrights; parental rights and responsibilities; discipline and the child\u2019s right to choose; child abuse; temporary alternative \ncare; adoption; trans -jurisdictional aspects;  education.",
+        "DP": 80
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS2LP",
+        "Name": "Law of Persons",
+        "Credits": "8",
+        "Duration": "1 or 2",
+        "Assessment": [
+            {
+                "Name": "Test or assignments Exam",
+                "Type": "Exam",
+                "Weight": "30%"
+            }
+        ],
+        "Description": "Legal personality (the beginning and end of legal personality); Statu s and capacity: Factors affecting status: \ndomicile; gender; age (minority); extra -marital birth (legitimacy) -includes parental power and adoption of extra -marital \nchildren; artificial insemination; proof of paternity; mental illness; prodigality; and inabi lity to manage one\u2019s own affairs.",
+        "DP": 80
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS2LR",
+        "Name": "Legal Research Writing & Reasoning",
+        "Credits": "8",
+        "Duration": "1 or 2",
+        "Assessment": [
+            {
+                "Name": "The students are required to write a test s and or assignment s tests",
+                "Type": "Coursework",
+                "Weight": 0,
+                "Dynamic": true
+            },
+            {
+                "Name": "which constitutes of the final mark In addition a final two hour exam is also written and makes up of the final mark",
+                "Type": "Coursework",
+                "Weight": "30%",
+                "Dynamic": true
+            }
+        ],
+        "Description": "Process of legal research; sources of law and categories of sources; topic analysis; different types of logical \nreasoning ; critical reasoning; approach to answering legal problems; plagiarism; footnoting and referencing; evaluation \nof sources; legal writing; electronic and print resources.",
+        "DP": 80
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS2CS",
+        "Name": "Constitutional Law",
+        "Credits": "16",
+        "Duration": "1 or 2",
+        "Assessment": [
+            {
+                "Name": "Class Mark and Examination",
+                "Type": "Exam",
+                "Weight": "30%"
+            }
+        ],
+        "Description": "Fundamental  concepts  and theories  of constitutional  law; South  African  constitutional  history;  basic  structures \nof the South  African  Constitution;  the structure  of states;  electoral  systems;  the composition,  powers,  responsibility,  and \nlimits of the legislatures; the composition, powers, responsibility and limits of the executive; the compo sition, powers, \nresponsibility and limits of the judiciary; the operational provisions of the Bill of Rights; discussion on selected Chapter \n9 Institutions.",
+        "DP": 75
+    },
+    {
+        "Code": "LAWS2DL",
+        "Name": "Delict",
+        "Credits": "16",
+        "Duration": "1 or 2",
+        "Assessment": [
+            {
+                "Name": "The two assessments for the module are to take the form of tests or assignments",
+                "Type": "Coursework",
+                "Weight": 0,
+                "Dynamic": true
+            },
+            {
+                "Name": "the me thod of testing to be at the lecturer s discretion Each form of assessment shall be allotted of the overall marks for the module One examination will be written at the end of the semester for of the overall mark",
+                "Type": "Coursework",
+                "Weight": "15%",
+                "Dynamic": true
+            }
+        ],
+        "Description": "Definition  of delict;  theories  of compensation;  modern  aquilian  and actio  injuriarum  actions;  defences;  specific \nwrongs; assessment of damages; vicarious liability; joint wrongdoers; apportionment of damages; strict liability; liability \nfor animals; product  liability.",
+        "DP": 80
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS2HR",
+        "Name": "Human Rights",
+        "Credits": "8",
+        "Duration": "1 or 2",
+        "Assessment": [
+            {
+                "Name": "Students will be assessed by me ans of two class tests assignments",
+                "Type": "Coursework",
+                "Weight": 0,
+                "Dynamic": true
+            },
+            {
+                "Name": "which will together count of the final mark for the module A three hour final examination will provide the remaining of the final mark",
+                "Type": "Coursework",
+                "Weight": "30%",
+                "Dynamic": true
+            }
+        ],
+        "Description": "Part one: Introduction: This section is an introduction to human rights, its covers the historical and \nphilosophical  roots  of human  rights  and briefly  shows  how human  rights  have  become  part of national  and international \nlaw. The regional systems of Human Rights protection is also dealt with. Part two: History of apartheid: This section \ndeals with the history of human rights abuses and the trans ition to democracy in South Africa. It includes an \nunderstanding of the work of the Truth and Reconciliation Commission. Part Three: Protection of human rights: This \nsection covers the legal protection and enforcement of human rights in South Africa. It lo oks at the Bill of Rights, other \nhuman rights legislation and institutions created to protect human  rights.",
+        "DP": 40
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS2LW",
+        "Name": "Interpretation of Law",
+        "Credits": "8",
+        "Duration": "1 or 2",
+        "Assessment": [
+            {
+                "Name": "The following assessments must be completed by the student One test weighing of the total mark Two assignment weighing each Writing portfolio weighing of the total mark",
+                "Type": "Coursework",
+                "Weight": "50%",
+                "Dynamic": true
+            }
+        ],
+        "Description": "Introduction; basic concepts and an historical overview; nature and process of interpretation; Theories of",
+        "DP": 0
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS2PR",
+        "Name": "Property",
+        "Credits": "16",
+        "Duration": "1 or 2",
+        "Assessment": [
+            {
+                "Name": "The methods of assessment for the module comprise the following Test or Assignment which would constitute of the semester mark and an examination of",
+                "Type": "Coursework",
+                "Weight": "30%",
+                "Dynamic": true
+            }
+        ],
+        "Description": "Basic concepts, definition s and sources of property law; Definition and classification of things; Real and \npersonal rights; The changing nature of ownership; acquisition and protection of, and limits on, ownership; Limited real \nrights (possession and servitudes); Constitutional pro tection of property and legislative limits on ownership, including \nland reform.",
+        "DP": 40
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS3CT",
+        "Name": "Contract",
+        "Credits": "16",
+        "Duration": "1 or 2",
+        "Assessment": [
+            {
+                "Name": "One Test Assignm ent Examination",
+                "Type": "Exam",
+                "Weight": "20%"
+            }
+        ],
+        "Description": "Introduction; requirements for a valid contract; voidable contracts; contents of a contract; interpretation of \ncontract; performance; miscellaneous provisions; plurality of parties; stipulatio alteri; cession, delegation and \nassignment; var iation, waiver and estoppel; consensual termination; breach of contract and remedies.  Law and Management Studies  191",
+        "DP": 40
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS3IN",
+        "Name": "International Law",
+        "Credits": "12",
+        "Duration": "1 or 2",
+        "Assessment": [
+            {
+                "Name": "Class test s or Assignment s of and an Examination of",
+                "Type": "Exam",
+                "Weight": "20%"
+            }
+        ],
+        "Description": "The history,  nature,  purpose  and sources  of international  law; The relationship  between  international  law and \nmunicipal  law; The international  legal  personalities;  The recognition  of states  and governments;  Territory,  including  sea, \nair and space; Jurisdiction and immunity; State responsibility; The  law of treaties; International environmental law; \nInternational human rights: International institutions; The use of force by stats; International humanitarian law; The \npeaceful settlement of international  disputes.",
+        "DP": 75
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS3PT",
+        "Name": "Professional Training 1",
+        "Credits": "8",
+        "Duration": "1 or 2",
+        "Assessment": [
+            {
+                "Name": "Two tests and or an assignment weighted at Examination",
+                "Type": "Exam",
+                "Weight": "25%"
+            }
+        ],
+        "Description": "The legal profession and legal professional ethics; taking instructions; demand, general principles of legal \ndrafting; legal correspondence; specific topics relating to legal letters: drafting agreements; specific topics relating to \ndrafting agre ements; drafting memoranda to counsel; client counselling; client interviewing.",
+        "DP": 40
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS3SO",
+        "Name": "Specific Offences",
+        "Credits": "8",
+        "Duration": "1 or 2",
+        "Description": "Offences against the person including homicide, assault, rape, crimen injuria, intimidation; offences against \nproperty including theft, special forms of theft, robbery, extortion, fraud, malicious injury to property, arson; offences \nagainst  morality  includ ing sexual  offences;  offences  against  family  life including  abduction;  offences  against  freedom  of \nmovement; including kidnapping; of fences against the administration of justice including perjury, defeating/obstructing \nthe course of justice; offences against the state including treason, sedition, public violence; offences against intrusion \nincluding  housebreaking  with intent;  organized  crime  and money  laundering;  criminalization;  impact  of the Bill of Rights \non specific  offences.",
+        "DP": 80
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS3SC",
+        "Name": "Succession",
+        "Credits": "12",
+        "Duration": "1 or 2",
+        "Assessment": [
+            {
+                "Name": "Students are expected to write two tests",
+                "Type": "Coursework",
+                "Weight": 0,
+                "Dynamic": true
+            },
+            {
+                "Name": "each counting for of the assessment",
+                "Type": "Coursework",
+                "Weight": "50%",
+                "Dynamic": true
+            },
+            {
+                "Name": "or one test and one written assignment each counting for of the assessment",
+                "Type": "Coursework",
+                "Weight": "50%",
+                "Dynamic": true
+            }
+        ],
+        "Description": "General Principles including important terms and concepts, different kind s of succession, heirs and legatees \ndistinguished, freedom of testation (including discussion of invalid conditions), the pactum successorium, basic \nrequirements for succession, adiation and repudiation; collation; unworthiness to inherit (the indignus); c apacity to \nbenefit  under  a will; Intestate  Succession;  Capacity  to make  a will; delegation  of testamentary  power;  the formalities  for \nthe execution of a valid will; formalities for the valid amendment of a will; sound practice for the execution and \namendment of wills; the \u2018rescue\u2019 provisions of the Wills Act, 1953; revocation of wills and the \u2018coup de gr\u00e2ce\u2019 provision \nof the Wills Act, 1953; substitution and accrual; the content of wills including legacies , vesting, conditions, dies and \nmodus, usufruct, fideicommissa, testamentary trusts; interpretation of wills; administration of deceased estates \u2013 an \nintroduction (including discussion of the executor and the liquidation and distribution  account).  \nAssessme nt: Class tests: 30%; Examination: 70%",
+        "DP": 80
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS3AP",
+        "Name": "Accounting for Legal Practice",
+        "Credits": "8",
+        "Duration": "1 or 2",
+        "Assessment": [
+            {
+                "Name": "Tests assignments hr exam",
+                "Type": "Coursework",
+                "Weight": "40%",
+                "Dynamic": true
+            }
+        ],
+        "Description": "Double entry bookkeeping; the accounting cycle; the transfer journal; final account s; a theoretical knowledge \nof VAT; correspondent accounts; conveying accounting; the relevant sections of the Attorneys Act and Provincial Law \nSociety rulings.",
+        "DP": 0
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS3CP",
+        "Name": "Criminal Procedure",
+        "Credits": "12",
+        "Duration": "1 or 2",
+        "Assessment": [
+            {
+                "Name": "Class mark hr exam",
+                "Type": "Coursework",
+                "Weight": "3%",
+                "Dynamic": true
+            }
+        ],
+        "Description": "Introduction; Criminal trial process and due process rights; search and seizure; arrest, summo ns and written \nnotice; bail, release on warning and postponements; mental capacity; charge, indictment and request for further \nparticulars; preparation for trial; jurisdiction; guilty and not guilty plea statements; plea proceedings; trial procedure: \ncondu ct of the trial, methods of disposal of cases and options at the close of the State case; trial -within -a-trial: \nconfessions, admissions, pointings -out and unconstitutionally obtained evidence; diversions, competent verdicts and \nsentencing  options;  sentenci ng procedure;  section  105A  of the CPA:  plea and sentence  arguments;  appeal  and reviews \nand international  criminal  court,  inquests,  anti-organised  crime  legislation,  anti-terrorism  legislation  and declaring  a state \nof emergency.",
+        "DP": 0
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS3EV",
+        "Name": "Evidence",
+        "Credits": "12",
+        "Duration": "1 or 2",
+        "Assessment": [
+            {
+                "Name": "Two tests or an assignment Examination",
+                "Type": "Exam",
+                "Weight": "40%"
+            }
+        ],
+        "Description": "History of the South African law of evidence; basic concepts of the law of evidence; kinds of evidence; the \nburden  and onus  of proof;  the trial process;  the evaluation  of evidence;  witnesses;  special  trial procedures;  admissibility; \nconstitutional impact; non -evidentiary  proof.",
+        "DP": 0
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS3JP",
+        "Name": "Jurisprudence",
+        "Credits": "16",
+        "Duration": "1 or 2",
+        "Assessment": [
+            {
+                "Name": "Test and or assignment Exam",
+                "Type": "Exam",
+                "Weight": "40%"
+            }
+        ],
+        "Description": "A selection of the following: Postmodernism and the law; Natural Law vs Positivism; Early Natural Law - The \nGreeks  and Romans;  Early  Natural  Law - Christian  Natural  Law;  Social  Contract  Theory  - Grotius,  Locke  and Rousseau; \nUS Constitutionalism; Early Positivism - Bentham and Austin; Modern Natural Law - Lon Fuller; Modern Natural Law - \nJohn Finnis; Modern Natural Law - Patrick Devlin; Modern Natural Law - Ronald Dworkin; Modern Natural Law - South \nAfrican  Natural  Lawyers;  Modern  Positivism  - Hans  Kelsen;  Modern  Positivism  - Herbert  Hart;  Modern  Positivism  - South \nAfrican Positivists; American Realism; Scandinavian Realism; Justice Theory - John Rawls; Justice Theory \u2013 Robert \nNozick;  African Jurisprudence;  Critical  Legal  Theory  \u2013 Feminist  Jurisprudence;  Critical  Legal  Theory  \u2013 Karl Marx;  Critical \nLegal Theory \u2013 Critical Legal  Studies.",
+        "DP": 0
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS3LD",
+        "Name": "Legal Diversity",
+        "Credits": "8",
+        "Duration": "1 or 2",
+        "Assessment": [
+            {
+                "Name": "A Class Mark comprising of the mark",
+                "Type": "Coursework",
+                "Weight": "40%",
+                "Dynamic": true
+            },
+            {
+                "Name": "made up of the marks from two written tests",
+                "Type": "Coursework",
+                "Weight": 0,
+                "Dynamic": true
+            },
+            {
+                "Name": "or from one written test plus a group interactive presentation An Examination comprising of the mark",
+                "Type": "Exam",
+                "Weight": "60%"
+            },
+            {
+                "Name": "consisting of written essays",
+                "Type": "Coursework",
+                "Weight": 0,
+                "Dynamic": true
+            },
+            {
+                "Name": "or a combination of written essay s plus multiple choice questions",
+                "Type": "Coursework",
+                "Weight": 0,
+                "Dynamic": true
+            }
+        ],
+        "Description": "Legal Diversity in South Africa including introduction, separate court structure, internal conflicts of laws; \nAfrican Customary Law including traditional leadership and democracy under the 1996 constitution, customary \nmarriages , inheritance and succession, conflicts of laws, Religious Legal Systems in South Africa; including general \nintroduction, foundations, family law and law of inheritance and succession of the Islamic law, Hindu law and Jewish \nLaw legal systems.",
+        "DP": 80
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS3LL",
+        "Name": "Labour Law",
+        "Credits": "16",
+        "Duration": "1 or 2",
+        "Assessment": [
+            {
+                "Name": "Test assignment Final exam",
+                "Type": "Coursework",
+                "Weight": "30%",
+                "Dynamic": true
+            }
+        ],
+        "Description": "Applicable legislation; the nature of the employment relationship; duties of the employer and employee; \ndiscipline  and dismissal;  meaning  of dismissal  and unfair  labour  practices;  automatically  unfair  dismissals;  dismissal  for \nmisconduct; dismissal for incapacity; dismissal for operational requirements; remedies for unfair dismissal; dispute \nresolution;  discrimination  and affirmative  action;  collective  labour  law; industrial  action;  basic  conditions  of employment; \nsocial security  legislation.",
+        "DP": 40
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS4AL",
+        "Name": "Administrative Law",
+        "Credits": "16",
+        "Duration": "1 or 2",
+        "Assessment": [
+            {
+                "Name": "Assignment counting",
+                "Type": "Coursework",
+                "Weight": "30%",
+                "Dynamic": true
+            },
+            {
+                "Name": "examination counting",
+                "Type": "Coursework",
+                "Weight": "70%",
+                "Dynamic": true
+            }
+        ],
+        "Description": "Introduction;  definition;  administrative  law and democracy;  administrative  law and the public/private  paradigm; \nthe structure and empowerment of the executive; detailed analysis of the Promotion of Administrative Justice Act 3 of \n2000 and the Promotion of Access to Information Act 2 of 2000; kinds of administrative power; policy and discretion; \nadministrat ive justice and access to information as fundamental rights; administrative justice and open democracy \nlegislation. Judicial Review: Definition and scope; what is a public authority for the purposes of judicial review; illegalit y \nand the ultra vires doctri ne, (a) the common law, (b) the impact of the Constitution; requirements of legality/grounds of \nreview; authority; regularity; fairness; reasonableness; standing;  remedies.",
+        "DP": 0
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS4IA",
+        "Name": "Insurance and Agency",
+        "Credits": "8",
+        "Duration": "1 or 2",
+        "Assessment": [
+            {
+                "Name": "The students are required to write a test and or assignment",
+                "Type": "Coursework",
+                "Weight": 0,
+                "Dynamic": true
+            },
+            {
+                "Name": "which contributes towa rd of the final mark In addition a final exam is also written and makes up of the final mark",
+                "Type": "Coursework",
+                "Weight": "25%",
+                "Dynamic": true
+            }
+        ],
+        "Description": "Insurance: Definition, nature and formation; duty of disclosure; insurable interest; duration, renewal; risk;  \npremium;  subrogation;  rights  and duties  of third persons  under  the contract  (cession  and stipulatio  alteri);  Agency:  nature  Law and Management Studies  195  \n \nof representation; authority of representative; act performed without a uthority; non -disclosure of agency; definition and \nnature of mandate; duties of the mandatory; duties of the mandator; termination of relationship.",
+        "DP": 80
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS4PT",
+        "Name": "Professional Training 2",
+        "Credits": "8",
+        "Duration": "1 or 2",
+        "Assessment": [
+            {
+                "Name": "Test assignment hr exam",
+                "Type": "Coursework",
+                "Weight": "40%",
+                "Dynamic": true
+            }
+        ],
+        "Description": "Students acquire the knowledge, skills and values appropriate for professional practice. Consolidate the \npractical skills learnt during prior levels of study. Focus on specific skills such as appellate advocac y; and the drafting \nof more complex legal documents.",
+        "DP": 0
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS4SL",
+        "Name": "Sale, Lease and Credit Agreements",
+        "Credits": "16",
+        "Duration": "1 or 2",
+        "Assessment": [
+            {
+                "Name": "Class test hr exam",
+                "Type": "Coursework",
+                "Weight": "40%",
+                "Dynamic": true
+            }
+        ],
+        "Description": "Legal principles relating to contract of sale and contract of letting and hiring of immovable property; consumer \ncredit law \u2013 relating  to instalment sale transactions and money loans.",
+        "DP": 0
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS4CV",
+        "Name": "Civil Procedure",
+        "Credits": "16",
+        "Duration": "1 or 2",
+        "Assessment": [
+            {
+                "Name": "tests hour exam",
+                "Type": "Coursework",
+                "Weight": "40%",
+                "Dynamic": true
+            }
+        ],
+        "Description": "The civil court structure; jurisdiction of various courts; applications; actions from letter of demand to judgment \nincluding all pleadings, notices and trial; appeals and reviews; debt collection procedures and additional procedures.",
+        "DP": 0
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS4CO",
+        "Name": "Corporate Law",
+        "Credits": "16",
+        "Duration": "1 or 2",
+        "Assessment": [
+            {
+                "Name": "Practical assessment on Law Clinic client consultations and file work exercise s Second semester group project Examination",
+                "Type": "Exam",
+                "Weight": "40%"
+            }
+        ],
+        "Description": "Partnerships: Formation and nature; partnership property and shares in the partnership; the relationship of \nthe partners  inter se; the relationship  between  partners  and third parties;  the dissolution  and liquidation  of partnerships.",
+        "DP": 100
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS4NG",
+        "Name": "Negotiable Instruments",
+        "Credits": "8",
+        "Duration": "1 or 2",
+        "Assessment": [
+            {
+                "Name": "test assignments hr exam",
+                "Type": "Coursework",
+                "Weight": "30%",
+                "Dynamic": true
+            }
+        ],
+        "Description": "Sources of law; defi nition and parties; essential elements; bank -customer contract; payment by cheque; \ncrossings; negotiation; markings; the cambial obligation; enforcing payment on a bill/note; defending a claim on a \nbill/note; immunity from defences; unauthorised payment of  cheques.",
+        "DP": 80
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS4SI",
+        "Name": "Security and Insolvency",
+        "Credits": "8",
+        "Duration": "1 or 2",
+        "Assessment": [
+            {
+                "Name": "marks awarded by internal and external examiners",
+                "Type": "Coursework",
+                "Weight": "100%",
+                "Dynamic": true
+            }
+        ],
+        "Description": "Real security:  the law relating  to different  forms  of real security  in particular:  mortgage,  bonds,  notarial  bonds, \nand cession  in securitatem  debiti.  Personal  security:  the law of suretyship;  insolvency  a consideration  of various  aspects \nof insolvency law, including voluntary surrender, compulsory sequestration, effects of sequestration and rehabilitation.",
+        "DP": 0
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS4CC",
+        "Name": "Clinical Law",
+        "Credits": "16",
+        "Duration": "Year",
+        "Assessment": [
+            {
+                "Name": "One test assignment One exam",
+                "Type": "Coursework",
+                "Weight": "30%",
+                "Dynamic": true
+            }
+        ],
+        "Description": "Interviewin g & counselling skills; legal research; legal writing; legal ethics; and legal issues of special \nrelevance in the South African legal NGO/ legal aid/ public interest law environment.",
+        "DP": 40
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS4TS",
+        "Name": "Teaching Legal Skills",
+        "Credits": "16",
+        "Duration": "Year"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS4ST",
+        "Name": "Street Law",
+        "Credits": "16",
+        "Duration": "Year",
+        "Assessment": [
+            {
+                "Name": "Test Exam",
+                "Type": "Exam",
+                "Weight": "30%"
+            }
+        ],
+        "Description": "The Street Law course teaches social justice through a combination of academic theory and community \nexperience. The course provides law students with an opportunity to contextualise the concept of social justice in the \nreal world, and at the same time requires them to teach the communities in which they work about legal awareness",
+        "DP": 0
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS4AJ",
+        "Name": "Access to Justice in South Africa",
+        "Credits": "8",
+        "Duration": "1 or 2",
+        "Assessment": [
+            {
+                "Name": "Test assignment Examination",
+                "Type": "Exam",
+                "Weight": "30%"
+            }
+        ],
+        "Description": "Defining access to justice; the structural and social obstacles to achieving access to justice; legal \nanthropology; access to justice as a hu man right; the nature of litigation: \u2018too much law for those who can afford it, too \nlittle for everyone else\u2019; the legal profession: values and transformation; the legal needs of low -income communities; \npresumed guilty: class injustice in the criminal just ice system; law without lawyers \u2013 new models of legal assistance; \ncause lawyering.",
+        "DP": 40
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS4BE",
+        "Name": "Bio-ethics",
+        "Credits": "8",
+        "Duration": "1 or 2",
+        "Assessment": [
+            {
+                "Name": "Examination comprises of the final mark and a class mark consistin g of tests and or assignments comprises of the final mark",
+                "Type": "Exam",
+                "Weight": "60%"
+            }
+        ],
+        "Description": "The teaching of foundational bio -ethical knowledge and skill that will enable learners to competently reflect \nupon, address and resolve ethical and socio -cultural issues that they will confront during their training and professional \npractice.  This inter-professional  ethics  module  involves  the teachings  of ethical  theory  and reasoning,  professional  ethics \nand inter -professional approach to health care decision -making on issues that span inter alia, informed consent, \nconfidentiality,  truth telling,  genetic  engineering,  reproductive  technologies  and related  issues,  professional  obligations, \nethics  committees,  euthanasia,  abortion,  human  and animal  experimentation,  experimental  design  and randomized  drug \ntrials, treatment of the impaired and the incomp etent, national and international health laws, social justice and health \ncare policy.",
+        "DP": 75
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS4CL",
+        "Name": "Cyber Law",
+        "Credits": "8",
+        "Duration": "1 or 2",
+        "Assessment": [
+            {
+                "Name": "Class tests or assig nments",
+                "Type": "Coursework",
+                "Weight": "30%",
+                "Dynamic": true
+            },
+            {
+                "Name": "examination",
+                "Type": "Coursework",
+                "Weight": "70%",
+                "Dynamic": true
+            }
+        ],
+        "Description": "Introduction to Cyber law and Digitisation, Cyber property and Intellectual Property, Privacy issues in \ncyberspace  and data protection,  Cyber -rights,  Speech  Harm,  Crime  and Control,  E-Commerce  and Electronic  payment \nmethods.",
+        "DP": 75
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS4EN",
+        "Name": "Environmental Law",
+        "Credits": "8",
+        "Duration": "1 or 2",
+        "Assessment": [
+            {
+                "Name": "Class test s or assignments",
+                "Type": "Coursework",
+                "Weight": "40%",
+                "Dynamic": true
+            },
+            {
+                "Name": "examination",
+                "Type": "Coursework",
+                "Weight": "60%",
+                "Dynamic": true
+            }
+        ],
+        "Description": "Issues concerning the r elationship between the law and the environment; the implementation and \nenforcement of the environmental Law, including the role of the 1996 Constitution; selected topics including water law \nand the environment; natural resources law; pollution law; and la nd use and planning law.",
+        "DP": 40
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS4GL",
+        "Name": "Gender & the Law",
+        "Credits": "8",
+        "Duration": "1 or 2",
+        "Assessment": [
+            {
+                "Name": "One test or assignment",
+                "Type": "Coursework",
+                "Weight": 0,
+                "Dynamic": true
+            },
+            {
+                "Name": "counting The examination will count",
+                "Type": "Coursework",
+                "Weight": "25%",
+                "Dynamic": true
+            }
+        ],
+        "Description": "Feminist jurisprudence; equality theory; gender and family law; gender and labour law; gender and criminal \nlaw.",
+        "DP": 0
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS4IP",
+        "Name": "Intellectual Property Law",
+        "Credits": "8",
+        "Duration": "1 or 2",
+        "Assessment": [
+            {
+                "Name": "Semester test or assignment",
+                "Type": "Coursework",
+                "Weight": "25%",
+                "Dynamic": true
+            },
+            {
+                "Name": "examination",
+                "Type": "Coursework",
+                "Weight": "75%",
+                "Dynamic": true
+            }
+        ],
+        "Description": "This module will be aimed at providing students with a working knowledge of the most relevant issues, \ncontemporary topics and case law resorting under the rubric of intellectual property law as applied in South Africa. The \nmodule will focus on three of the most important areas encountered in practice, namely copyright law, trade mark law \nand unlawful competition as it relates to the use and exploitation of intellectual property. More specialized areas of \nintellectual property (e.g. patents and designs) will not be addressed specifically but will be referred to where relevant.",
+        "DP": 75
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS4IC",
+        "Name": "International Criminal Law",
+        "Credits": "8",
+        "Duration": "1 or 2",
+        "Assessment": [
+            {
+                "Name": "Class test hour exam",
+                "Type": "Coursework",
+                "Weight": "25%",
+                "Dynamic": true
+            }
+        ],
+        "Description": "This module will consider various aspects of international criminal law such as mutual co -operation, \njurisdiction, inter national criminal tribunals including the International Criminal Court and its operation, international \ncriminal procedure, the prosecution of international crimes before domestic tribunals, defences in international criminal \nlaw and international humanita rian law.",
+        "DP": 0
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS4IT",
+        "Name": "Income Tax Law",
+        "Credits": "8",
+        "Duration": "1 or 2",
+        "Assessment": [
+            {
+                "Name": "Class work test s and or assignment Examination hr exam",
+                "Type": "Exam",
+                "Weight": "40%"
+            }
+        ],
+        "Description": "Sources of Income Tax Law and the interpretation of tax legislation; the legislative scheme; source; receipt \nand accruals; inclusions in gross income; exempt income; capital; deductions; individuals; partnerships; trusts; \ncompanies and close corporations; assessment, objection and appeal; fringe benefits; farming; tax avoidance and \nevasion.",
+        "DP": 40
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS4ML",
+        "Name": "Maritime Law",
+        "Credits": "8",
+        "Duration": "1 or 2",
+        "Assessment": [
+            {
+                "Name": "Tests hr exam",
+                "Type": "Coursework",
+                "Weight": "40%",
+                "Dynamic": true
+            }
+        ],
+        "Description": "History of shipping law; incidents of navigation; carriage of goods by sea; marine insurance, law of the sea, \nenforcement of rights and remedies in the Admiralty Court.",
+        "DP": 0
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS4RP",
+        "Name": "Research Project",
+        "Credits": "8",
+        "Duration": "1 or 2"
+    },
+    {
+        "Institution": "University of KwaZulu-Natal",
+        "Code": "LAWS4SN",
+        "Name": "Sentencing",
+        "Credits": "8",
+        "Duration": "1 or 2",
+        "Assessment": [
+            {
+                "Name": "Class mark consisting of test s or assignment and final examination",
+                "Type": "Coursework",
+                "Weight": "30%",
+                "Dynamic": true
+            }
+        ],
+        "Description": "General Policy and Principles: purposes of punishment , judicial discretion and sentencing guidelines, some \nfactors affecting sentence generally; Specific Sentences: selected topics from: imprisonment, fines, juvenile offenders, \nsuspension and postponement of sentence, correctional supervision; compensation.",
+        "DP": 80
+    }
+]
