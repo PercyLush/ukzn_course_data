@@ -21,7 +21,7 @@
                 "Weight": 50
             }
         ],
-        "Description": "The module introduces students to a selection of central philoso phical problems, linked thematically or by\nmajor thinker, drawing on both classic and modern texts and contextualising these issues in a manner that is relevant \nto contemporary South African students.",
+        "Description": "The module introduces students to a selection of central philosophical problems, linked thematically or by\nmajor thinker, drawing on both classic and modern texts and contextualising these issues in a manner that is relevant \nto contemporary South African students.",
         "Institution": "University of KwaZulu-Natal"
     },
     {
@@ -35,15 +35,30 @@
         "Year": 1,
         "Assessment": [
             {
-                "Name": "Class mark",
-                "Type": "Coursework",
-                "Weight": 50,
-                "Dynamic": true
+                "Name": "Formative Assessment",
+                "Type": "Assessment",
+                "Weight": 40,
+                "Equal": false,
+                "Dynamic": true,
+                "Subitems": [
+                    {
+                        "Name": "Tutorial Assignment",
+                        "Type": "Assignment"
+                    },
+                    {
+                        "Name": "Research skills exercises",
+                        "Type": "Exercise"
+                    },
+                    {
+                        "Name": "Tests",
+                        "Type": "Test"
+                    }
+                ]
             },
             {
                 "Name": "Examination",
                 "Type": "Exam",
-                "Weight": 50
+                "Weight": 60
             }
         ],
         "Description": "Introduction to Law will provide students with a basic background to law and the legal  system in South Africa. \nStudents will acquire an understanding of: -Some legal philosophies and be able to apply these philosophies to current \nlegal situations. -The structure of the legal system and be able to identify the correct tribunal and procedure.  -The sources \nand classifications of South African Law. -The basic principles of criminal law and be able to apply these principles to a \nfactual scenario.",
@@ -60,10 +75,30 @@
         "Year": 1,
         "Assessment": [
             {
-                "Name": "Completed research project",
+                "Name": "Coursework",
                 "Type": "Coursework",
-                "Weight": 100,
-                "Dynamic": true
+                "Weight": 60,
+                "Equal": false,
+                "Dynamic": true,
+                "Subitems": [
+                    {
+                        "Name": "Essays",
+                        "Type": "Essay"
+                    },
+                    {
+                        "Name": "Tutorial Assignment",
+                        "Type": "Assignment"
+                    },
+                    {
+                        "Name": "Tests",
+                        "Type": "Test"
+                    }
+                ]
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 40
             }
         ],
         "Description": "Aspects of political systems and action in historical and comparative context; forms of government; the \nproperties of political institutions.",
@@ -80,7 +115,7 @@
         "Year": 1,
         "Assessment": [
             {
-                "Name": "Tests assignments",
+                "Name": "Tests/Assignments",
                 "Type": "Coursework",
                 "Weight": 50,
                 "Dynamic": true
@@ -104,6 +139,21 @@
         ],
         "Credits": 16,
         "Year": 1,
+        "Assessment": [
+            {
+                "Name": "Class mark",
+                "Type": "Coursework",
+                "Weight": 40,
+                "Equal": false,
+                "Dynamic": true
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 60
+            }
+        ],
+        "Description": "Aspects of South African Law will provide students with a background to some areas of South African Law. \nStudents will acquire an understanding of: -The history of South African Law and the reasons for the current political \nand legal systems in South Africa. -The general scheme of the constitution, the Bill of Rights and the equality and \nproperty clauses in particular. -The basic principles of the Laws of Delict and Contract and Family Law and be able to \napply these principles to factual scenarios.",
         "Institution": "University of KwaZulu-Natal"
     },
     {
@@ -117,14 +167,29 @@
         "Year": 1,
         "Assessment": [
             {
-                "Name": "Coursework This may include tests",
+                "Name": "Coursework",
                 "Type": "Coursework",
                 "Weight": 60,
-                "Dynamic": true
+                "Equal": false,
+                "Dynamic": true,
+                "Subitems": [
+                    {
+                        "Name": "Essays",
+                        "Type": "Essay"
+                    },
+                    {
+                        "Name": "Tutorial Assignments/participation",
+                        "Type": "Assignment"
+                    },
+                    {
+                        "Name": "Tests",
+                        "Type": "Test"
+                    }
+                ]
             },
             {
-                "Name": "essays and tutorial assignments particip ation examination",
-                "Type": "Coursework",
+                "Name": "Examination",
+                "Type": "Exam",
                 "Weight": 40,
                 "Dynamic": true
             }
@@ -142,6 +207,20 @@
         "Credits": 16,
         "Year": 2,
         "Description": "The module will introduce students to key concepts of Logic and develop their skills in formal reasoning. The \nmodule will also look at a number of key questions in Metaphysics and/or Epis temology.",
+        "Assessment": [
+            {
+                "Name": "Tests/Assignments",
+                "Type": "Coursework",
+                "Weight": 50,
+                "Dynamic": true
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 50,
+                "Dynamic": true
+            }
+        ],
         "Prerequisite": [
             {
                 "Comment": "16 credits at level one in Philosophy"
@@ -160,7 +239,7 @@
         "Year": 2,
         "Assessment": [
             {
-                "Name": "Tests assignments",
+                "Name": "Tests/Assignments",
                 "Type": "Coursework",
                 "Weight": 50,
                 "Dynamic": true
@@ -191,16 +270,30 @@
         "Year": 2,
         "Assessment": [
             {
-                "Name": "Coursework This may include tests",
+                "Name": "Coursework",
                 "Type": "Coursework",
                 "Weight": 60,
-                "Dynamic": true
+                "Equal": false,
+                "Dynamic": true,
+                "Subitems": [
+                    {
+                        "Name": "Tutorial assignments/participation",
+                        "Type": "Assignment"
+                    },
+                    {
+                        "Name": "Essays",
+                        "Type": "Essay"
+                    },
+                    {
+                        "Name": "Tests",
+                        "Type": "Test"
+                    }
+                ]
             },
             {
-                "Name": "essays and tutorial assignments participation examination",
-                "Type": "Coursework",
-                "Weight": 40,
-                "Dynamic": true
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 40
             }
         ],
         "Description": "A variety of topical issues of international relations and global politics, a nd international political economy.",
@@ -215,11 +308,25 @@
         ],
         "Credits": 8,
         "Year": 2,
+        "DP": 10,
         "Assessment": [
             {
-                "Name": "Test or assignments Exam",
+                "Name": "Tests",
+                "Type": "Test",
+                "Weight": 30,
+                "Equal": true,
+                "Dynamic": true,
+                "Subitems": [
+                    {
+                        "Name": "Assignments",
+                        "Type": "Assignment"
+                    }
+                ]
+            },
+            {
+                "Name": "Written Examination",
                 "Type": "Exam",
-                "Weight": 30
+                "Weight": 70
             }
         ],
         "Description": "Legal personality (the beginning and end of legal personality); Status and capacity: Factors affecting  status: \ndomicile; gender; age (minority); extra -marital birth (legitimacy) -includes parental power and adoption of extra -marital \nchildren; artificial insemination; proof of paternity; mental illness; prodigality; and inability to manage one\u2019s own affairs .",
@@ -236,15 +343,28 @@
         "Year": 2,
         "Assessment": [
             {
-                "Name": "The students are required to write a test s and or assignment s tests",
-                "Type": "Coursework",
-                "Weight": 0,
+                "Name": "Assignment 1",
+                "Type": "Assignment",
+                "Weight": 20,
+                "Equal": true,
+                "Dynamic": false,
+                "Subitems": [
+                    {
+                        "Name": "Assignment 2",
+                        "Weight": 20
+                    }
+                ]
+            },
+            {
+                "Name": "Test 1",
+                "Type": "Test",
+                "Weight": 50,
                 "Dynamic": true
             },
             {
-                "Name": "which constitutes of the final mark In addition a final two hour exam is also written and makes up of the final mark",
-                "Type": "Coursework",
-                "Weight": 30,
+                "Name": "Writing Portfolio",
+                "Type": "Portfolio",
+                "Weight": 10,
                 "Dynamic": true
             }
         ],
@@ -262,21 +382,18 @@
         "Year": 2,
         "Assessment": [
             {
-                "Name": "essays",
-                "Type": "Coursework",
-                "Weight": 0,
+                "Name": "Test",
+                "Type": "Test",
+                "Weight": 10
+            },
+            {
+                "Name": "Group Project in political analysis",
+                "Type": "Project",
                 "Dynamic": true
             },
             {
-                "Name": "x ho ur examination",
-                "Type": "Coursework",
-                "Weight": 50,
-                "Dynamic": true
-            },
-            {
-                "Name": "",
-                "Type": "Coursework",
-                "Weight": 50,
+                "Name": "Examination",
+                "Type": "Exam",
                 "Dynamic": true
             }
         ],
@@ -292,6 +409,19 @@
         ],
         "Credits": 8,
         "Year": 2,
+        "Assessment": [
+            {
+                "Name": "Tests/Assignments",
+                "Type": "Coursework",
+                "Weight": 30
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 70
+            }
+        ],
+        "Description": "Part one: Introduction: This section is an introduction to human rights, its covers the historical and philosophical \nroots of human rights and briefly shows how human rights have become part of national and international law. The \nregional systems of Human Rights protection is also dealt with. Part two: History of apartheid: This section deals with \nthe history of human rights abuses and the transition to democracy in South Africa. It includes an understanding of the \nwork of the Truth and Reconciliation Commission. Part Three: Protection of human rights: This section covers the legal \nprotection and enforcement of human rights in South Africa. It looks at the Bill of Rights, other human rights legislation \nand institutions created to protect human rights. ",
         "Institution": "University of KwaZulu-Natal"
     },
     {
@@ -305,13 +435,17 @@
         "Year": 2,
         "Assessment": [
             {
-                "Name": "The following assessments must be completed by the student One test weighing of the total mark Two assignment weighing each Writing portfolio weighing of the total mark",
+                "Name": "Tests/Assignments",
                 "Type": "Coursework",
-                "Weight": 50,
-                "Dynamic": true
+                "Weight": 30
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 70
             }
         ],
-        "Description": "Introduction; basic concepts and an historical overview; nature and process of interpretation; Theories of",
+        "Description": "Introduction; basic concepts and an historical overview; nature and process of interpretation; Theories of\ninterpretation: the textual approach; the literal approach; the contextual approach; the current approach of courts; general \naids to interpretation; internal and external aids; restrictive and extensive interpretation; maxims; presumptions; a critical \nanalysis of the Interpretation Act 33 of 1957; constitutional interpretation; basic principles of constitutional interpretation.",
         "Institution": "University of KwaZulu-Natal"
     },
     {
@@ -323,12 +457,24 @@
         ],
         "Credits": 16,
         "Year": 3,
-        "Description": "The selected philosophical problem will vary from year to year. Examples include the metaphysics of race, \nRous seau\u2019s conception of democracy, the concept of law, Gettier counter -examples and so on.",
         "Prerequisite": [
             {
                 "Comment": "Two semesters of Philosophy courses at second year level"
             }
         ],
+        "Assessment": [
+            {
+                "Name": "Assignments",
+                "Type": "Assignment",
+                "Weight": 50
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 50
+            }
+        ],
+        "Description": "The selected philosophical problem will vary from year to year. Examples include the metaphysics of race, \nRous seau\u2019s conception of democracy, the concept of law, Gettier counter -examples and so on.",
         "Institution": "University of KwaZulu-Natal"
     },
     {
@@ -343,15 +489,14 @@
         "Assessment": [
             {
                 "Name": "Assignments",
-                "Type": "Coursework",
+                "Type": "Assignment",
                 "Weight": 50,
                 "Dynamic": true
             },
             {
-                "Name": "examinatio n",
-                "Type": "Coursework",
-                "Weight": 50,
-                "Dynamic": true
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 50
             }
         ],
         "Description": "The topic and texts will vary from  year to year. The focus of the module in any given year might include \nsome aspect of deontology, consequentialism, virtue ethics or meta -ethics.",
@@ -371,6 +516,21 @@
         ],
         "Credits": 16,
         "Year": 3,
+        "Prerequisite": [{"Comment": "Two semesters of Philosophy courses at second year level"}],
+        "Assessment": [
+            {
+                "Name": "Assignments",
+                "Type": "Assignment",
+                "Weight": 50,
+                "Dynamic": true
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 50
+            }
+        ],
+        "Description": "The course will include personhood, political theory (African socialism to consensus), agency and freewill, \ncommunitarianism (including ubuntu), metaphysics, epistemology, theories of the mind, the nature of existence and God. \nAny other topic proper to African philosophy may be included.",
         "Institution": "University of KwaZulu-Natal"
     },
     {
@@ -382,6 +542,21 @@
         ],
         "Credits": 16,
         "Year": 3,
+        "Prerequisite": [{"Comment": "Two semesters of Philosophy courses at second year level."}],
+        "Assessment": [
+            {
+                "Name": "Assignments",
+                "Type": "Assignment",
+                "Weight": 50,
+                "Dynamic": true
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 50
+            }
+        ],
+        "Description": ": The content of the module will include some central issues in the metaphysics of mind, material objects, time,\ndependence, identity, personhood, causation, laws of nature, free will, and/or the existence of God.",
         "Institution": "University of KwaZulu-Natal"
     },
     {
@@ -396,15 +571,14 @@
         "Assessment": [
             {
                 "Name": "Assignments",
-                "Type": "Coursework",
+                "Type": "Assignment",
                 "Weight": 50,
                 "Dynamic": true
             },
             {
                 "Name": "Examination",
                 "Type": "Exam",
-                "Weight": 50,
-                "Dynamic": true
+                "Weight": 50
             }
         ],
         "Description": "Topics and texts will vary from year to year. Examples of topics include unfair discrimination, social injustice, \npoverty, disadvantage, rights and responsibilities.",
@@ -432,15 +606,14 @@
         "Assessment": [
             {
                 "Name": "Assignments",
-                "Type": "Coursework",
+                "Type": "Assignment",
                 "Weight": 50,
                 "Dynamic": true
             },
             {
                 "Name": "Examination",
                 "Type": "Exam",
-                "Weight": 50,
-                "Dynamic": true
+                "Weight": 50
             }
         ],
         "Description": "To give students a historically informed understanding of philosophy, and to provide knowledge of and an \nopportunity to engage critically with debates and texts that have had a significant or formative influence on the\ndevelopment of philosophy.",
@@ -457,36 +630,27 @@
         "Year": 3,
         "Assessment": [
             {
-                "Name": "tutorials",
-                "Type": "Coursework",
-                "Weight": 0,
-                "Dynamic": true
+                "Name": "Oral Presentation/Test",
+                "Type": "Presentation",
+                "Weight": 16.65
             },
             {
-                "Name": "test",
-                "Type": "Coursework",
-                "Weight": 0,
-                "Dynamic": true
+                "Name": "Essay",
+                "Type": "Essay",
+                "Weight": 16.65
             },
             {
-                "Name": "essay",
-                "Type": "Coursework",
-                "Weight": 0,
-                "Dynamic": true
-            },
-            {
-                "Name": "x h our examination",
-                "Type": "Coursework",
-                "Weight": "3%",
-                "Dynamic": true
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 66.7
             }
         ],
-        "Description": "Description: To train students  to engage  in rigorous,  advanced  level studies  in political  theory  and political  philosophy, \nwith special emphasis on skills of argumentation, analysis and abstract reasoning, and also on textual analysis, \ninterpretative strategies and historical contexts. Content: An exploration of key concepts, thinkers and debates.",
+        "Description": "Aim: To train students  to engage  in rigorous,  advanced  level studies  in political  theory  and political  philosophy, \nwith special emphasis on skills of argumentation, analysis and abstract reasoning, and also on textual analysis, \ninterpretative strategies and historical contexts. Content: An exploration of key concepts, thinkers and debates.",
         "Institution": "University of KwaZulu-Natal"
     },
     {
         "Code": "POLS303",
-        "Name": "Political Change in Dev. Regions",
+        "Name": "Political Change in Developing Regions",
         "Duration": "Semester",
         "Period": [
             2
@@ -495,10 +659,30 @@
         "Year": 3,
         "Assessment": [
             {
-                "Name": "One Essay one oral presentation or test one hour examination",
+                "Name": "Coursework",
                 "Type": "Coursework",
-                "Weight": "65%",
-                "Dynamic": true
+                "Weight": 50,
+                "Equal": false,
+                "Dynamic": true,
+                "Subitems": [
+                    {
+                        "Name": "Tests",
+                        "Type": "Test"
+                    },
+                    {
+                        "Name": "Essays",
+                        "Type": "Essay"
+                    },
+                    {
+                        "Name": "Tutorial Assignments/presentations",
+                        "Type": "Tutorial"
+                    }
+                ]
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 50
             }
         ],
         "Description": "Critical analysis of theories of development and their discourses, effects of globalisation, case studies.",
@@ -515,16 +699,30 @@
         "Year": 3,
         "Assessment": [
             {
-                "Name": "Coursework This will include tests",
+                "Name": "Coursework",
                 "Type": "Coursework",
                 "Weight": 50,
-                "Dynamic": true
+                "Equal": false,
+                "Dynamic": true,
+                "Subitems": [
+                    {
+                        "Name": "Controlled Test",
+                        "Type": "Test"
+                    },
+                    {
+                        "Name": "Essays",
+                        "Type": "Essay"
+                    },
+                    {
+                        "Name": "Seminar Presentations",
+                        "Type": "Presentation"
+                    }
+                ]
             },
             {
-                "Name": "essays and tutorial assignments presentations examination",
-                "Type": "Coursework",
-                "Weight": 50,
-                "Dynamic": true
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 50
             }
         ],
         "Description": "Political, economic and cultural factors in selected countries. Conceptual approaches will be emphasised. \nPolitical culture, party government, economic refo rm and institutional actors will be included.",
@@ -541,13 +739,18 @@
         "Year": 3,
         "Assessment": [
             {
-                "Name": "Formative assessment in the form of tutorial assignments and or research skills exercises and tests contributing of the final mark The assessment will take the form of a summative assessment in the form of a hour examination contributing of the final mark",
-                "Type": "Coursework",
-                "Weight": 40,
+                "Name": "Class Tests",
+                "Type": "Test",
+                "Weight":33.3,
                 "Dynamic": true
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 66.7
             }
         ],
-        "Description": "Basic concepts of criminal liabili ty; legality; conduct in criminal law; causation; unlawfulness, including \njustification grounds of defence, private defence, necessity, consent, negotiorum gestio, impossibility, official capacity, \ndisciplinary chastisement, superior orders; other defences : entrapment, de minimis non curat lex; criminal capacity, \nincluding mental illness, age, provocation, emotional stress, intoxication; specific forms of mens rea: intention, \nnegligence; exceptions to the mens rea requirement: versari in re illicita; strict  liability; vicarious liability; inchoate",
+        "Description": "Basic concepts of criminal liability; legality; conduct in criminal law; causation; unlawfulness, including \njustification grounds of defence, private defence, necessity, consent, negotiorum gestio, impossibility, official capacity, \ndisciplinary chastisement, superior orders; other defences : entrapment, de minimis non curat lex; criminal capacity, \nincluding mental illness, age, provocation, emotional stress, intoxication; specific forms of mens rea: intention, \nnegligence; exceptions to the mens rea requirement: versari in re illicita; strict  liability; vicarious liability; inchoate",
         "Institution": "University of KwaZulu-Natal"
     },
     {
@@ -561,10 +764,22 @@
         "Year": 3,
         "Assessment": [
             {
-                "Name": "written tests or assignment x hr exam",
-                "Type": "Coursework",
-                "Weight": "25%",
-                "Dynamic": true
+                "Name": "Tests",
+                "Type": "Test",
+                "Weight": 30,
+                "Equal": false,
+                "Dynamic": true,
+                "Subitems": [
+                    {
+                        "Name": "Assignments",
+                        "Type": "Assignment"
+                    }
+                ]
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 70
             }
         ],
         "Description": "Part A: The Law relating to marriages, including customary and religious marriages; civil -unions and \ncohabitative relationships: specifically engagements; legal r equirements for the conclusion of a marriage/civil union; legal \nconsequences of a marriage/civil -union;dissolution of marriages/civil -unions as well as the consequences thereof; and, \nthe legal duties between cohabitees. Part B: Law of Parent and Child/ Car e and Protection of Children: children\u2019s rights; \nparental rights and responsibilities; discipline and the child\u2019s right to choose; child abuse; temporary alternative care; \nadoption; trans -jurisdictional aspects; education.",
@@ -581,10 +796,30 @@
         "Year": 3,
         "Assessment": [
             {
-                "Name": "The methods of assessment for the module comprise the following Test or Assignment which would Syllabi constitute of the semester mark and an examination of",
+                "Name": "Class mark",
                 "Type": "Coursework",
-                "Weight": 30,
-                "Dynamic": true
+                "Weight": 40,
+                "Equal": false,
+                "Dynamic": true,
+                "Subitems": [
+                    {
+                        "Name": "Written Test 1",
+                        "Type": "Test"
+                    },
+                    {
+                        "Name": "Written Test 2",
+                        "Type": "Test"
+                    },
+                    {
+                        "Name": "Group interactive presentation",
+                        "Type": "Presentation"
+                    }
+                ]
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 60
             }
         ],
         "Description": "A selection of the following: Postmodernism and the law; Natural Law vs Positivism; Early Natural Law - The \nGreeks and Romans; Early Natural Law - Christian Natural Law; Social Contract Theory - Grotius, Locke and Rousseau; \nUS Constitutionalism; Early Positivism - Bentham and Austin; Modern Natural Law - Lon Fuller; Modern Natural Law - \nJohn Finnis; Modern Natural Law - Patrick Devlin; Modern Natural Law - Ronald Dworkin; Modern Natural Law - South \nAfrican Natural Lawyers; Mod ern Positivism - Hans Kelsen; Modern Positivism - Herbert Hart; Modern Positivism - South \nAfrican Positivists; American Realism; Scandinavian Realism; Justice Theory - John Rawls; Justice Theory \u2013 Robert \nNozick; African Jurisprudence; Critical Legal Theory  \u2013 Feminist Jurisprudence; Critical Legal Theory \u2013 Karl Marx; Critical \nLegal Theory \u2013 Critical Legal Studies.",
@@ -601,22 +836,22 @@
         "Year": 3,
         "Assessment": [
             {
-                "Name": "Class work class tests",
-                "Type": "Coursework",
-                "Weight": 0,
-                "Dynamic": true
+                "Name": "Assignments",
+                "Type": "Assignment",
+                "Weight": 40,
+                "Equal": false,
+                "Dynamic": true,
+                "Subitems": [
+                    {
+                        "Name": "Tests",
+                        "Type": "Test"
+                    }
+                ]
             },
             {
-                "Name": "and written examination",
-                "Type": "Coursework",
-                "Weight": "3%",
-                "Dynamic": true
-            },
-            {
-                "Name": "",
-                "Type": "Coursework",
-                "Weight": "7%",
-                "Dynamic": true
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": 60
             }
         ],
         "Description": "Fundamental concepts and theories of constitutional law; South African constitutional history; basic structures \nof the South African Constitution; the structure of states; electoral systems; the composition, powers, responsibility, and \nlimits of the legislatures; the composition, powers, responsibility and limits of the executive; the composition, powers, \nresponsibility and limits of the judiciary; the operational provisions of the Bill of Rights; discussion on selected Chapter 9 \nInstitut ions.",
