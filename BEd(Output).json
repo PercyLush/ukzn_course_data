@@ -1,0 +1,3008 @@
+[
+    {
+        "Code": "EDES213",
+        "Name": "Education Studies 210",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Coursework",
+                "Type": "Coursework",
+                "Weight": 50
+            },
+            {
+                "Name": "examination",
+                "Type": "Exam",
+                "Weight": 50
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Code": "Education Studies 122",
+                "Mark": 40
+            }
+        ],
+        "Description": "A Foundational Academic Studies module which serves to provide students with an understanding of how modern\neducation systems have evolved, in respect of the world in general, and of Africa and South Africa in particular. There is \na strong focus on placing developments into their  political, historical and economic contexts."
+    },
+    {
+        "Code": "EDES220",
+        "Name": "Education Studies 220",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Coursework",
+                "Type": "Coursework",
+                "Weight": "50%"
+            },
+            {
+                "Name": "examination",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Professional Studies 110 and 210; Teaching Practice 120 and 220"
+            }
+        ],
+        "Description": "To introduce students in a critical way to fundamental issues and theories relating to psy chological development \nand learning."
+    },
+    {
+        "Code": "EDES310",
+        "Name": "Education Studies 310",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Coursework",
+                "Type": "Coursework",
+                "Weight": "50%"
+            },
+            {
+                "Name": "examination",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Education Studies 210 or 220"
+            }
+        ],
+        "Description": "To introduce students to issues relating to the diversity of cultures and beliefs in South Africa and to develop \nattitudes of respect and tolerance for others. To introd uce students to the Philosophy of Education."
+    },
+    {
+        "Code": "EDES320",
+        "Name": "Education Studies 320",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Coursework",
+                "Type": "Coursework",
+                "Weight": "50%"
+            },
+            {
+                "Name": "examination",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Education Studies 210 or 220"
+            }
+        ],
+        "Description": "To introduce students to the study of curriculum and its various component such as curriculum theorising/ \napproaches, assessment,  South African curriculum. Also are to reflect critically on curriculum issues in their practice."
+    },
+    {
+        "Code": "EDES410",
+        "Name": "Education Studies 410",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Coursework",
+                "Type": "Coursework",
+                "Weight": "50%"
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Education Studies 310 or 320"
+            }
+        ],
+        "Description": "To provide students with an informed and critical perspective on modern and postmodern thought, and their \npremodern and medieval precursors and to provide students with an over view of the range of diversity."
+    },
+    {
+        "Code": "EDES420",
+        "Name": "Education Studies 420",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Coursework",
+                "Type": "Coursework",
+                "Weight": "50%"
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Educational Studies 310 or 320"
+            }
+        ],
+        "Description": "To familiarise students with issues pertaining to professionalism and get students to engage with policy issues and \nin literature - and school -based research.  Syllabi                                                                                                                                            346"
+    },
+    {
+        "Code": "EDES110",
+        "Name": "Professional Studies 110",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Continuous Assessment",
+                "Type": "Assessment",
+                "Weight": "100%"
+            },
+            {
+                "Name": "Tests",
+                "Type": "Coursework",
+                "Weight": "40%"
+            },
+            {
+                "Name": "Assignments and Practicals",
+                "Type": "Assignment",
+                "Weight": "60%"
+            }
+        ],
+        "Description": "Provide basic foundational knowledge and practical skills to ensure successful teaching and learning during the \nfirst school practice experienc e. Design, produce and use resources for specific teaching purposes . Develop basic \nstrategies for effective classroom management and control. To practice presentation skills and build self -confidence in \na micro -teaching environment."
+    },
+    {
+        "Code": "EDES120",
+        "Name": "Professional Studies 120",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "CASS Tests assignments",
+                "Type": "Assignment",
+                "Weight": "100%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "NONE"
+            }
+        ],
+        "Description": "To introduce students to health promotion, first aid, HIV and Aids, gender awareness other social, life and social \nskills. Develop skills for effective classroom presentation."
+    },
+    {
+        "Code": "EDES210",
+        "Name": "Professional Studies 210",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Continuous Assessment",
+                "Type": "Assessment",
+                "Weight": "100%"
+            },
+            {
+                "Name": "Tests",
+                "Type": "Coursework",
+                "Weight": "40%"
+            },
+            {
+                "Name": "Assignments and Practicals",
+                "Type": "Assignment",
+                "Weight": "60%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Successful completion of at least three weeks of teaching practice 120"
+            }
+        ],
+        "Description": "To investigate and critically reflect on speci fic classroom related issues from the students\u2019 first practice teaching \nexperience. Extension of students\u2019 knowledge and practical experience with regard to participative approaches and \ntechniques that would lead to learner self -directedness."
+    },
+    {
+        "Code": "EDTP120",
+        "Name": "Teaching Practice 120",
+        "Credits": "8"
+    },
+    {
+        "Code": "EDTP220",
+        "Name": "Teaching Practice 220",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Preparation of records",
+                "Type": "Coursework",
+                "Weight": 0
+            },
+            {
+                "Name": "lesson performances portfolio of evidence Preparation of portfolio according to instruc tions with the evidence of teaching preparation and teaching aids",
+                "Type": "Coursework",
+                "Weight": 0
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": ": Tea ching practice 120"
+            }
+        ],
+        "Description": "To develop students\u2019 ability through teaching practice."
+    },
+    {
+        "Code": "EDTP320",
+        "Name": "Teaching Practice 320",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Preparation of records",
+                "Type": "Coursework",
+                "Weight": 0
+            },
+            {
+                "Name": "lesson performances portfolio of evidence showing advancement and examples of teaching aids related to teaching with evidence of daily preparation and teaching Attendance",
+                "Type": "Exam",
+                "Weight": "90%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Teaching practice 220"
+            }
+        ],
+        "Description": "To further develop students\u2019 ability through teaching practice and enhancing of teaching portfolio.  \nContent : Supervised teaching practice by both tutors and mentor teachers."
+    },
+    {
+        "Code": "EDTP420",
+        "Name": "Teaching Practice 420",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Preparation of records",
+                "Type": "Coursework",
+                "Weight": 0
+            },
+            {
+                "Name": "lesson performances and portfolio of evidence with proof of daily teaching and relevant teaching aids",
+                "Type": "Coursework",
+                "Weight": 0
+            }
+        ],
+        "Description": "To develop students\u2019 ability to teach independently"
+    },
+    {
+        "Code": "EDES230",
+        "Name": "Professional Studies 230",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Continuous Assessment assignments projects test and examination",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Description": "This module aims to enable students to distinguish theories of language acquisition between beh aviourism and \nnativism and how children acquire language. To draw a distinction between language learning and language acquisition \nand the implications it has for the teacher. To overcome language difficulties spoken within a country with regards to the \nlanguage policy that the country have. Focusing on applying language principles, vocabulary linking and thinking in \nmulticultural and multilingual classes."
+    },
+    {
+        "Code": "EDAC210",
+        "Name": "Accounting Education 210",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Examination (50%)",
+                "Type": "Exam",
+                "Weight": "50"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Matric Maths SG or Basic Maths, Matric Accounting"
+            }
+        ],
+        "Description": "To develop knowledge and skills required for Accounting for Sole Traders."
+    },
+    {
+        "Code": "EDAC220",
+        "Name": "Accounting Education 220",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Examination (50%)",
+                "Type": "Exam",
+                "Weight": "50"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Accounting 210"
+            }
+        ],
+        "Description": "To develop knowledge and skills required for Accounting for Sole traders."
+    },
+    {
+        "Code": "EDAC310",
+        "Name": "Accounting Education 310",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Examination (50%)",
+                "Type": "Exam",
+                "Weight": "50"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Accounting 210 OR 220"
+            }
+        ],
+        "Description": "To devel op knowledge and skills required for accounting for Partnerships, Companies and Cash Flow Statements."
+    },
+    {
+        "Code": "EDAC320",
+        "Name": "Accounting Education 320",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Examination (50%)",
+                "Type": "Exam",
+                "Weight": "50"
+            }
+        ],
+        "Description": "To further develop knowledge and skills required for accounting for a close corporation and budgeting."
+    },
+    {
+        "Code": "EDAC410",
+        "Name": "Accounting Education 410",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Examination (50%)",
+                "Type": "Exam",
+                "Weight": "50"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Accounting 210 and Accounting 220"
+            }
+        ],
+        "Description": "The aim of the module is to enable s tudent teachers to develop content knowledge and skills as it relates to Non -\nprofit Organisations, Stock valuation, Manufacturing concerns and VAT Accounting"
+    },
+    {
+        "Code": "EDAC420",
+        "Name": "Accounting Education 420",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Continuous Assessment Examination",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Accounting 210 and Accounting 220"
+            }
+        ],
+        "Description": "To further develop knowledge and skills with regard to Retirement and liquidation of Partnership s and Branch \nAccounting. Introduction to Pastel Accounting."
+    },
+    {
+        "Code": "EDBS210",
+        "Name": "Biological Science for Educators 210",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Course work",
+                "Type": "Coursework",
+                "Weight": "50%"
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "A minimum of 60% in Grade 12 Life Sciences"
+            }
+        ],
+        "Description": "Students to develop appropriate knowledge, skills, values and attitudes wit h regard to organisational biology."
+    },
+    {
+        "Code": "EDBS220",
+        "Name": "Biological Science for Educators 220",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Course work",
+                "Type": "Coursework",
+                "Weight": "50%"
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "A pass in Biological Science for Educators 210"
+            }
+        ],
+        "Description": "Students to develop appropriate knowledge, skills, values and attitudes with regard to the Environment."
+    },
+    {
+        "Code": "EDBS310",
+        "Name": "Biological Science for Educators 310",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Course work",
+                "Type": "Coursework",
+                "Weight": "50%"
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "A pass in Biological Science for Educators 210"
+            }
+        ],
+        "Description": "To develop appropriate knowledge, skills, values and attitudes with regard to processes in living org anisms"
+    },
+    {
+        "Code": "EDBS320",
+        "Name": "Biological Science for Educators 320",
+        "Credits": "16"
+    },
+    {
+        "Code": "EDBS410",
+        "Name": "Biological Science for Educators 410",
+        "Credits": "16"
+    },
+    {
+        "Code": "EDBS420",
+        "Name": "Biological Science for Educators 420",
+        "Credits": "16"
+    },
+    {
+        "Code": "EDBU210",
+        "Name": "Business Management 210",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Continuous Assessment Examination",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Description": "To develop knowledge skills and values with regard to the business environment/world, the science of business \nmanagement and the functioning of a business organisation."
+    },
+    {
+        "Code": "EDBU220",
+        "Name": "Business Management 220",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Continuous Assessment Examination",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Description": "To extend students understandings of the business environment/world, the science of business management and \nthe func tioning of a business organisation."
+    },
+    {
+        "Code": "EDBU310",
+        "Name": "Business Management 310",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Continuous assessment Examination",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Business Management 110 or 120"
+            }
+        ],
+        "Description": "To expose students to the marketing process, marketing instruments and the use of integrated marketing \nstrategies, and the role of the pub lic relations department in an organisation.  315                                                                                                                                   Humanities"
+    },
+    {
+        "Code": "EDBU320",
+        "Name": "Business Management 320",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Continuous Assessment Examination",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Business Management 210 or 220"
+            }
+        ],
+        "Description": "To introduce students to Operations and Purchasing management in a business enterprise."
+    },
+    {
+        "Code": "EDBU410",
+        "Name": "Business Management 410",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Continuous Assessment Examination",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Business Management 210 or 220"
+            }
+        ],
+        "Description": "To examine the role of Human Resource Management in a changing South African business and political \nenvironment."
+    },
+    {
+        "Code": "EDBU420",
+        "Name": "Business Management 420",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Continuous assessment",
+                "Type": "Assessment",
+                "Weight": "50%"
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Business Management 210 or 220"
+            }
+        ],
+        "Description": "To examine the role of Financial Management in a business enterprise."
+    },
+    {
+        "Code": "EDCM210",
+        "Name": "Computer Science Education 210",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Continuous assessment",
+                "Type": "Assessment",
+                "Weight": "40%"
+            },
+            {
+                "Name": "Examinations A sub minimum of is required in the examination component of the final module mark",
+                "Type": "Exam",
+                "Weight": "60%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Computer Literacy plus a Grade 12 pass at Level 4 in Mathematics OR a Level 5 Pass i n \nMaths Literacy of Maths 110."
+            }
+        ],
+        "Description": "To prepare students towards the teaching of Information Technology (Computer Studies) in the FET phase."
+    },
+    {
+        "Code": "EDCM220",
+        "Name": "Computer Science Education 220",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Continuous assessment",
+                "Type": "Assessment",
+                "Weight": "40%"
+            },
+            {
+                "Name": "Examination A sub minimu m of is required in the examination component of the final module mark",
+                "Type": "Exam",
+                "Weight": "60%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Computer Science Education 210"
+            }
+        ],
+        "Description": "To prepare students to wards the teaching of Information Technology (Computer Studies) in the FET phase."
+    },
+    {
+        "Code": "EDCM310",
+        "Name": "Computer Science Education 310",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Continuous assessment",
+                "Type": "Assessment",
+                "Weight": "40%"
+            },
+            {
+                "Name": "Examination A sub minimum of is required in the examination component of the final module mark",
+                "Type": "Exam",
+                "Weight": "60%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Computer Science Education 220"
+            }
+        ],
+        "Description": "To prepare students towards the teaching of Information Technology (Computer Studies) in the FET phase."
+    },
+    {
+        "Code": "EDCM320",
+        "Name": "Computer Science Education 320",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Continuous assessment",
+                "Type": "Assessment",
+                "Weight": "40%"
+            },
+            {
+                "Name": "Examination A sub minimum of is required in the examination component of the final module mark",
+                "Type": "Exam",
+                "Weight": "60%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Computer Science Education 220."
+            }
+        ],
+        "Description": "To prepare students towards the teaching of Information Technology (Computer Studies) in the FET phase."
+    },
+    {
+        "Code": "EDCM410",
+        "Name": "Computer Science Education 410",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Cont inuous assessment",
+                "Type": "Assessment",
+                "Weight": "40%"
+            },
+            {
+                "Name": "Examination A sub minimum of is required in the examination component of the final module mark DP As per college rules",
+                "Type": "Exam",
+                "Weight": "60%"
+            }
+        ],
+        "Description": "To prepare students towards the teaching of Information Technology (Computer Studies) in the FET phase and to \nprovide an opportunity for students to widen their knowledge in various areas of Computer  Science."
+    },
+    {
+        "Code": "EDCM420",
+        "Name": "Computer Science Education 420",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Continuous assessment",
+                "Type": "Assessment",
+                "Weight": "40%"
+            },
+            {
+                "Name": "Examination A sub minimum of is required in the examination component of the final module mark",
+                "Type": "Exam",
+                "Weight": "60%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Computer Science 310.  \n 321                                                                                                                                   Humanities"
+            }
+        ],
+        "Description": "To prepare stu dents towards the teaching of Computer Studies in the FET phase and to provide an opportunity for \nstudents to widen their knowledge in various areas of Computer Science."
+    },
+    {
+        "Code": "EDDR210",
+        "Name": "Drama Education 210",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Continuous Assessment",
+                "Type": "Assessment",
+                "Weight": 0
+            },
+            {
+                "Name": "Examination hours",
+                "Type": "Exam",
+                "Weight": 0
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Prerequisite: Pass in at least one communication module"
+            }
+        ],
+        "Description": "This unit will provide student teachers with knowledge, experi ence and skills necessary to develop communication \nin and appreciation of various aspects of Drama, focusing on the development of confidence, creativity and \nexpressiveness in speech and movement."
+    },
+    {
+        "Code": "EDDR220",
+        "Name": "Drama Education 220",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Continuous Practical Assessment",
+                "Type": "Assessment",
+                "Weight": 0
+            },
+            {
+                "Name": "Examination hours",
+                "Type": "Exam",
+                "Weight": 0
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Prerequisite: Pass in at least one communication module"
+            }
+        ],
+        "Description": "This unit will provide opportunities for development of social skills: teamwork, commitment and collaboration; the \ndevelopment of critical thinking and interpretive skills, and skills in language and movement."
+    },
+    {
+        "Code": "EDDR310",
+        "Name": "Drama Education 310",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Continuous Assessment",
+                "Type": "Assessment",
+                "Weight": 0
+            },
+            {
+                "Name": "Examination hours",
+                "Type": "Exam",
+                "Weight": 0
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Prerequisite: Pass in either Drama Education 210 or 220"
+            }
+        ],
+        "Description": "This module will provide opportuni ties for: personal development in use of speech and movement for effective \ncommunication, teamwork strategies, an overview of Theatre History and the technical aspects of play production."
+    },
+    {
+        "Code": "EDDR320",
+        "Name": "Drama Education 320",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Continuous Assessment",
+                "Type": "Assessment",
+                "Weight": 0
+            },
+            {
+                "Name": "Examination hours",
+                "Type": "Exam",
+                "Weight": 0
+            }
+        ],
+        "Description": "This unit will provide students with scope to develop critical thinking, aesthetic appreciation and skills in dramatic \ninterpretation, as well as the gaining of knowledge of play product ion in schools."
+    },
+    {
+        "Code": "EDDR410",
+        "Name": "Drama Education 410",
+        "Credits": "16"
+    },
+    {
+        "Code": "EDDR420",
+        "Name": "Drama Education 420",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Continuous Assessment",
+                "Type": "Assessment",
+                "Weight": 0
+            },
+            {
+                "Name": "Examination hours",
+                "Type": "Exam",
+                "Weight": 0
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Prerequisite: Pass in Drama Education 410."
+            }
+        ],
+        "Description": "To build specialist knowledge and skills in the appreciation and the teaching of Drama. To gain skills in \nmanagement and production, to develop research skills and gain further insights into the work of modern dramatists."
+    },
+    {
+        "Code": "EDEN210",
+        "Name": "English Major 210",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Continuous assessment",
+                "Type": "Assessment",
+                "Weight": "50%"
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Description": "To prepare students for the challenges of teaching by providing an overview of applied linguistics, insights into \nnarrative studies and various literary texts and by developing critical thinking and aesthetic appreciation."
+    },
+    {
+        "Code": "EDEN220",
+        "Name": "English Major 220",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Continuous assessment",
+                "Type": "Assessment",
+                "Weight": "50%"
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "English Communication 110, English Language  Course or Academic Literacy in Education."
+            }
+        ],
+        "Description": "To prepare students for the challenges of teaching by developing critical thinking, aesthetic appreciation and insight \ninto a variety of works of English literature."
+    },
+    {
+        "Code": "EDEN310",
+        "Name": "English Major 310",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Continuous assessment",
+                "Type": "Assessment",
+                "Weight": "50%"
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "English 210 or English 220"
+            }
+        ],
+        "Description": "To develop critical thinking, aesthetic appreciati on and insight into literature; awareness and perspective on various \napproaches to literary analysis; and to introduce popular and adolescent literature and the teaching of texts."
+    },
+    {
+        "Code": "EDEN320",
+        "Name": "English Major 320",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Continuous assessment",
+                "Type": "Assessment",
+                "Weight": "50%"
+            },
+            {
+                "Name": "Exa mination",
+                "Type": "Coursework",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "English 210 and English 220"
+            }
+        ],
+        "Description": "To develop critical thinking, aesthetic appreciation and insight int o literature; understanding of sociolinguistics; \nsecond language acquisition; and, approaches to film study."
+    },
+    {
+        "Code": "EDEN410",
+        "Name": "English Major 410",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Continuous assessment",
+                "Type": "Assessment",
+                "Weight": "60%"
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": "40%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "English 310 and English 320"
+            }
+        ],
+        "Description": "To develop critical thinking, aesthetic appreciation and insight into literature; understanding of critical approaches \nto reading; and, research skills."
+    },
+    {
+        "Code": "EDEN420",
+        "Name": "English Major 420",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Continuous assessment",
+                "Type": "Assessment",
+                "Weight": "50%"
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "English 310 and English 320"
+            }
+        ],
+        "Description": "To develop critical thinking, aesthetic appreciation and insight into literature; insights into  mass media; and, \nresearch skills."
+    },
+    {
+        "Code": "EDGG210",
+        "Name": "Geography for Educators 210",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Coursework",
+                "Type": "Coursework",
+                "Weight": "50%"
+            },
+            {
+                "Name": "examination",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Description": "To introduce students to the nature, scope and values of Geography by focusing on developmental and \nenvironmental issues in Africa."
+    },
+    {
+        "Code": "EDGG220",
+        "Name": "Geography for Educators 220",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Coursework",
+                "Type": "Coursework",
+                "Weight": "50%"
+            },
+            {
+                "Name": "examination",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Description": "To expose students to a critical understanding  of the spatial and historical processes that have led to the \nemergence of urban settlements around the world."
+    },
+    {
+        "Code": "EDGG310",
+        "Name": "Geography for Educators 310",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Coursework",
+                "Type": "Coursework",
+                "Weight": "50%"
+            },
+            {
+                "Name": "examination School of Socia l Science Education",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Geography 210 or 220"
+            }
+        ],
+        "Description": "To equip students with a critical understanding of the nature of relationships between man and the environment \nwith respect to vulnerability, risks and hazards that occur. To enable students to think, devise and discuss mitigation \nstrategies in an attempt  to minimise risk in different geographical settings."
+    },
+    {
+        "Code": "EDGG320",
+        "Name": "Geography for Educators 320",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Coursework",
+                "Type": "Coursework",
+                "Weight": "50%"
+            },
+            {
+                "Name": "examination School of Social Science Education",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Geography  210 & 220"
+            }
+        ],
+        "Description": "To provide an introduction to geomorphology and biogeography. Students are introduced to theories related to the \norigin of the earth\u2019s crustal features and concepts and processes related to fluvialism, horizontal and inclined strata, \necosys tems and biomes. Environmental sustainability is infused into discussions across the module especially in coastal \nenvironments."
+    },
+    {
+        "Code": "EDGG410",
+        "Name": "Geography for Educators 410",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Coursework",
+                "Type": "Coursework",
+                "Weight": "50%"
+            },
+            {
+                "Name": "examination",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Geography Education 410"
+            }
+        ],
+        "Description": "To expose students to the nature and complexity of weather and climate, thus enabling them to more completely \ngrasp the critical relationship between people and their environment."
+    },
+    {
+        "Code": "EDGG420",
+        "Name": "Geography for Educators 420",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Dissertation",
+                "Type": "Coursework",
+                "Weight": 0
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Geography 310 or 320"
+            }
+        ],
+        "Description": "To introduce students to research skills, concepts and values, and to enable the students to apply them  to a freely \nchosen topic pertaining to Geographical education."
+    },
+    {
+        "Code": "EDHS210",
+        "Name": "History for Educators 210",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Continuous assessment",
+                "Type": "Assessment",
+                "Weight": "50%"
+            },
+            {
+                "Name": "examination hrs",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "None"
+            }
+        ],
+        "Description": "To empower prospective History educators, as part of there initial teaching qualification, with sound historical \nknowl edge on the nature, philosophy and importance of the subject. This module would furthermore serve to instruct the \nstudents in how and by whom History is written, the factors that influence the writing process as well as the sources used \nby Historians."
+    },
+    {
+        "Code": "EDHS220",
+        "Name": "History for Educators 220",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Continuous assessment",
+                "Type": "Assessment",
+                "Weight": "50%"
+            },
+            {
+                "Name": "examination hrs",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "None"
+            }
+        ],
+        "Description": "This course exposes prospective History Educators to the concept of change and progression.  Throughout the \ncourse we look at how development, especially through Revolutions, affects our lives socially, politically and \neconomically, and how the ramifications of them are still felt today. At the same time the prospective educators are \nprepared to teach about change and progression."
+    },
+    {
+        "Code": "EDHS310",
+        "Name": "History for Educators 310",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Continuous assessment",
+                "Type": "Assessment",
+                "Weight": "50%"
+            },
+            {
+                "Name": "examination hrs",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Description": "To prepare prospective History educators in becoming proficient in some of the most important events in South \nAfrican History. Furthermore, to create an understanding of the political, economic, social, in tellectual and cultural forces \nand events, as well as the historical context within which they functioned, that created the democratic, multi -cultural \nsociety \u201cNew\u201d South Africa."
+    },
+    {
+        "Code": "EDHS320",
+        "Name": "History for Educators 320",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Continuous assessment",
+                "Type": "Assessment",
+                "Weight": "50%"
+            },
+            {
+                "Name": "examination hrs",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "None"
+            }
+        ],
+        "Description": "This course prepares students to deal, as educators, with prejudices relating to race and gender within history. The \nfocus is on the origin of discourse around race, and categorising someone as \u201cother\u201d. This course requires an open -\nminded view and does examine sensitive issues such as Eugenics and Evolution."
+    },
+    {
+        "Code": "EDHS410",
+        "Name": "History for Educators 410",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Continuous assessment",
+                "Type": "Assessment",
+                "Weight": "50%"
+            },
+            {
+                "Name": "examination hrs Humanities",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Computer literacy, History 310 and 320"
+            }
+        ],
+        "Description": "War, both as a concept and a from of action, is one of the most important historical phenomena, affecting politics, \ntechnology, economics, civilians, relations betwee n states, perceptions of class and nations amongst others. Wars, as \nsuch, forms an integral part of the History curriculum for schools. This module would therefore pursue several wars, both \ncomparatively and chronologically, in the process examining the ex periences of those involved as well as the \nconsequences of war."
+    },
+    {
+        "Code": "EDHS420",
+        "Name": "History for Educators 420",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Continuous assessment",
+                "Type": "Assessment",
+                "Weight": "50%"
+            },
+            {
+                "Name": "examination hrs",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "None"
+            }
+        ],
+        "Description": "To equip prospective History educators with a thorough understanding of the complex dynamics underlying the \n19th and 20th centuries and to create an enhanced appreciation of Africa\u2019s specific historical place in the global \nframework."
+    },
+    {
+        "Code": "EDIS210",
+        "Name": "Information Systems Education 210",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Coursework Examination A sub minimum of is required in the examination component of the final module mark",
+                "Type": "Exam",
+                "Weight": "40%"
+            }
+        ],
+        "Description": "To prepare the student towards the teaching of End -User Compu ting in the FET phase. Intended for teachers who \nwish to teach the subject, Computer Applications Technology, in the new FET curriculum."
+    },
+    {
+        "Code": "EDIS220",
+        "Name": "Information Systems Education 220",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Coursework Examination A sub minimum of is required in the examination component of the final module mark",
+                "Type": "Exam",
+                "Weight": "40%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Information Systems Ed ucation 210."
+            }
+        ],
+        "Description": "To prepare the student towards the teaching of End -User Computing in the FET phase. Intended for teachers who \nwish to teach the subject, Computer Applications Technology, in the new FET curriculum."
+    },
+    {
+        "Code": "EDIS310",
+        "Name": "Information Systems Education 310",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Coursework Examination A sub minimum of is required in the examination component of the final module mark",
+                "Type": "Exam",
+                "Weight": "40%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Information Systems Education 220."
+            }
+        ],
+        "Description": "To prepare the student towards the teaching of End -User Computing in the FET phase. Intended for teachers who \nwish to teach the subject, Computer Applicat ions Technology, in the new FET curriculum."
+    },
+    {
+        "Code": "EDIS320",
+        "Name": "Information Systems Education 320",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Coursework",
+                "Type": "Coursework",
+                "Weight": "40%"
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": "60%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Information Systems Education 210."
+            }
+        ],
+        "Description": "To give students an in -depth understanding of why computers are essential components in business and society, \nand to prepare the students towards the te aching of end -user Computing applications in the FET phase. Intended for \nteachers who wish to teach the subject, Computer Applications Technology."
+    },
+    {
+        "Code": "EDIS410",
+        "Name": "Information Systems Education 410",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Continuous assessment",
+                "Type": "Assessment",
+                "Weight": "40%"
+            },
+            {
+                "Name": "Examination A sub minimum of is required in the examination component of the final module mark",
+                "Type": "Exam",
+                "Weight": "60%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Information Systems Education 210, 220 and 310."
+            }
+        ],
+        "Description": "To prepare students towards the teaching of Informat ion Technology (Computer Studies) in the FET phase and to \nprovide an opportunity for students to widen their knowledge in various areas of Computer Science."
+    },
+    {
+        "Code": "EDIS420",
+        "Name": "Information Systems Education 420",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Coursework Examination A sub minimum of is required in the examination component of the final module mark",
+                "Type": "Exam",
+                "Weight": "40%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Information Systems Education 320."
+            }
+        ],
+        "Description": "To prepare students  towards the teaching of Information Technology (Computer Studies) in the FET phase and to \nprovide an opportunity for students to widen their knowledge in various areas of Computer Science."
+    },
+    {
+        "Code": "EDMA210",
+        "Name": "Mathematics for Educators 210",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Assignments tests or projec ts",
+                "Type": "Assignment",
+                "Weight": "50%"
+            },
+            {
+                "Name": "Examinations",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "A pass in Mathematics at Level 5 or a 60% pass in Mathematics 110.  Syllabi                                                                                                                                            374"
+            }
+        ],
+        "Description": "The module is intended for pre -service FET and Senior Phase mathematics educators. The purpose is to develop \npersonal confidence and competence in mathematics content. This will prepare educators for effective facilitation  of \nlearning of mathematics in the FET and GET bands."
+    },
+    {
+        "Code": "EDMA220",
+        "Name": "Mathematics for Educators 220",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "ination (50%)",
+                "Type": "Coursework",
+                "Weight": "50"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Gained a pass of at least 40% in Mathematics for Educators 210"
+            }
+        ],
+        "Description": "The module is aimed at pre -service FET and Senior Phase mathematics educators. The purpose is to develop \npersonal confidence and competence in mathematics content. This will prepare educators for effective facilitation of \nlearning of mathematics at the FET and GET bands."
+    },
+    {
+        "Code": "EDMA310",
+        "Name": "Mathematics for Educators 310",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Tutorial tests tests or projects",
+                "Type": "Coursework",
+                "Weight": "50%"
+            },
+            {
+                "Name": "Examinations",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Mathematics for Educators 210 and 220"
+            }
+        ],
+        "Description": "The purpose of this optional module is to provide pre -service teachers with the opportunity to increase their \npersonal confidence  and competence in Maths, to develop a broad understanding of a selection of Maths topics, and to \nprepare pre -service teachers to facilitate the learning of Maths in the FET band."
+    },
+    {
+        "Code": "EDMA320",
+        "Name": "Mathematics for Educators 320",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Assignments tests or projects",
+                "Type": "Assignment",
+                "Weight": "50%"
+            },
+            {
+                "Name": "Examinations",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "At least a pass of 40 % in Mathematics for Educators 310"
+            }
+        ],
+        "Description": "The purpose of this optional module is to provide pre -service teachers with the opportunity to increase their \npersonal confidence and competence in Maths, to develop a broad understanding of a selection of Maths topics, and to \nprepare pre -service teachers to facilitate the learning of Maths in the FET band."
+    },
+    {
+        "Code": "EDMA410",
+        "Name": "Mathematics for Educators 410",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Assignments tests or projects",
+                "Type": "Assignment",
+                "Weight": "50%"
+            },
+            {
+                "Name": "Examinations",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "A pass in Mathematics for Educators 310"
+            }
+        ],
+        "Description": "To provide pre -service teachers with the opportunity to increase their personal confidence and competence in \nMaths, to develop a broad understanding of a selection of Maths topics, and to prepare pre -service teachers to facilitate \nthe learning of Maths in the FET band.  \nCont ent: The Real Number System; Series; Sequences; Continuity; Countibility; Cluster points; Financial Mathematics."
+    },
+    {
+        "Code": "EDMA420",
+        "Name": "Mathematics for Educators 420",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Assignments tests or projects",
+                "Type": "Assignment",
+                "Weight": "50%"
+            },
+            {
+                "Name": "Examinations",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "At least a 40% pass in Mathematics 410"
+            }
+        ],
+        "Description": "To provide pre -service teachers with the opportunity to increase their  personal confidence and competence in \nMaths, to develop a broad understanding of a selection of Maths topics, and to prepare pre -service teachers to facilitate \nthe learning of Maths in the FET band."
+    },
+    {
+        "Code": "EDPS210",
+        "Name": "Physical Science for Educators 210",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Continuous assessment",
+                "Type": "Assessment",
+                "Weight": "50%"
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Matric pass in Physical Science at 60% or above."
+            }
+        ],
+        "Description": "This module will equip students with knowledge and s cientific skills to enable them to teach relevant topics in \nPhysical science from Grade 10 to Grade12 of the FET phase of schooling competently and confidently."
+    },
+    {
+        "Code": "EDPS220",
+        "Name": "Physical Science for Educators 220",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Course work",
+                "Type": "Coursework",
+                "Weight": "50%"
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Description": "This module will equip students with knowledge and scientific skills to enable them to teach relevant topics in \nPhysical Science in the FET phase of schooling."
+    },
+    {
+        "Code": "EDPS310",
+        "Name": "Physical Science for Educators 310",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Course work",
+                "Type": "Coursework",
+                "Weight": "50%"
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Physical Science 210"
+            }
+        ],
+        "Description": "This module will equip s tudents with knowledge and scientific skills to enable them to teach relevant topics in \nPhysical Science from grade 10 to Grade12 of the FET phase of schooling competently and confidently."
+    },
+    {
+        "Code": "EDPS320",
+        "Name": "Physical Science for Educators 320",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Course work",
+                "Type": "Coursework",
+                "Weight": "50%"
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Physical Science 220"
+            }
+        ],
+        "Description": "This module will equip students with knowledge and scientific skills to enable them to teach relevant topics in \nPhysical Science in the FET phase of schooling."
+    },
+    {
+        "Code": "EDPS410",
+        "Name": "Physical Science for Educators 410",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Course work",
+                "Type": "Coursework",
+                "Weight": "50%"
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": {
+            "Code": "EDPS210"
+        },
+        "Description": "This module will equip students with knowledge and scientific skills to enable them to teach relevant topics in \nPhysical Science from grade 10 to Grade12 of the FET ph ase of schooling competently and confidently."
+    },
+    {
+        "Code": "EDPS420",
+        "Name": "Physical Science for Educators 420",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Course work",
+                "Type": "Coursework",
+                "Weight": "50%"
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Physical Science for Educators 220."
+            }
+        ],
+        "Description": "This module will equip students with knowledge and scientific skills to enable them to teach relevant topics in \nPhysical Science in the FET phase of schooling."
+    },
+    {
+        "Code": "EDSP210",
+        "Name": "Sports Science for Educators 210",
+        "Credits": "16"
+    },
+    {
+        "Code": "EDSP220",
+        "Name": "Sports Science for Educators 220",
+        "Credits": "16"
+    },
+    {
+        "Code": "EDSP310",
+        "Name": "Sports Science for Educators 310",
+        "Credits": "16"
+    },
+    {
+        "Code": "EDSP320",
+        "Name": "Sports Science for Educators 320",
+        "Credits": "16"
+    },
+    {
+        "Code": "EDSP410",
+        "Name": "Sports Science for Educators 410",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Tests assignments and practicals",
+                "Type": "Assignment",
+                "Weight": "60%"
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": "40%"
+            }
+        ],
+        "Description": "To provide students with understanding and knowledge of research in sport; environmental aspects influencing \nexercise and training and community recreation; practical and theoretical aspects of various movement activities; and, \nto assist students apply this u nderstanding in developing and presenting programmes."
+    },
+    {
+        "Code": "EDSP420",
+        "Name": "Sports Science for Educators 420",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Tests assignments and practicals",
+                "Type": "Assignment",
+                "Weight": "60%"
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": "40%"
+            }
+        ],
+        "Description": "To prov ide students with understanding and knowledge of biomechanical aspects of sport; sport psychology,; \npractical and theoretical aspects of various movement activities and, to assist students apply this understanding in \ndeveloping and presenting programmes."
+    },
+    {
+        "Code": "EDTT210",
+        "Name": "Travel and Tourism Education 210",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "amination (50%)",
+                "Type": "Coursework",
+                "Weight": "50"
+            }
+        ],
+        "Description": "To provide students with an understanding of the nature of travel & tourism and travel & tourism mana gement \nwithin the socio -economic and political context of South Africa."
+    },
+    {
+        "Code": "EDTT220",
+        "Name": "Travel and Tourism Education 220",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Examination (50%)",
+                "Type": "Exam",
+                "Weight": "50"
+            }
+        ],
+        "Description": "To provide students with an understanding of the infra structures related to various forms of transport and range \nof accommodation facilities and to examine the regulations documentation procedures in travel industry."
+    },
+    {
+        "Code": "EDTT310",
+        "Name": "Travel and Tourism Education 310",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Examination (50%)",
+                "Type": "Exam",
+                "Weight": "50"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Travel & Tourism 210 /220"
+            }
+        ],
+        "Description": "To provide students with an understanding of the: economic, social and geographical factors that impact on \ntourism; to examine communication in travel and tourism; in troduce students to basic marketing principals in tourism."
+    },
+    {
+        "Code": "EDTT320",
+        "Name": "Travel and Tourism Education 320",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Examination (50%)",
+                "Type": "Exam",
+                "Weight": "50"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Travel and Tourism 210 /220"
+            }
+        ],
+        "Description": "To develop knowledge of hotel management and related industries and the concept of environmental responsibility \nin tourism."
+    },
+    {
+        "Code": "EDTT410",
+        "Name": "Travel and Tourism Education 410",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Examination (50%)",
+                "Type": "Exam",
+                "Weight": "50"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Travel and Tourism 310/320"
+            }
+        ],
+        "Description": "To develop basic knowledge of marketing principles in travel and tourism, global trends in tourism and calculations \nneeds for international travel."
+    },
+    {
+        "Code": "EDTT420",
+        "Name": "Travel and Tourism Education 420",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Examination (50%)",
+                "Type": "Exam",
+                "Weight": "50"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Travel & Tourism 310/320"
+            }
+        ],
+        "Description": "To develop awareness of different cultural norms and values used as cultural attractions in the tourism industry; \nknowledge of the various facets of cultural tourism and the related problems and benefits to the local community; and, \nentrepreneurial skills required to start a business."
+    },
+    {
+        "Code": "EDZU210",
+        "Name": "isiZulu",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Continuous assessment",
+                "Type": "Assessment",
+                "Weight": "50%"
+            },
+            {
+                "Name": "Examinations",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Matric Zulu HL or 65% FAL"
+            }
+        ],
+        "Description": "To provide students with useful language skills for both personal and social development and to ensure that \nstudents apply their knowledge successfully and effectively in the classroom with appreciation of the value of their cultura l \nheritage."
+    },
+    {
+        "Code": "EDZU220",
+        "Name": "isiZulu",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Continuous assessment",
+                "Type": "Assessment",
+                "Weight": "50%"
+            },
+            {
+                "Name": "Examinations",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": {
+            "Code": "EDZU210"
+        },
+        "Description": "To provide students with useful language skills for both personal and social development and to ensure that \nstudents apply their knowledge successfully and effectively in the c lassroom with appreciation of the value of their cultural \nheritage."
+    },
+    {
+        "Code": "EDZU310",
+        "Name": "isiZulu",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Continuous assessment",
+                "Type": "Assessment",
+                "Weight": "50%"
+            },
+            {
+                "Name": "Examinations",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": {
+            "$and": [
+                {
+                    "Code": "EDZU210"
+                },
+                {
+                    "Code": "EDZU220"
+                }
+            ]
+        },
+        "Description": "To provide students with useful language skills for both personal and social development and to ensure that \nstudents apply their knowledge successfully and effectively in the classroom with appreciation of t heir cultural heritage."
+    },
+    {
+        "Code": "EDZU320",
+        "Name": "isiZulu",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Continuous assessment",
+                "Type": "Assessment",
+                "Weight": "50%"
+            },
+            {
+                "Name": "Examinations",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": {
+            "Code": "EDZU310"
+        },
+        "Description": "To provide students with useful language skills for both personal and social development and to ensure that \nstudents apply their knowledge successfully and effectively in the classro om with appreciation of the value of their cultural \nheritage."
+    },
+    {
+        "Code": "EDZU410",
+        "Name": "isiZulu",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Continuous assessment",
+                "Type": "Assessment",
+                "Weight": "50%"
+            },
+            {
+                "Name": "Examinations",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": {
+            "$and": [
+                {
+                    "Code": "EDZU310"
+                },
+                {
+                    "Code": "EDZU320"
+                }
+            ]
+        },
+        "Description": "To provide students with useful language skills for both personal and social development and to ensure that \nstudents apply their knowledge successfully and effectively in the classroom with apprec iation of their cultural heritage."
+    },
+    {
+        "Code": "EDZU420",
+        "Name": "isiZulu",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Continuous assessment",
+                "Type": "Assessment",
+                "Weight": "50%"
+            },
+            {
+                "Name": "Examinations",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": {
+            "Code": "EDZU410"
+        },
+        "Description": "To provide students with useful language skills for both personal and social development and to ensure that \nstudents apply their knowledge successfully and effectively in the classr oom with appreciation of the value of their cultural \nheritage."
+    },
+    {
+        "Code": "EDNS110",
+        "Name": "Natural Science 110",
+        "Credits": "16"
+    },
+    {
+        "Code": "EDNS120",
+        "Name": "Natural Science 120",
+        "Credits": "16"
+    },
+    {
+        "Code": "EDNS210",
+        "Name": "Natural Science 210",
+        "Credits": "16"
+    },
+    {
+        "Code": "EDTE111",
+        "Name": "Technology Education 111",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Examination (50%)",
+                "Type": "Exam",
+                "Weight": "50"
+            }
+        ],
+        "Description": "To introduce students to teaching Technology in the GET phase and expose them to the emerging issues in \nTechnology Education discourse, w.r.t. IKS; Sustainability and STS and the environment."
+    },
+    {
+        "Code": "EDTE121",
+        "Name": "Technology Education 121",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Examination (50%)",
+                "Type": "Exam",
+                "Weight": "50"
+            }
+        ],
+        "Description": "To provide students with an understanding of the many important aspects of modern mechanical, electrical, \npneumatic and hydraulic components and systems."
+    },
+    {
+        "Code": "EDTE220",
+        "Name": "Technology Education 220",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Examination (40%)",
+                "Type": "Exam",
+                "Weight": "40"
+            }
+        ],
+        "Description": "To introduce students to the basic knowledge and skills needed to process common materials and produce \nfunctional products of clay, paper, woods, metals, plastics, textiles and composite materials. This will include expo sure \nto laboratory safety, use of hand tools, operation of machines, and teaching strategies. Students will be provided with \nlaboratory experiences in materials 201 testing and construction of multi -material projects."
+    },
+    {
+        "Code": "EDLF110",
+        "Name": "Life Orientation 110",
+        "Credits": "16"
+    },
+    {
+        "Code": "EDLF120",
+        "Name": "Life Orientation 120",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Coursework tests and assignments",
+                "Type": "Assignment",
+                "Weight": "50%"
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Life Orirentation 110"
+            }
+        ],
+        "Description": "To provide students with an understanding of personal, community and environmental health; to provi de students \nwith knowledge and understanding of communicable diseases, HIV/Aids, all forms of child abuse, substance abuse, \ngender and sexuality; to provide students with an opportunity to participate in physical fitness activities that promote \nheath; to a ssist students to apply this understanding and knowledge in developing and presenting learning programmes."
+    },
+    {
+        "Code": "EDLF210",
+        "Name": "Life Orientation 210",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "tests and assignments",
+                "Type": "Assignment",
+                "Weight": "50%"
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Life Orientation 110"
+            }
+        ],
+        "Description": "To inve stigate various theories and approaches in the field of ethics, looking at the implications for society in \ngeneral and more specifically in the education arena, focusing on moral education."
+    },
+    {
+        "Code": "EDAR110",
+        "Name": "Arts and Culture 110",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Continuous",
+                "Type": "Coursework",
+                "Weight": "60%"
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": "40%"
+            }
+        ],
+        "Description": "Define and explore various modes and manifestations of artistic expression within specific historical and social \ncontexts (art, drama and music). Integrate technical elements in an imaginative, skilful and coherent way to r epresent \nartistic expression occurring in each of the following areas: aural, visual, kinesthetic and tactile."
+    },
+    {
+        "Code": "EDAR120",
+        "Name": "Arts and Culture 120",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Continuous",
+                "Type": "Coursework",
+                "Weight": "60%"
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": "40%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Arts and Culture 110"
+            }
+        ],
+        "Description": "Experience the positive role played by the Arts in the forging of meaningful link s between and among diverse \ncultural groups as well as on an inter -personal level. Prepare students to teach the Arts and Culture Learning Area."
+    },
+    {
+        "Code": "EDAR210",
+        "Name": "Arts and Culture 210",
+        "Credits": "16",
+        "Assessment": [
+            {
+                "Name": "Continuous",
+                "Type": "Coursework",
+                "Weight": "60%"
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": "40%"
+            }
+        ],
+        "Description": "Demonstrate an understanding of the elements of music: aurally, physically, visually and creatively. Exhibit an  309                                                                                                                                   Humanities  \n  \nability to integrate the various elements and activities of arts education with each other in  order to promote holistic \neducation through the arts."
+    },
+    {
+        "Code": "EDAC201",
+        "Name": "Accounting Method 1",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Assessment (100%)",
+                "Type": "Assessment",
+                "Weight": "100"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Accounting 210"
+            }
+        ],
+        "Description": "\u2022 To explore different learning theories and their application to Accounting teaching. \u2022 To introduce the novice \nAccounting teacher to basic curriculum issues in Accounting. \u2022 Explore various appro aches to teaching Accounting \nEducation 210 topics."
+    },
+    {
+        "Code": "EDAC301",
+        "Name": "Accounting Method 2",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Continuous Assessment",
+                "Type": "Assessment",
+                "Weight": "100%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Accounting 210 and Accounting 220"
+            }
+        ],
+        "Description": "To explore different pedagogical approaches to teaching Sole Traders, Partnerships and Reconciliations."
+    },
+    {
+        "Code": "EDAC401",
+        "Name": "Accounting Method 3",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Assessment (100%)",
+                "Type": "Assessment",
+                "Weight": "100"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Accounting 310 and Accounting 320"
+            }
+        ],
+        "Description": "To introduce the n ovice teacher to basic curriculum issues in Accounting and to explore learning theories and their \napplication in teaching Accounting."
+    },
+    {
+        "Code": "EDBS401",
+        "Name": "Biological Science Method 1",
+        "Credits": "8"
+    },
+    {
+        "Code": "EDBS301",
+        "Name": "Biological Science Method 2",
+        "Credits": "8"
+    },
+    {
+        "Code": "EDBS401",
+        "Name": "Biological Science Method 3",
+        "Credits": "8"
+    },
+    {
+        "Code": "EDBU201",
+        "Name": "Business Management Method 1",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Assessment Continuous Assessment",
+                "Type": "Assessment",
+                "Weight": "100%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Business Management 210"
+            }
+        ],
+        "Description": "To explore different learning theories and their application to Business Studies teaching."
+    },
+    {
+        "Code": "EDBU301",
+        "Name": "Business Management Method 2",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Continuous Assessment",
+                "Type": "Assessment",
+                "Weight": "100%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Business Management 310"
+            }
+        ],
+        "Description": "To explore different pedagogical approaches to teaching Marketing, Public relations and Operati ons Management."
+    },
+    {
+        "Code": "EDBU401",
+        "Name": "Business Management Method 3",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Continuous Assessment",
+                "Type": "Assessment",
+                "Weight": "100%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Business Management 320"
+            }
+        ],
+        "Description": "To explore differen t pedagogical approaches to teaching Human Resources Management Operations \nManagement."
+    },
+    {
+        "Code": "EDCM201",
+        "Name": "Computer Science Education Method 1",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Continuous assessment",
+                "Type": "Assessment",
+                "Weight": "40%"
+            },
+            {
+                "Name": "Examinations A sub minimum of is required in the examination component of the final module mark",
+                "Type": "Exam",
+                "Weight": "60%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Computer Science Education 210 or 220."
+            }
+        ],
+        "Description": "To prepare students t owards the teaching of Information Technology (Computer Studies) in the FET band by \nproviding them with methodologies and understanding of the principles of information technology in the classroom."
+    },
+    {
+        "Code": "EDCM301",
+        "Name": "Computer Science Education Method 2",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Continuous assessment DP Requi rement At least attendance at all lectures practicals seminars and tutorials Submission of all work as required by the module co coordinator by the stipulated date This module will not be offered in",
+                "Type": "Assessment",
+                "Weight": "100%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Information Systems Education 210"
+            }
+        ],
+        "Description": "To provide students with the necessary knowledge to implement and manage a computer centre at schools and to \ncarry out educational research with regard to Computer studies and the teaching thereof."
+    },
+    {
+        "Code": "EDCM401",
+        "Name": "Computer Science Education Method 3",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Continuous assessment",
+                "Type": "Assessment",
+                "Weight": "100%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Computer Science Education 410 and Computer Science Education Method 301."
+            }
+        ],
+        "Description": "To provide students with a thorough understa nding of the new National Curriculum Statement, Curriculum and \nAssessment documents and all policy for Information Technology (computer studies)."
+    },
+    {
+        "Code": "EDDR201",
+        "Name": "Drama Education Method 1",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Continuous Assessment",
+                "Type": "Assessment",
+                "Weight": 0
+            },
+            {
+                "Name": "Examination hours",
+                "Type": "Exam",
+                "Weight": 0
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Drama Education 220"
+            }
+        ],
+        "Description": "To provide students with knowledge and experience in Drama -in-Education; to equip students with the knowledge \nand skills necessary for the teaching of Drama in Senior and FET Phases."
+    },
+    {
+        "Code": "EDDR301",
+        "Name": "Drama Education Method 2",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Continuous Assessment",
+                "Type": "Assessment",
+                "Weight": 0
+            },
+            {
+                "Name": "Examination hours DP Re quirement At least attendance at all lectures practicals tutorials and seminars Submission of all work as required by the module coordinator by the stipulated due date At least in the course work component of the module",
+                "Type": "Exam",
+                "Weight": "75%"
+            }
+        ],
+        "Description": "To provide students with the knowledge and skills necessary for the teaching of Drama at Senior and FET Phases. \nTo provide an opportunity for research into the use of Drama as a learning medium.  \nCont ent: A brief review of Child Drama and its value and application. The study of the promotion of understanding and \ninsight through Drama and the development of professional materials."
+    },
+    {
+        "Code": "EDDR401",
+        "Name": "Drama Education Method 3",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Continuous Assessment",
+                "Type": "Assessment",
+                "Weight": "50%"
+            },
+            {
+                "Name": "Examination hours DP Requirem ent At least attendance at all lectures practicals tutorials and seminars Submission of all work as required by the module coordinator by the stipulated due date At least in the course work component of the module",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Drama Education 320"
+            }
+        ],
+        "Description": "To provide students with the knowledge and skills necessary for the teaching of Drama at Senior and FET Phases. \nTo provide an opportunity for research into the use of Drama as a learning medium."
+    },
+    {
+        "Code": "EDEN201",
+        "Name": "English Major Method 1",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Continuous assessment",
+                "Type": "Assessment",
+                "Weight": "50%"
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Description": "To devel op understanding of the principles of OBE and how these may be applied in the English classroom; \nunderstanding and interpretation of learning outcomes; and, understanding of approaches to listening and speaking."
+    },
+    {
+        "Code": "EDEN301",
+        "Name": "English Major Method 2",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Continuous assessment",
+                "Type": "Assessment",
+                "Weight": "50%"
+            },
+            {
+                "Name": "Examina tion",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Description": "To prepare stu dents to be competent teachers of English."
+    },
+    {
+        "Code": "EDEN401",
+        "Name": "English Major Method 3",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Continuous assessment",
+                "Type": "Assessment",
+                "Weight": "50%"
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Description": "To prepare students to be competent teachers of English."
+    },
+    {
+        "Code": "EDGG201",
+        "Name": "Geography for Educators Method 1",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "continuous assessment",
+                "Type": "Assessment",
+                "Weight": 0
+            }
+        ],
+        "Description": "To provide students with a broad understanding of the role of geography education and its associated challenges \nin a global context. It als o aims to introduce students to the nature and philosophy of geography education, the value of \nappropriate resources, the use of assessments and the implementation of the latest curriculum and assessment policy \nin SA."
+    },
+    {
+        "Code": "EDGG301",
+        "Name": "Geography for Educators Method 2",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Coursework",
+                "Type": "Coursework",
+                "Weight": "50%"
+            },
+            {
+                "Name": "examination",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Description": "To enable students to become famil iar with the nature, philosophy and methodology of Geography teaching."
+    },
+    {
+        "Code": "EDGG401",
+        "Name": "Geography for Educators Method 3",
+        "Credits": "8"
+    },
+    {
+        "Code": "EDHS201",
+        "Name": "History for Educators Method 1",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Continuous assessment",
+                "Type": "Assessment",
+                "Weight": 0
+            }
+        ],
+        "Description": "To prepare prospective History educators to become competent in the teaching methods of History and to develop \nskillsin developing and presenting programmes based on their individual teaching style and philosophy of History."
+    },
+    {
+        "Code": "EDHS301",
+        "Name": "History for Educators Method 2",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Continuous assessment",
+                "Type": "Assessment",
+                "Weight": 0
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "History for Educators Method 1"
+            }
+        ],
+        "Description": "To prepare prospective History educators, as part of there initial teaching qualification, to become competent in \nthe teaching methods of History.  355                                                                                                                                   Humanities"
+    },
+    {
+        "Code": "EDHS401",
+        "Name": "History for Educators Method 3",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Continuous assessment",
+                "Type": "Assessment",
+                "Weight": 0
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Computer literacy, History for Educators Method 2"
+            }
+        ],
+        "Description": "To prepare students to become competent in the teaching methods of Hi story."
+    },
+    {
+        "Code": "EDIS201",
+        "Name": "Information Systems Education Method 1",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Continuous assessment",
+                "Type": "Assessment",
+                "Weight": "40%"
+            },
+            {
+                "Name": "Examination A sub minimum of is required in the examination component of the final module mark",
+                "Type": "Exam",
+                "Weight": "60%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Information Systems Education 210 or 220."
+            }
+        ],
+        "Description": "To provide students w ith methodologies and understanding of the principles of Information Systems in the \nclassroom. To prepare students towards the teaching of Computer Applications Technology in the FET phase."
+    },
+    {
+        "Code": "EDIS301",
+        "Name": "Information Systems Education Method 2",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Continuous assessment",
+                "Type": "Assessment",
+                "Weight": "40%"
+            },
+            {
+                "Name": "Examination A sub minimum of in the examination component of the final module mark",
+                "Type": "Exam",
+                "Weight": "60%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Information Systems Education Method 1."
+            }
+        ],
+        "Description": "To provide students with the necessary knowledge to implement a nd manage a computer centre at schools; to \nprepare students towards the teaching of Computer Applications Technology in the FET phase; and, to carry out research \nwith regard to Computer Application Technology and the teaching thereof."
+    },
+    {
+        "Code": "EDIS401",
+        "Name": "Information Systems Education Method 3",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Continuous assessment",
+                "Type": "Assessment",
+                "Weight": "100%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Information Systems Education 210,220, 310,320 or Information Systems Education and \nMethods 1 and 2."
+            }
+        ],
+        "Description": "To provide students with the teaching techniques, an understanding of different CAI packages that can be used to \naid teaching, and preparation for teaching computer applications technology in FET."
+    },
+    {
+        "Code": "EDMA201",
+        "Name": "Mathematics for Educators Method 1",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "examination (50%)",
+                "Type": "Exam",
+                "Weight": "50"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "A pass in Mathematics at Level 5 or a 60% pass in Mathematics 110."
+            }
+        ],
+        "Description": "This module is intended for prospective GET or FET Mathematics teachers. The purpose is to  develop the ability \nto facilitate the learning of Mathematic in the Senior Phase, which entails personal conceptual competence in all aspects \nof the subject content, pedagogic content knowledge and an understanding of how mathematical concepts develop in \nlearners."
+    },
+    {
+        "Code": "EDMA301",
+        "Name": "Mathematics for Educators Method 2",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Assignments tests projects and classwork Examination Students must obtain at least in the final examination in order to pass the course Syllabi",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Description": "To prepare preservice teachers to facilitate the learning of mathematics in the Senior / FET Phase."
+    },
+    {
+        "Code": "EDMA401",
+        "Name": "Mathematics for Educators Method 3",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Assignments tests projects and classwork Examina tion Students must obtain at least in the final examination in order to pass the course",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Description": "To prepare pre -service teachers to facilitate the learning of mathematics in the FET Phase."
+    },
+    {
+        "Code": "EDPS201",
+        "Name": "Physical Science for Educators Method 1",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Course work",
+                "Type": "Coursework",
+                "Weight": "50%"
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Description": "To develop a deep understanding of the nature of physical science and the ways in which learners learn science; \nto critically assess the role of practical work in the learning o f Physical Science; to de velop understanding of the principles \nof NSC CAPS."
+    },
+    {
+        "Code": "EDPS301",
+        "Name": "Physical Science for Educators Method 2",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Course work",
+                "Type": "Coursework",
+                "Weight": "50%"
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Description": "This module will equip students to develop deep knowledge of the pedagogy of teaching Physical Science and to \nenable students to use effective teaching strategies in relevant topics in Physical science from Grade 10 to Grade 12 of \nthe FET phase of schooling competently and confidently."
+    },
+    {
+        "Code": "EDPS401",
+        "Name": "Physical Science for Educators Method 3",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Course work",
+                "Type": "Coursework",
+                "Weight": "50%"
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Description": "This module will equip students to develop deep knowledge of the pedago gy of teaching Physical Science and to \nenable students to use effective teaching strategies in relevant topics in Physical science from Grade 10 to Grade12 of \nthe FET phase of schooling competently and confidently."
+    },
+    {
+        "Code": "EDSP201",
+        "Name": "Sports Science for Educators Method 1",
+        "Credits": "8"
+    },
+    {
+        "Code": "EDSP301",
+        "Name": "Sports Science for Educators Method 2",
+        "Credits": "8"
+    },
+    {
+        "Code": "EDSP401",
+        "Name": "Sports Science for Educators Method 3",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Tests assignments and practicals",
+                "Type": "Assignment",
+                "Weight": "100%"
+            }
+        ],
+        "Description": "To provide students with knowledge and understanding of effective teaching and learning in movement education; \nethical and moral issues in education; developing creativity in the teaching and learning environment and applying this \nknowledge in the school environment."
+    },
+    {
+        "Code": "EDTT201",
+        "Name": "Travel and Tourism Education Method 1",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Continuous Assessment",
+                "Type": "Assessment",
+                "Weight": "100%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Travel and Tourism 210/220"
+            }
+        ],
+        "Description": "The module is aimed at developing teaching skills and pedagogical approaches to teaching tourism."
+    },
+    {
+        "Code": "EDTT301",
+        "Name": "Travel and Tourism Education Method 2",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Continuous Assessment",
+                "Type": "Assessment",
+                "Weight": "100%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Travel &Tourism Method 1 and Travel &Tourism 210/22 0"
+            }
+        ],
+        "Description": "Module is aimed at developing teaching skills and pedagogical approaches to teaching tourism. It also aimed at \nexploring various assessment strategies in tourism education."
+    },
+    {
+        "Code": "EDTT401",
+        "Name": "Travel and Tourism Education Method 3",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Continuous Assessment",
+                "Type": "Assessment",
+                "Weight": "100%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Travel and Tourism Method 2"
+            }
+        ],
+        "Description": "Module is aimed at developing teaching skills and pedagogical approaches to teaching tourism. It also aimed at \ndeveloping assessment skills in  tourism."
+    },
+    {
+        "Code": "EDZU201",
+        "Name": "isiZulu",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Examination Continuous assessment",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": {
+            "$or": [
+                {
+                    "Code": "EDZU210"
+                },
+                {
+                    "Code": "EDZU210"
+                }
+            ]
+        },
+        "Description": "To prepare students teachers to meet the challenges of teaching isiZulu (MT) . Emphasis will be on understanding \nthe principles of OBE and how they may be applied in isiZulu classroom; understanding and interpreting the learning \noutcomes; understanding approaches to listening and speaking."
+    },
+    {
+        "Code": "EDZU301",
+        "Name": "isiZulu",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Examination Continuous assessment",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": {
+            "Code": "EDZU201"
+        },
+        "Description": "To prepare students to meet the challenges of teaching isiZulu NMT. Emphasis will be on the teaching and \nassessment of reading; applying the principles involved in teaching reading to the Language Literacy and \nCommunication outcomes."
+    },
+    {
+        "Code": "EDZU401",
+        "Name": "isiZulu",
+        "Credits": "8"
+    },
+    {
+        "Code": "EDAR201",
+        "Name": "Arts and Culture Method 1",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Continuous",
+                "Type": "Coursework",
+                "Weight": "60%"
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": "40%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Arts and Culture 110/120"
+            }
+        ],
+        "Description": "Prepare students to teach the Arts a nd Culture Learning Area. Present and respond to art works, developing skills \nin conveying and interpreting meaning."
+    },
+    {
+        "Code": "EDAR301",
+        "Name": "Arts and Culture Method 2",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Continuous",
+                "Type": "Coursework",
+                "Weight": "60%"
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": "40%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Arts and Culture 210"
+            }
+        ],
+        "Description": "Integrate technical and structural elements in an imaginative, skilful and coherent way to represent artistic \nexpression occurring in each of the following areas: aural, visual, kinesthetic and tactile."
+    },
+    {
+        "Code": "EDAC201",
+        "Name": "Accounting Method 1",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Assessment (100%)",
+                "Type": "Assessment",
+                "Weight": "100"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Accounting 210"
+            }
+        ],
+        "Description": "\u2022 To explore different learning theories and their application to Accounting teaching. \u2022 To introduce the novice \nAccounting teacher to basic curriculum issues in Accounting. \u2022 Explore various appro aches to teaching Accounting \nEducation 210 topics."
+    },
+    {
+        "Code": "EDBU201",
+        "Name": "Business Management Method 1",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Assessment Continuous Assessment",
+                "Type": "Assessment",
+                "Weight": "100%"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "Business Management 210"
+            }
+        ],
+        "Description": "To explore different learning theories and their application to Business Studies teaching."
+    },
+    {
+        "Code": "EDGG201",
+        "Name": "Geography for Educators Method 1",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "continuous assessment",
+                "Type": "Assessment",
+                "Weight": 0
+            }
+        ],
+        "Description": "To provide students with a broad understanding of the role of geography education and its associated challenges \nin a global context. It als o aims to introduce students to the nature and philosophy of geography education, the value of \nappropriate resources, the use of assessments and the implementation of the latest curriculum and assessment policy \nin SA."
+    },
+    {
+        "Code": "EDHS201",
+        "Name": "History for Educators Method 1",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Continuous assessment",
+                "Type": "Assessment",
+                "Weight": 0
+            }
+        ],
+        "Description": "To prepare prospective History educators to become competent in the teaching methods of History and to develop \nskillsin developing and presenting programmes based on their individual teaching style and philosophy of History."
+    },
+    {
+        "Code": "EDTE201",
+        "Name": "Technology Education Method 1",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Examination (60%)",
+                "Type": "Exam",
+                "Weight": "60"
+            }
+        ],
+        "Description": "To prepare prospective Technology educators, as part of their initial teaching qualification, to become competent \nand confident in the teaching methods of Technology Education. To achieve this, they will be guided towards profession al \ncompetence informed by a sound skill and value base. The prospective technology educator would furthermore be \nassisted in developing and presenting a learning programme based on the models discussed in the literature."
+    },
+    {
+        "Code": "EDTE301",
+        "Name": "Technology Education Method 2",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "ion (60%)",
+                "Type": "Coursework",
+                "Weight": "60"
+            }
+        ],
+        "Description": "To build the competence and confi dence of future educators of Technology and to offer the student practical ways \nof teaching Technology within the classroom. Thus, the focus will be on Curriculum development, understanding of the \nCAPS document and Laboratory planning in Technology Educati on."
+    },
+    {
+        "Code": "EDMA201",
+        "Name": "Mathematics for Educators Method 1",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "examination (50%)",
+                "Type": "Exam",
+                "Weight": "50"
+            }
+        ],
+        "Prerequisite": [
+            {
+                "Comment": "A pass in Mathematics at Level 5 or a 60% pass in Mathematics 110."
+            }
+        ],
+        "Description": "This module is intended for prospective GET or FET Mathematics teachers. The purpose is to  develop the ability \nto facilitate the learning of Mathematic in the Senior Phase, which entails personal conceptual competence in all aspects \nof the subject content, pedagogic content knowledge and an understanding of how mathematical concepts develop in \nlearners."
+    },
+    {
+        "Code": "EDMA301",
+        "Name": "Mathematics for Educators Method 2",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Assignments tests projects and classwork Examination Students must obtain at least in the final examination in order to pass the course Syllabi",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Description": "To prepare preservice teachers to facilitate the learning of mathematics in the Senior / FET Phase."
+    },
+    {
+        "Code": "EDLF201",
+        "Name": "Life Orientation Method 1",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Coursework tests and assignments",
+                "Type": "Assignment",
+                "Weight": "100%"
+            }
+        ],
+        "Description": "To introduce students to the National Curriculum Statement for Life Orientation and to equip students with life skills."
+    },
+    {
+        "Code": "EDLF202",
+        "Name": "Life Orientation Method 2",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Coursework tests and assignments",
+                "Type": "Assignment",
+                "Weight": "100%"
+            }
+        ],
+        "Description": "To equip students with strategies, methods and techniques to teach Physical Development and Movement and \nHealth Promotion aspects of Life Orientation."
+    },
+    {
+        "Code": "EDNS201",
+        "Name": "Natural Science Method 1",
+        "Credits": "8"
+    },
+    {
+        "Code": "EDNS202",
+        "Name": "Natural Science Method 2",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "examination coursework",
+                "Type": "Exam",
+                "Weight": 0
+            }
+        ],
+        "Description": "The purpose of this module is to prepare students to successfully teach the Natural Science Learning Area in the \nIntermediate (Grades 4,5,6) and Senior Phases (Grades 7,8,9).  385                                                                                                                                   Humanities"
+    },
+    {
+        "Code": "EDEN201",
+        "Name": "English Major Method 1",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Continuous assessment",
+                "Type": "Assessment",
+                "Weight": "50%"
+            },
+            {
+                "Name": "Examination",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Description": "To devel op understanding of the principles of OBE and how these may be applied in the English classroom; \nunderstanding and interpretation of learning outcomes; and, understanding of approaches to listening and speaking."
+    },
+    {
+        "Code": "EDEN301",
+        "Name": "English Major Method 2",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Continuous assessment",
+                "Type": "Assessment",
+                "Weight": "50%"
+            },
+            {
+                "Name": "Examina tion",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Description": "To prepare stu dents to be competent teachers of English."
+    },
+    {
+        "Code": "EDZU201",
+        "Name": "isiZulu",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Examination Continuous assessment",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": {
+            "$or": [
+                {
+                    "Code": "EDZU210"
+                },
+                {
+                    "Code": "EDZU210"
+                }
+            ]
+        },
+        "Description": "To prepare students teachers to meet the challenges of teaching isiZulu (MT) . Emphasis will be on understanding \nthe principles of OBE and how they may be applied in isiZulu classroom; understanding and interpreting the learning \noutcomes; understanding approaches to listening and speaking."
+    },
+    {
+        "Code": "EDZU301",
+        "Name": "isiZulu",
+        "Credits": "8",
+        "Assessment": [
+            {
+                "Name": "Examination Continuous assessment",
+                "Type": "Exam",
+                "Weight": "50%"
+            }
+        ],
+        "Prerequisite": {
+            "Code": "EDZU201"
+        },
+        "Description": "To prepare students to meet the challenges of teaching isiZulu NMT. Emphasis will be on the teaching and \nassessment of reading; applying the principles involved in teaching reading to the Language Literacy and \nCommunication outcomes."
+    }
+]

@@ -1,244 +1,1022 @@
 [
     {
-        "Code": "PHIL110",
-        "Name": "Introduction to Philosophy A",
-        "Duration": "Semester",
-        "Period": [
-            1
-        ],
-        "Credits": "(16C)"
+        "Code": "EDES213",
+        "Name": "Education Studies 210 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
     },
     {
-        "Code": "LAWS1LS",
-        "Name": "Introductory Legal Studies",
-        "Duration": "Semester",
-        "Period": [
-            1
-        ],
-        "Credits": "(16C)"
+        "Code": "EDES220",
+        "Name": "Education Studies 220(16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
     },
     {
-        "Code": "POLS101",
-        "Name": "Introduction to Political Science",
-        "Duration": "Semester",
-        "Period": [
-            1
-        ],
-        "Credits": "(16C)"
+        "Code": "EDES310",
+        "Name": "Education Studies 310 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
     },
     {
-        "Code": "PHIL120",
-        "Name": "Introduction to Philosophy B",
-        "Duration": "Semester",
-        "Period": [
-            2
-        ],
-        "Credits": "(16C)"
+        "Code": "EDES320",
+        "Name": "Education Studies 320 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
     },
     {
-        "Code": "LAWS1AS",
-        "Name": "Aspects of SA Law",
-        "Duration": "Semester",
-        "Period": [
-            2
-        ],
-        "Credits": "(16C)"
+        "Code": "EDES410",
+        "Name": "Education Studies 410 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
     },
     {
-        "Code": "POLS102",
-        "Name": "Introduction to Global Politics",
-        "Duration": "Semester",
-        "Period": [
-            2
-        ],
-        "Credits": "(16C)"
+        "Code": "EDES420",
+        "Name": "Education Studies 420 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
     },
     {
-        "Code": "PHIL210",
-        "Name": "Being and Knowing",
-        "Duration": "Semester",
-        "Period": [
-            1
-        ],
-        "Credits": "(16C)"
+        "Code": "EDES110",
+        "Name": "Professional Studies 110(16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
     },
     {
-        "Code": "PHIL220",
-        "Name": "Thinking and Doing",
-        "Duration": "Semester",
-        "Period": [
-            2
-        ],
-        "Credits": "(16C)"
+        "Code": "EDES120",
+        "Name": "Professional Studies 120 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
     },
     {
-        "Code": "POLS201",
-        "Name": "Issues in International Affairs",
-        "Duration": "Semester",
-        "Period": [
-            1
-        ],
-        "Credits": "(16C)"
+        "Code": "EDES210",
+        "Name": "Professional Studies 210 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
     },
     {
-        "Code": "LAWS2LP",
-        "Name": "Law of Persons",
-        "Duration": "Semester",
-        "Period": [
-            1
-        ],
-        "Credits": "(8C)"
+        "Code": "EDTP120",
+        "Name": "Teaching Practice 120 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
     },
     {
-        "Code": "LAWS2LR",
-        "Name": "Legal Research, Writing & Reason",
-        "Duration": "Semester",
-        "Period": [
-            1
-        ]
+        "Code": "EDTP220",
+        "Name": "Teaching Practice 220 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
     },
     {
-        "Code": "POLS206",
-        "Name": "Contemporary African Politics and Development",
-        "Duration": "Semester",
-        "Period": [
-            2
-        ],
-        "Credits": "(16C)"
+        "Code": "EDTP320",
+        "Name": "Teaching Practice 320 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
     },
     {
-        "Code": "LAWS2HR",
-        "Name": "Human Rights",
-        "Duration": "Semester",
-        "Period": [
-            2
-        ],
-        "Credits": "(8C)"
+        "Code": "EDTP420",
+        "Name": "Teaching Practice 420 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
     },
     {
-        "Code": "LAWS2LW",
-        "Name": "Interpretation of Law",
-        "Duration": "Semester",
-        "Period": [
-            2
-        ],
-        "Credits": "(8C)"
+        "Code": "EDES230",
+        "Name": "Professional Studies 230(8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
     },
     {
-        "Code": "PHIL310",
-        "Name": "Study of a Central Phil. Problem",
-        "Duration": "Semester",
-        "Period": [
-            1
-        ],
-        "Credits": "(16C)"
+        "Code": "EDAC210",
+        "Name": "Accounting Education 210 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
     },
     {
-        "Code": "PHIL330",
-        "Name": "Issues in Ethical Theory",
-        "Duration": "Semester",
-        "Period": [
-            1
-        ],
-        "Credits": "(HC) (16C)"
+        "Code": "EDAC220",
+        "Name": "Accounting Education 220 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
     },
     {
-        "Code": "PHIL340",
-        "Name": "African Philosophy",
-        "Duration": "Semester",
-        "Period": [
-            1
-        ],
-        "Credits": "(PMB) (16C)"
+        "Code": "EDAC310",
+        "Name": "Accounting Education 310 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
     },
     {
-        "Code": "PHIL320",
-        "Name": "Metaphysics",
-        "Duration": "Semester",
-        "Period": [
-            2
-        ],
-        "Credits": "(PMB) (16C)"
+        "Code": "EDAC320",
+        "Name": "Accounting Education 320 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
     },
     {
-        "Code": "PHIL350",
-        "Name": "Philosophy and Society",
-        "Duration": "Semester",
-        "Period": [
-            2
-        ],
-        "Credits": "(16C)"
+        "Code": "EDAC410",
+        "Name": "Accounting Education 410 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
     },
     {
-        "Code": "PHIL360",
-        "Name": "History of Philosophy",
-        "Duration": "Semester",
-        "Period": [
-            2
-        ],
-        "Credits": "(HC) (16C)"
+        "Code": "EDAC420",
+        "Name": "Accounting Education 420 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
     },
     {
-        "Code": "POLS301",
-        "Name": "Modern Political Thought",
-        "Duration": "Semester",
-        "Period": [
-            1
-        ],
-        "Credits": "(16)"
+        "Code": "EDBS210",
+        "Name": "Biological Science for Educators 210 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
     },
     {
-        "Code": "POLS303",
-        "Name": "Political Change in Dev. Regions",
-        "Duration": "Semester",
-        "Period": [
-            2
-        ],
-        "Credits": "(16)"
+        "Code": "EDBS220",
+        "Name": "Biological Science for Educators 220 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
     },
     {
-        "Code": "POLS304",
-        "Name": "Comparative Government & Politics",
-        "Duration": "Semester",
-        "Period": [
-            2
-        ],
-        "Credits": "(16)"
+        "Code": "EDBS310",
+        "Name": "Biological Science for Educators 310 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
     },
     {
-        "Code": "LAWS3CR",
-        "Name": "Criminal Law",
-        "Duration": "Semester",
-        "Period": [
-            1
-        ],
-        "Credits": "(16)"
+        "Code": "EDBS320",
+        "Name": "Biological Science for Educators 320 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
     },
     {
-        "Code": "LAWS3FM",
-        "Name": "Family Law",
-        "Duration": "Semester",
-        "Period": [
-            1
-        ],
-        "Credits": "(16)"
+        "Code": "EDBS410",
+        "Name": "Biological Science for Educators 410 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
     },
     {
-        "Code": "LAWS3JP",
-        "Name": "Jurisprudence",
-        "Duration": "Semester",
-        "Period": [
-            2
-        ],
-        "Credits": "(16)"
+        "Code": "EDBS420",
+        "Name": "Biological Science for Educators 420 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
     },
     {
-        "Code": "LAWS3CS",
-        "Name": "Constitutional Law",
-        "Duration": "Semester",
-        "Period": [
-            2
-        ],
-        "Credits": "(16)"
+        "Code": "EDBU210",
+        "Name": "Business Management 210 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDBU220",
+        "Name": "Business Management 220 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDBU310",
+        "Name": "Business Management 310 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDBU320",
+        "Name": "Business Management 320 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDBU410",
+        "Name": "Business Management 410 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDBU420",
+        "Name": "Business Management 420 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDCM210",
+        "Name": "Computer Science Education 210 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDCM220",
+        "Name": "Computer Science Education 220 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDCM310",
+        "Name": "Computer Science Education 310 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDCM320",
+        "Name": "Computer Science Education 320 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDCM410",
+        "Name": "Computer Science Education 410 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDCM420",
+        "Name": "Computer Science Education 420 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDDR210",
+        "Name": "Drama Education 210 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDDR220",
+        "Name": "Drama Education 220 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDDR310",
+        "Name": "Drama Education 310 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDDR320",
+        "Name": "Drama Education 320 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDDR410",
+        "Name": "Drama Education 410 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDDR420",
+        "Name": "Drama Education 420 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDEN210",
+        "Name": "English Major 210 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDEN220",
+        "Name": "English Major 220 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDEN310",
+        "Name": "English Major 310 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDEN320",
+        "Name": "English Major 320 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDEN410",
+        "Name": "English Major 410 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDEN420",
+        "Name": "English Major 420 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDGG210",
+        "Name": "Geography for Educators 210 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDGG220",
+        "Name": "Geography for Educators 220 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDGG310",
+        "Name": "Geography for Educators 310 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDGG320",
+        "Name": "Geography for Educators 320 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDGG410",
+        "Name": "Geography for Educators 410 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDGG420",
+        "Name": "Geography for Educators 420 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDHS210",
+        "Name": "History for Educators 210 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDHS220",
+        "Name": "History for Educators 220 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDHS310",
+        "Name": "History for Educators 310 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDHS320",
+        "Name": "History for Educators 320 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDHS410",
+        "Name": "History for Educators 410 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDHS420",
+        "Name": "History for Educators 420 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDIS210",
+        "Name": "Information Systems Education 210 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDIS220",
+        "Name": "Information Systems Education 220 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDIS310",
+        "Name": "Information Systems Education 310 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDIS320",
+        "Name": "Information Systems Education 320 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDIS410",
+        "Name": "Information Systems Education 410 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDIS420",
+        "Name": "Information Systems Education 420 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDMA210",
+        "Name": "Mathematics for Educators 210 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDMA220",
+        "Name": "Mathematics for Educators 220 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDMA310",
+        "Name": "Mathematics for Educators 310 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDMA320",
+        "Name": "Mathematics for Educators 320 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDMA410",
+        "Name": "Mathematics for Educators 410 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDMA420",
+        "Name": "Mathematics for Educators 420 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDPS210",
+        "Name": "Physical Science for Educators 210 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDPS220",
+        "Name": "Physical Science for Educators 220 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDPS310",
+        "Name": "Physical Science for Educators 310 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDPS320",
+        "Name": "Physical Science for Educators 320 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDPS410",
+        "Name": "Physical Science for Educators 410 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDPS420",
+        "Name": "Physical Science for Educators 420 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDSP210",
+        "Name": "Sports Science for Educators 210 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDSP220",
+        "Name": "Sports Science for Educators 220 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDSP310",
+        "Name": "Sports Science for Educators 310 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDSP320",
+        "Name": "Sports Science for Educators 320 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDSP410",
+        "Name": "Sports Science for Educators 410 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDSP420",
+        "Name": "Sports Science for Educators 420 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDTT210",
+        "Name": "Travel and Tourism Education 210 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDTT220",
+        "Name": "Travel and Tourism Education 220 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDTT310",
+        "Name": "Travel and Tourism Education 310 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDTT320",
+        "Name": "Travel and Tourism Education 320 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDTT410",
+        "Name": "Travel and Tourism Education 410 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDTT420",
+        "Name": "Travel and Tourism Education 420 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDZU210",
+        "Name": "isiZulu (mother tongue) 210 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDZU220",
+        "Name": "isiZulu (mother tongue) 220 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDZU310",
+        "Name": "isiZulu (mother tongue) 310 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDZU320",
+        "Name": "isiZulu (mother tongue) 320 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDZU410",
+        "Name": "isiZulu (mother tongue) 410 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDZU420",
+        "Name": "isiZulu (mother tongue) 420 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDNS110",
+        "Name": "Natural Science 110 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDNS120",
+        "Name": "Natural Science 120 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDNS210",
+        "Name": "Natural Science 210 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDTE111",
+        "Name": "Technology Education 111 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDTE121",
+        "Name": "Technology Education 121 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDTE220",
+        "Name": "Technology Education 220 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDLF110",
+        "Name": "Life Orientation 110 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDLF120",
+        "Name": "Life Orientation 120 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDLF210",
+        "Name": "Life Orientation 210 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDAR110",
+        "Name": "Arts and Culture 110 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDAR120",
+        "Name": "Arts and Culture 120 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDAR210",
+        "Name": "Arts and Culture 210 (16C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(16"
+    },
+    {
+        "Code": "EDAC201",
+        "Name": "Accounting Method 1 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDAC301",
+        "Name": "Accounting Method 2 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDAC401",
+        "Name": "Accounting Method 3 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDBS401",
+        "Name": "Biological Science Method 1 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDBS301",
+        "Name": "Biological Science Method 2 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDBS401",
+        "Name": "Biological Science Method 3 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDBU201",
+        "Name": "Business Management Method 1 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDBU301",
+        "Name": "Business Management Method 2 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDBU401",
+        "Name": "Business Management Method 3 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDCM201",
+        "Name": "Computer Science Education Method 1 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDCM301",
+        "Name": "Computer Science Education Method 2 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDCM401",
+        "Name": "Computer Science Education Method 3 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDDR201",
+        "Name": "Drama Education Method 1 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDDR301",
+        "Name": "Drama Education Method 2 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDDR401",
+        "Name": "Drama Education Method 3 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDEN201",
+        "Name": "English Major Method 1 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDEN301",
+        "Name": "English Major Method 2 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDEN401",
+        "Name": "English Major Method 3 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDGG201",
+        "Name": "Geography for Educators Method 1 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDGG301",
+        "Name": "Geography for Educators Method 2 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDGG401",
+        "Name": "Geography for Educators Method 3 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDHS201",
+        "Name": "History for Educators Method 1 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDHS301",
+        "Name": "History for Educators Method 2 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDHS401",
+        "Name": "History for Educators Method 3 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDIS201",
+        "Name": "Information Systems Education Method 1 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDIS301",
+        "Name": "Information Systems Education Method 2 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDIS401",
+        "Name": "Information Systems Education Method 3 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDMA201",
+        "Name": "Mathematics for Educators Method 1 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDMA301",
+        "Name": "Mathematics for Educators Method 2 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDMA401",
+        "Name": "Mathematics for Educators Method 3 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDPS201",
+        "Name": "Physical Science for Educators Method 1 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDPS301",
+        "Name": "Physical Science for Educators Method 2 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDPS401",
+        "Name": "Physical Science for Educators Method 3 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDSP201",
+        "Name": "Sports Science for Educators Method 1 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDSP301",
+        "Name": "Sports Science for Educators Method 2 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDSP401",
+        "Name": "Sports Science for Educators Method 3 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDTT201",
+        "Name": "Travel and Tourism Education Method 1 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDTT301",
+        "Name": "Travel and Tourism Education Method 2 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDTT401",
+        "Name": "Travel and Tourism Education Method 3 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDZU201",
+        "Name": "isiZulu (mother tongue) Method 1 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDZU301",
+        "Name": "isiZulu (mother tongue) Method 2 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDZU401",
+        "Name": "isiZulu (mother tongue) Method 3 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDAR201",
+        "Name": "Arts and Culture Method 1 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDAR301",
+        "Name": "Arts and Culture Method 2 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDAC201",
+        "Name": "Accounting Method 1 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDBU201",
+        "Name": "Business Management Method 1 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDGG201",
+        "Name": "Geography for Educators Method 1 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDHS201",
+        "Name": "History for Educators Method 1 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDTE201",
+        "Name": "Technology Education Method 1 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDTE301",
+        "Name": "Technology Education Method 2 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDMA201",
+        "Name": "Mathematics for Educators Method 1 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDMA301",
+        "Name": "Mathematics for Educators Method 2 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDLF201",
+        "Name": "Life Orientation Method 1 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDLF202",
+        "Name": "Life Orientation Method 2 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDNS201",
+        "Name": "Natural Science Method 1 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDNS202",
+        "Name": "Natural Science Method 2 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDEN201",
+        "Name": "English Major Method 1 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDEN301",
+        "Name": "English Major Method 2 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDZU201",
+        "Name": "isiZulu (mother tongue) Method 1 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
+    },
+    {
+        "Code": "EDZU301",
+        "Name": "isiZulu (mother tongue) Method 2 (8C)",
+        "Institution": "University of KwaZulu-Natal",
+        "Credits": "(8"
     }
 ]

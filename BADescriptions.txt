@@ -6430,8 +6430,7 @@ DP:   A minimum year mark of 40% and a minimum attendance of 75% of the module c
 Name: Education Studies 210  
 Code:  EDES213  PC (39L-20T-15P-0S-71H-12R-0F-0G-3A-13W-16C)  
 Prerequisite:   Pre-requisite: A minimum of 40% in Education Studies 122.  
-Description:  A Foundational Academic Studies module which serves to provide students with an understanding of how modern 343                                                                                                                                   Humanities  
-  
+Description:  A Foundational Academic Studies module which serves to provide students with an understanding of how modern
 education systems have evolved, in respect of the world in general, and of Africa and South Africa in particular. There is 
 a strong focus on placing developments into their  political, historical and economic contexts.  
 Content:  •Pre-modern/non -western Education• Modern society and education with special reference to Africa and South 

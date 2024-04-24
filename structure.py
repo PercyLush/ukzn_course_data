@@ -2,7 +2,7 @@ import json
 import re
 
 def assessments():
-    path = "C:\\Users\\Bheki Lushaba\\Desktop\\ukzn_course_data\\BA PPL.json"
+    path = "C:\\Users\\Bheki Lushaba\\Desktop\\ukzn_course_data\\BEd(Output).json"
 
     with open(path, "r") as file1:
         data = json.load(file1)
@@ -10,36 +10,61 @@ def assessments():
         for item in data:
             if "Assessment" in item:
                 DATA = []
-                new_data = re.split(",| ;", item["Assessment"].strip())
-                pattern_name = r"([A-z]+)"
-                pattern_mark = r"(\d+\)%|\d+%)"
-                for n in new_data:
-                    Text = ""
-                    name = re.findall(pattern_name, n)
-                    mark = re.search(pattern_mark, n)
-                    for i in name:
-                        Text += f"{i} "
+                pattern = r"([A-Za-z]+\s*\(\d+\%\)|[A-Za-z]+\s*\d+\%[A-Za-z]\:+\s*\d+\%)"
+                subjects = re.findall(pattern, item["Assessment"])
+                if subjects:
+                    for subject in subjects:
+                        mark_pattern = r"(\d+)"
+                        mark_match = re.search(mark_pattern, subject)
+                        mark = mark_match.group() if mark_match else 0
 
-                    if "Exam" in Text:
-                        if mark:
-                            assessment = {"Name": Text.strip(), "Type": "Exam","Weight": mark.group()}
-                            DATA.append(assessment)
+                        # Determine the type based on keywords in the subject
+                        if "xam" in subject:
+                            course_type = "Exam"
+                        elif "ssign" in subject:
+                            course_type = "Assignment"
+                        elif "ssessment" in subject:
+                            course_type = "Assessment"
                         else:
-                            assessment = {"Name": Text.strip(), "Type": "Exam","Weight": 0}
-                            DATA.append(assessment)
-                    else:
-                        if mark:
-                            assessment = {"Name": Text.strip(), "Type": "Coursework","Weight": mark.group(), "Dynamic": True}   
-                            DATA.append(assessment)
+                            course_type = "Coursework"
+                    # Append the data to DATA list
+                    course = {"Name": subject, "Type": course_type, "Weight": mark}
+                    DATA.append(course)
+                else:
+                    new_Data = item["Assessment"].split(";")
+
+                    for n in new_Data:
+                        Text = ""
+
+                        name_pattern = r"([A-Za-z]+)"
+                        mark_pattern = r"(\d+\%)"
+                        name = re.findall(name_pattern, n)
+                        mark2 = re.search(mark_pattern, n)
+                        for one in name:
+                            Text += f"{one} "
+                        if "xam" in n:
+                            type = "Exam"
+                        elif "ssign" in n:
+                            type = "Assignment"
+                        elif "ssessment" in n:
+                            type = "Assessment"
                         else:
-                            assessment = {"Name": Text.strip(), "Type": "Coursework","Weight": 0, "Dynamic": True}   
-                            DATA.append(assessment)
+                            type = "Coursework"
+
+                        if mark2:
+                            course = {"Name": Text.strip(), "Type": type,"Weight": mark2.group()}
+                            DATA.append(course)
+                        else:
+                            course = {"Name": Text.strip(), "Type": type,"Weight": 0}
+                            DATA.append(course)
                 item["Assessment"] = DATA
-    with open("C:\\Users\\Bheki Lushaba\\Desktop\\ukzn_course_data\\Structured.json", "w") as file2:
+
+    with open("C:\\Users\\Bheki Lushaba\\Desktop\\ukzn_course_data\\Structured(BEd).json", "w") as file2:
         json.dump(data, file2, indent=2)
 
+
 def prerequisite():
-    path = "C:\\Users\\Bheki Lushaba\\Desktop\\ukzn_course_data\\Structured.json"
+    path = "C:\\Users\\Bheki Lushaba\\Desktop\\ukzn_course_data\\Structured(BEd).json"
 
     with open(path, "r") as file:
         data = json.load(file)
@@ -84,7 +109,7 @@ def prerequisite():
             else:
                 item["Prerequisite"] = [{"Comment": item["Prerequisite"]}]
 
-    with open("BA(PPL).json", "w") as file:
+    with open("C:\\Users\\Bheki Lushaba\\Desktop\\ukzn_course_data\\Structured(BEd).json", "w") as file:
         json.dump(data, file, indent=4)
 
 def corequiresite():
@@ -140,4 +165,4 @@ def corequiresite():
 
 assessments()
 prerequisite()
-corequiresite()
+#corequiresite()
