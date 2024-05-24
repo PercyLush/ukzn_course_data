@@ -1,9 +1,9 @@
 import json
 
 def make_prerequisite_same():
-    path = "C:\\Users\\Bheki Lushaba\\course-data\\CourseData_Final\\Stellenbosch University.json"
+    path = "C:\\Users\\Bheki Lushaba\\course-data\\CourseData_Final\\University of Johannesburg.json"
 
-    with open(path, "r") as file1:
+    with open(path, "r", encoding="utf-8") as file1:
         data = json.load(file1)
 
         for item in data:
@@ -13,22 +13,23 @@ def make_prerequisite_same():
                 if len(item["Prerequisite"]) > 1:
                     item["Prerequisite"] = [{"$and": item["Prerequisite"]}]
 
-    with open(path, "w") as file2:
+    with open(path, "w", encoding="utf-8") as file2:
         json.dump(data, file2, indent=2)
 
 def standardize():
-    path = "C:\\Users\\Bheki Lushaba\\course-data\\CourseData_Final\\Stellenbosch University.json"
+    path = "C:\\Users\\Bheki Lushaba\\course-data\\CourseData_Final\\University of Johannesburg.json"
     
-    with open(path, "r") as file1:
+    with open(path, "r", encoding="utf-8") as file1:
         data = json.load(file1)
 
         for item in data:
             if "Prerequisite" in item and item["Prerequisite"]:
                 # If there is exactly one prerequisite, extract it from the list
-                if len(item["Prerequisite"]) == 1:
-                    item["Prerequisite"] = item["Prerequisite"][0]
+                if isinstance(item["Prerequisite"], list):
+                    if len(item["Prerequisite"]) == 1:
+                        item["Prerequisite"] = item["Prerequisite"][0]
 
-    with open(path, "w") as file2:
+    with open(path, "w", encoding="utf-8") as file2:
         json.dump(data, file2, indent=2)
 
 make_prerequisite_same()

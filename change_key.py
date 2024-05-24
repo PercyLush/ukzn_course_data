@@ -13,12 +13,12 @@ def replace_key_in_dict(obj, old_key, new_key):
 def update_course_prerequisites(courses, old_key, new_key):
     """ Process a list of course dictionaries to replace old_key with new_key in 'Prerequisite' """
     for course in courses:
-        if 'Prerequisite' in course:
-            course['Prerequisite'] = replace_key_in_dict(course['Prerequisite'], old_key, new_key)
+        if 'Corequisite' in course:
+            course['Corequisite'] = replace_key_in_dict(course['Corequisite'], old_key, new_key)
     return courses
 
 # Example data, some courses may not have 'Prerequisite'
-with open("C:\\Users\\Bheki Lushaba\\course-data\\CourseData_Final\\Stellenbosch University.json", "r", encoding="utf-8") as file1:
+with open("C:\\Users\\Bheki Lushaba\\course-data\\CourseData_Final\\University of the Witwatersrand.json", "r", encoding="utf-8") as file1:
     courses_data = json.load(file1)
 
 
@@ -30,5 +30,5 @@ with open("C:\\Users\\Bheki Lushaba\\course-data\\CourseData_Final\\Stellenbosch
     updated_courses = update_course_prerequisites(courses_data, old_key, new_key)
 
     # Print the updated course list
-with open("C:\\Users\\Bheki Lushaba\\course-data\\CourseData_Final\\Stellenbosch University.json", "w", encoding="utf-8") as file2:
+with open("C:\\Users\\Bheki Lushaba\\course-data\\CourseData_Final\\University of the Witwatersrand.json", "w", encoding="utf-8") as file2:
     json.dump(courses_data, file2, indent=2)
